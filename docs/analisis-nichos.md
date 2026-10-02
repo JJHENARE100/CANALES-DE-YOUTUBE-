@@ -102,9 +102,15 @@ sin decisiones humanas.
     otra persona.
   - Una voz IA genérica que narra un guion propio no está entre los casos que lo
     exigen.
-  - Aun así, **declaramos la voz IA en la descripción por transparencia**. Esto
-    cubre también el artículo 50 del Reglamento europeo de IA, aplicable desde el
-    2 de agosto de 2026.
+  - **Clonar tu propia voz para narrar tampoco exige la etiqueta.** La ayuda de
+    YouTube lo cita expresamente como caso que no hay que marcar. Es la opción
+    elegida.
+  - Aun así, **indicamos en la descripción que la narración es tu voz generada
+    con IA**, por transparencia. Esto cubre también el artículo 50 del Reglamento
+    europeo de IA, aplicable desde el 2 de agosto de 2026.
+  - **Que la voz suene humana no protege de un rechazo.** YouTube no penaliza la
+    voz IA; penaliza el contenido hecho en serie. Un canal con plantilla se
+    rechaza igual con una voz perfecta.
 
 **Consecuencia directa: quedan descartados** la salud, la psicología clínica, las
 finanzas y la política narradas por una voz IA. No por el RPM, sino porque son
@@ -207,7 +213,7 @@ en la revisión del 15 de noviembre (ver plan). Aun así, apunta al listón de
 | Guion genérico generado de una sola pasada | Guion construido sobre 3–5 fuentes citadas en la descripción, con revisión humana de hechos y fechas |
 | Misma plantilla y misma estructura en todos los vídeos | Cada episodio tiene su propio hilo narrativo; series con arco (por ejemplo «Un día en…», «La caída de…») |
 | Una imagen fija cada 30 s | Mapas, láminas de dominio público, ilustraciones IA con estilo propio y movimiento lento coherente |
-| Voz IA sin declarar | Voz IA declarada en la descripción; si alguna escena es realista e inventada, se marca como «contenido alterado o sintético» |
+| Voz genérica de catálogo, sin declarar | Tu propia voz clonada, que da identidad al narrador y no está en ningún otro canal, declarada en la descripción; si alguna escena es realista e inventada, se marca como «contenido alterado o sintético» |
 | Personaje IA que se presenta como historiador | Narrador sin identidad inventada; el canal no finge ser una persona experta |
 
 ### Probabilidad realista

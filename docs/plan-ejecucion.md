@@ -1,7 +1,7 @@
 # Plan de ejecución: del 2 de octubre de 2026 a la monetización
 
 Plan para el canal recomendado en [`analisis-nichos.md`](analisis-nichos.md):
-**historia para dormir en español**, con voz sintética, entre 10 y 20 h a la
+**historia para dormir en español**, narrado con tu voz clonada, entre 10 y 20 h a la
 semana. El objetivo es **solicitar el YPP el 10 de diciembre**. Fecha límite: 20
 de diciembre.
 
@@ -42,9 +42,16 @@ Para medir el ritmo en cada revisión hay una calculadora:
 4. **Identidad.** Logotipo, banner, plantilla de miniatura con margen para
    variarla, y una sección «Acerca de» que explique el método:
    > Guiones investigados a partir de fuentes citadas en cada vídeo. Narración con
-   > voz sintética. Revisión humana de cada episodio.
+   > mi voz, generada con IA. Revisión humana de cada episodio.
 5. **Herramientas.**
-   - Probar 2–3 voces en español con 5 minutos del mismo guion y elegir una.
+   - **Clonar tu voz.**
+     - Usar el clon profesional de ElevenLabs (planes Creator o Pro). El clon
+       instantáneo pierde naturalidad en narraciones de 2 h.
+     - Grabar 1–3 h de lectura limpia en el mismo tono que tendrán los episodios:
+       pausado y grave, en una habitación sin eco, con un micrófono decente y
+       siempre a la misma distancia.
+     - ElevenLabs pide verificar que la voz es tuya.
+     - Probar el clon con 5 minutos del primer guion antes de producir.
    - Fijar el estilo de imagen: un prompt base y una paleta.
    - Montar el proyecto plantilla en DaVinci Resolve.
 6. **Producir los episodios 1 y 2**, y sacar 6 Shorts de ellos.
@@ -68,7 +75,7 @@ Para medir el ritmo en cada revisión hay una calculadora:
 | Elegir tema y reunir 3–5 fuentes | 1,5 | Persona + Claude |
 | Guion de 12.000–17.000 palabras, por capítulos | 3 | Claude por capítulos, con las fuentes delante |
 | **Revisión humana de hechos**, ritmo y variación respecto a episodios anteriores | 2,5 | Persona |
-| Voz | 1 | ElevenLabs o similar, por capítulos |
+| Voz | 1 | Tu clon en ElevenLabs, por capítulos; volver a generar las frases con mala entonación |
 | Imágenes (150–250) | 3 | Láminas de dominio público, mapas, ilustraciones IA con el estilo fijado |
 | Montaje: movimiento lento, capítulos, música suave con licencia | 2 | DaVinci Resolve |
 | Miniatura, título, descripción con fuentes, capítulos | 1 | Persona |
@@ -79,7 +86,7 @@ Para medir el ritmo en cada revisión hay una calculadora:
 1. No se publica ningún guion sin la revisión humana.
 2. Ningún episodio reutiliza la estructura del anterior palabra por palabra.
 3. Las fuentes van en la descripción.
-4. La voz IA se declara en la descripción.
+4. La descripción indica que la narración es tu voz generada con IA.
 5. Una escena realista inventada lleva la etiqueta de contenido sintético.
 6. No se borra ni se pone en privado ningún vídeo con horas acumuladas.
 
@@ -124,7 +131,7 @@ Mezclan temas universales con otros de interés para España y Latinoamérica:
 | Partida | Normal | Ajustado |
 |---|---|---|
 | Claude Pro (guion) | 20 | 20 |
-| Voz: unos 380.000 caracteres al mes con 4 episodios | ElevenLabs Pro, 99 | Fish Audio Plus, ~15 |
+| Voz: unos 380.000 caracteres al mes con 4 episodios (con clon de tu voz) | ElevenLabs Pro, 99 | Fish Audio Plus, ~15 |
 | Imágenes: ~800 al mes | Midjourney Standard, 30 | Midjourney Basic + dominio público, 10 |
 | Montaje | DaVinci Resolve, 0 | 0 |
 | Investigación de títulos | vidIQ Boost, 17 | 0 |
@@ -158,4 +165,4 @@ incluye.
 - **IRPF, IVA y alta de autónomo en España** por los ingresos de YouTube: hay que
   consultarlo con un asesor fiscal antes del primer pago.
 - **Confirmar con un jurista si el artículo 50 del Reglamento europeo de IA se
-  aplica a una voz sintética genérica.** Mientras tanto, la declaramos siempre.
+  aplica a tu voz clonada.** Mientras tanto, la declaramos siempre.
