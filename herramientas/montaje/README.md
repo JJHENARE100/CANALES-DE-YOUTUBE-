@@ -78,6 +78,12 @@ gentle atmosphere, historical accuracy, no text, no watermark, 16:9
   PNG con el mismo nombre (si es PNG, cambia la extensión en el CSV).
 - **Si falta alguna**, el montaje repite la anterior del mismo capítulo y te avisa.
   Así puedes probar el vídeo con solo unas pocas imágenes.
+- **Canal de ciencia:** el `visual` empieza por `REAL:` o por `IA:`.
+  - `REAL:` es una foto real que hay que buscar en NASA, ESA o ESO por su
+    descripción. Comprueba la licencia y copia la atribución en la descripción
+    del vídeo.
+  - `IA:` es una descripción para tu generador de imágenes, como en el canal de
+    historia.
 - **Estilo pictórico, no fotográfico.** Con este estilo las imágenes no necesitan
   la etiqueta de contenido sintético. Si alguna parece una fotografía real de algo
   que no ocurrió, márcala como contenido alterado al subir el vídeo.

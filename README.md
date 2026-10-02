@@ -35,6 +35,7 @@ guion, grabarlo y generar las imágenes.
 | [`docs/analisis-nichos.md`](docs/analisis-nichos.md) | Reglas del YPP en 2026–2027, aritmética de horas, política de contenido no auténtico, comparativa puntuada de 10 nichos, recomendación, probabilidad realista y riesgos |
 | [`docs/plan-ejecucion.md`](docs/plan-ejecucion.md) | Calendario con puertas de decisión, semana 0, ritmo semanal, primeros episodios, presupuesto y lista previa a la solicitud |
 | [`guiones/`](guiones/) | Guiones de los episodios, con la lista de hechos que hay que comprobar, título, descripción e ideas para Shorts |
+| [`docs/canal-ciencia.md`](docs/canal-ciencia.md) | Canal de ciencia y espacio: formato, nombres, imágenes reales y calendario hasta el 24 de diciembre |
 | [`docs/grabacion.md`](docs/grabacion.md) | Cómo grabar con tu voz: material, ajustes y la palmada para marcar errores |
 | [`herramientas/montaje/`](herramientas/montaje/) | Exportar el guion, editar el audio y montar el vídeo 1080p con ffmpeg |
 | [`produccion/ep01/`](produccion/ep01/) | Versión para grabar y lista de planos con descripción de imagen del episodio 1 |
@@ -47,8 +48,8 @@ python3 herramientas/ritmo_ypp.py --horas 850 --subs 240 --minutos-por-visita 22
 ## Reglas del proyecto
 
 1. No se publica ningún guion sin revisión humana de los hechos.
-2. Las fuentes van en la descripción de cada episodio y se indica que la
-   narración es tu voz generada con IA.
+2. Las fuentes van en la descripción de cada episodio. Si la narración sale de
+   tu clon de voz, se indica que está generada con IA.
 3. Ningún personaje IA se presenta como experto, y no se tocan salud, finanzas,
    derecho ni política con voz IA.
 4. Nada de sub4sub, compra de visitas o bots.

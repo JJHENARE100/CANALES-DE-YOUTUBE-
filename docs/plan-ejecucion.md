@@ -162,7 +162,7 @@ incluye.
 
 ## 6. Lo que queda fuera de este plan
 
-- **Calendario editorial del canal de ciencia y espacio:** está pendiente de escribir, con el mismo formato que el de historia.
+- **Canal de ciencia y espacio:** formato, calendario e imágenes en [`canal-ciencia.md`](canal-ciencia.md).
 - **IRPF, IVA y alta de autónomo en España** por los ingresos de YouTube: hay que
   consultarlo con un asesor fiscal antes del primer pago.
 - **Confirmar con un jurista si el artículo 50 del Reglamento europeo de IA se
