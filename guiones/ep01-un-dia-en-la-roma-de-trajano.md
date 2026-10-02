@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Estado** | Borrador para revisión humana: comprobar la lista de §B antes de generar la voz |
-| **Extensión** | ~7.100 palabras de narración y 55 pausas ≈ 60–65 min a ritmo pausado (115–125 palabras/min). Para llegar a 90–120 min, ver §F |
+| **Extensión** | ~7.100 palabras de narración y 55 pausas ≈ 60–65 min a ritmo pausado (115–125 palabras/min). Para llegar a 90–120 min, ver §E |
 | **Ambientación** | Roma, un día de octubre del año 112 d. C., durante el reinado de Trajano |
 | **Narración** | Tu voz clonada; segunda persona («tú»), presente, tono bajo y sin sobresaltos |
 
@@ -104,7 +104,7 @@ colores cálidos. Texto corto: «ROMA, AÑO 112».
 
 ---
 
-## F. Cómo alargarlo a 90–120 minutos
+## E. Cómo alargarlo a 90–120 minutos
 
 El plan pide episodios de 90–150 min, porque cuantos más minutos ve cada
 espectador, antes se llega a las 4.000 h. Hay dos opciones:
@@ -119,7 +119,7 @@ espectador, antes se llega a las 4.000 h. Hay dos opciones:
    como hacen otros canales del formato. **No recomendado:** es contenido
    repetido, justo lo que la política de contenido no auténtico penaliza.
 
-## E. Guion
+## F. Guion
 
 ### Bienvenida
 
