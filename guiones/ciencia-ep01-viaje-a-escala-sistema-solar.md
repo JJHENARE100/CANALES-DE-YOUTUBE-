@@ -7,6 +7,8 @@
 | **Extensión** | ~5.700 palabras en 13 capítulos más la bienvenida ≈ 48–52 min leído con calma. Si se quiere más largo, hay tres capítulos candidatos: los cometas, la heliosfera y el futuro del Sol |
 | **Idea central** | Una maqueta: el Sol es una esfera de un metro y recorremos a pie el sistema solar a esa escala, hasta la sonda que el 18 de noviembre de 2026 estará a un día-luz de la Tierra |
 | **Narración** | Tu voz; segunda persona, presente, tono tranquilo. Guía: [`../docs/grabacion.md`](../docs/grabacion.md) |
+| **Promesa al espectador** | Hacer imaginable el tamaño real del sistema solar con una maqueta en la que el Sol mide un metro. |
+| **Pregunta central** | ¿Qué tan grande es realmente el sistema solar? |
 
 ## A. Notas para producir
 
@@ -94,6 +96,21 @@ punto azul. Texto: «SI EL SOL MIDIERA 1 METRO».
 
 Ciencia tranquila: sin música épica, sin «¡increíble!», sin cuentas atrás. Las
 cifras se redondean y se traducen a la maqueta. Ninguna cifra sin fuente en §B.
+
+## Control de publicación
+
+Rellenar antes de publicar; se archiva con el expediente del episodio.
+
+- [ ] Hechos de §B comprobados, sobre todo los ⚠️, anotando la fuente consultada. Revisor: ______ · Fecha: ______
+- [ ] Las ilustraciones IA de conceptos (maqueta, nave, canica) se distinguen de las fotos reales: rótulo «Ilustración» o «Recreación artística» en pantalla cuando pueda confundirse con una observación real
+- [ ] Pronunciación revisada (lista de §A)
+- [ ] Voz: ☐ humana ☐ clon. Si es clon, va declarado en la descripción
+- [ ] `planos.csv` con fuente, licencia y atribución en todas las imágenes reales, y `creditos.txt` pegado en la descripción
+- [ ] Música con licencia (Biblioteca de audio de YouTube) y su atribución, si la pide
+- [ ] Duración del vídeo por debajo de 120 min (doblaje automático)
+- [ ] Dos variantes de título y miniatura en «Probar y comparar» de YouTube Studio
+- [ ] Pantalla final hacia **un** solo vídeo siguiente, y comentario fijado con el mismo enlace
+- [ ] Expediente guardado: guion, audio bruto, proyecto, imágenes, licencias y vídeo final
 
 ## F. Guion
 

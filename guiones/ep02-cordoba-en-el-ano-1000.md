@@ -6,6 +6,8 @@
 | **Extensión** | 10.931 palabras en 14 capítulos más la bienvenida, con 90 pausas ≈ 91–99 min leído a ritmo pausado (110–120 palabras/min) |
 | **Ambientación** | Córdoba, un día de octubre del año 1000 (finales del año 390 de la Hégira), con Hisham II como califa y Almanzor como hayib |
 | **Narración** | Tu voz grabada (o clonada); segunda persona («tú»), presente, tono bajo y sin sobresaltos. Guía de grabación: [`../docs/grabacion.md`](../docs/grabacion.md) |
+| **Promesa al espectador** | Pasar un día corriente en la Córdoba de Almanzor, entonces una de las mayores ciudades de Europa. |
+| **Pregunta central** | ¿Cómo se vivía un día normal en la Córdoba del año 1000? |
 
 ## A. Notas para producir
 
@@ -174,6 +176,21 @@ Se dejan fuera a propósito las campañas militares (solo se mencionan con calma
 la guerra civil que empezó en 1009 y arruinó Medina Azahara y Medina Alzahira,
 porque rompe el tono para dormir. Las cifras dudosas de las crónicas (habitantes,
 libros, baños) se dan siempre como estimaciones o como exageraciones probables.
+
+## Control de publicación
+
+Rellenar antes de publicar; se archiva con el expediente del episodio.
+
+- [ ] Hechos de §B comprobados, sobre todo los ⚠️, anotando la fuente consultada. Revisor: ______ · Fecha: ______
+- [ ] La descripción dice que la familia y las personas corrientes que acompañamos son una **recreación**, y que los lugares, costumbres y datos están documentados (§B)
+- [ ] Pronunciación revisada (lista de §A)
+- [ ] Voz: ☐ humana ☐ clon. Si es clon, va declarado en la descripción
+- [ ] `planos.csv` con fuente, licencia y atribución en todas las imágenes reales, y `creditos.txt` pegado en la descripción
+- [ ] Música con licencia (Biblioteca de audio de YouTube) y su atribución, si la pide
+- [ ] Duración del vídeo por debajo de 120 min (doblaje automático)
+- [ ] Dos variantes de título y miniatura en «Probar y comparar» de YouTube Studio
+- [ ] Pantalla final hacia **un** solo vídeo siguiente, y comentario fijado con el mismo enlace
+- [ ] Expediente guardado: guion, audio bruto, proyecto, imágenes, licencias y vídeo final
 
 ## F. Guion
 

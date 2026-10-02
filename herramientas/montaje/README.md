@@ -51,6 +51,7 @@ python herramientas/montaje/audio.py --entrada grabaciones/ep01 --salida producc
 ```
 
 - **Si hay ruido de fondo**, añade `--limpiar`.
+- **Si grabaste con claqueta** («episodio 1, capítulo 3, toma 1» y 2 s de silencio), añade `--claqueta`.
 - **Revisa `informe.txt`.** Comprueba en Audacity las retomas que se hayan
   cortado: el informe da el segundo exacto de cada corte.
 - **Si alguna palmada no se detecta**, prueba con `--palmada-db -10`. Si se borra
@@ -88,6 +89,18 @@ gentle atmosphere, historical accuracy, no text, no watermark, 16:9
   la etiqueta de contenido sintético. Si alguna parece una fotografía real de algo
   que no ocurrió, márcala como contenido alterado al subir el vídeo.
 
+### Derechos de cada imagen (obligatorio)
+
+- **Qué rellenar:** en `planos.csv`, cada imagen real lleva `fuente`, `licencia`,
+  `atribucion` y `url`. Por ejemplo: NASA · dominio público (guía de medios de
+  la NASA) · «NASA/JPL-Caltech» · enlace a la página de la imagen.
+- **Si falta algo, `video.py` se detiene.** Con `--borrador` monta igualmente para
+  pruebas, pero ese vídeo no se publica.
+- **Créditos:** siempre se genera `creditos.txt`; pégalo en la descripción.
+- **Movimiento de cámara:** la columna `movimiento` lo fija para un plano
+  (acercar, alejar, derecha, izquierda, subir, bajar o fijo). Si se deja vacía,
+  se elige uno variado sin repetir el anterior.
+
 ### 5. Música (opcional)
 
 Descarga una pista tranquila de la **Biblioteca de audio de YouTube** (YouTube
@@ -97,11 +110,16 @@ sin atribución obligatoria, o copia la atribución en la descripción.
 ### 6. Montar el vídeo
 
 ```
-python herramientas/montaje/video.py --carpeta produccion/ep01 --imagenes produccion/ep01/imagenes --musica musica/ambiente.mp3 --fuente "C:/Windows/Fonts/georgia.ttf"
+python herramientas/montaje/video.py --carpeta produccion/ep01 --imagenes produccion/ep01/imagenes --musica musica/ambiente.mp3 --tipografia "C:/Windows/Fonts/georgia.ttf" --pantalla-final 20
 ```
 
-- **Títulos de capítulo:** `--fuente` los rotula al empezar cada capítulo; sin
+- **Títulos de capítulo:** `--tipografia` los rotula al empezar cada capítulo; sin
   ella no se rotulan. En Mac puedes usar `/System/Library/Fonts/Supplemental/Georgia.ttf`.
+- **Pantalla final:** `--pantalla-final 20` añade 20 s finales con la imagen
+  oscurecida y música, para poner encima los elementos de pantalla final de
+  YouTube.
+- **Aviso de duración:** si el vídeo pasa de 119,5 min, el montaje avisa de que
+  perderá el doblaje automático.
 - **Volumen de la música:** `--vol-musica` (−24 dB por defecto). Para que suene
   más baja, usa −28.
 - **Tiempo de render:** en este entorno de prueba salió a unas 3 veces tiempo

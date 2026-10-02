@@ -7,6 +7,8 @@
 | **Extensión** | 6.951 palabras en 13 capítulos más la bienvenida ≈ 58–63 min leído con calma (110–120 palabras/min), sin contar las pausas. Si hay que acortar, los capítulos 6 (Cygnus X-1) y 9 (espaguetización) son los más prescindibles |
 | **Idea central** | Un viaje lento y seguro en una nave imaginaria: salimos de casa con una canica en la mano (la Tierra convertida en agujero negro) y vamos al agujero negro más cercano que conocemos, Gaia BH1; desde allí, al centro de la galaxia, y de vuelta a la ventana |
 | **Narración** | Tu voz; segunda persona, presente, tono tranquilo. Guía: [`../docs/grabacion.md`](../docs/grabacion.md) |
+| **Promesa al espectador** | Entender qué es un agujero negro, con la Tierra hecha canica como punto de partida. |
+| **Pregunta central** | ¿Qué pasaría si la Tierra se convirtiera en un agujero negro, y qué sabemos de verdad de ellos? |
 
 ## A. Notas para producir
 
@@ -139,6 +141,21 @@ lejos y casi todo en ellos ocurre despacio. Las cifras se redondean y se traduce
 objetos (la canica, el barrio, la autopista, la maqueta del episodio 1). Ninguna
 cifra sin fuente en §B. Cuando algo no se sabe (el interior, la radiación de
 Hawking), se dice así, sin dramatizar.
+
+## Control de publicación
+
+Rellenar antes de publicar; se archiva con el expediente del episodio.
+
+- [ ] Hechos de §B comprobados, sobre todo los ⚠️, anotando la fuente consultada. Revisor: ______ · Fecha: ______
+- [ ] Las ilustraciones IA de conceptos (maqueta, nave, canica) se distinguen de las fotos reales: rótulo «Ilustración» o «Recreación artística» en pantalla cuando pueda confundirse con una observación real
+- [ ] Pronunciación revisada (lista de §A)
+- [ ] Voz: ☐ humana ☐ clon. Si es clon, va declarado en la descripción
+- [ ] `planos.csv` con fuente, licencia y atribución en todas las imágenes reales, y `creditos.txt` pegado en la descripción
+- [ ] Música con licencia (Biblioteca de audio de YouTube) y su atribución, si la pide
+- [ ] Duración del vídeo por debajo de 120 min (doblaje automático)
+- [ ] Dos variantes de título y miniatura en «Probar y comparar» de YouTube Studio
+- [ ] Pantalla final hacia **un** solo vídeo siguiente, y comentario fijado con el mismo enlace
+- [ ] Expediente guardado: guion, audio bruto, proyecto, imágenes, licencias y vídeo final
 
 ## F. Guion
 

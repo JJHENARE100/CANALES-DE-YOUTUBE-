@@ -89,6 +89,11 @@ No se monetiza:
 3. **Personajes de IA que se presentan como expertos** en salud, derecho,
    finanzas o política, sea cual sea la calidad del consejo.
 
+**Copyright y monetización son cosas distintas.** Tener licencia para usar una
+imagen o un clip no basta para monetizar: la política de contenido reutilizado
+exige comentario original, transformación sustancial o un valor educativo
+claramente añadido.
+
 **Usar IA y voz sintética está permitido.** Lo que se juzga es el vídeo
 terminado: guion propio e investigado, narrativa, edición con variación real
 entre vídeos. Lo que se rechaza es la cadena «guion de IA → TTS → stock → subir»
@@ -223,9 +228,18 @@ en la revisión del 15 de noviembre (ver plan). Aun así, apunta al listón de
   meses** en llegar y el 25% más rápido, menos de 8,5
   ([vidIQ](https://vidiq.com/research/youtube-subscriber-benchmarks-2026/)).
 - **Hacerlo en unos 70 días útiles es un resultado del percentil alto.**
-- **Estimación propia, no es un dato:** con un formato de muchas horas por visita
-  y buena ejecución, la probabilidad está en torno a **1 de cada 4 o 5**. Con un
-  formato de vídeos cortos, por debajo de 1 de cada 10.
+- **Escenarios, en lugar de una probabilidad** (revisado tras la auditoría del 2
+  de octubre). Se deciden con las métricas reales del canal, que mide
+  `herramientas/ritmo_ypp.py`:
+  - **Base:** un canal monetizado antes del cambio de febrero. Exige que el 2 de
+    noviembre el canal principal lleve al menos el 50% de la trayectoria lineal y
+    el 16 de noviembre al menos el 75%.
+  - **Optimista:** los dos canales monetizados. Solo se mantiene si el 20 de
+    octubre los dos pilotos demuestran a la vez suscriptores, horas por
+    impresión y un coste de producción compatibles con su propia trayectoria.
+  - **Pesimista:** ninguno llega antes del 10 de diciembre. Se sigue hacia el
+    nivel de *fan funding* (500 suscriptores y 3.000 h) y hacia las 8.000 h, con
+    el catálogo ya hecho.
 - **Si no se llega, el trabajo no se pierde.** El canal sigue sumando hacia las
   8.000 h y probablemente alcanza antes el nivel de *fan funding* (500 subs +
   3.000 h), que no cambia.
@@ -235,7 +249,7 @@ en la revisión del 15 de noviembre (ver plan). Aun así, apunta al listón de
 | Riesgo | Mitigación |
 |---|---|
 | Rechazo por contenido no auténtico | Las reglas de §5. Revisar el canal como lo haría un revisor antes de solicitar (lista en el plan). Mantener publicados los vídeos más vistos y los más recientes en su mejor versión. |
-| Rechazo en enero, sin tiempo para volver a solicitar | Solicitar como muy tarde el 20 de diciembre. Ante un rechazo, **apelar** (21 días) en lugar de esperar 30. |
+| Rechazo en enero, sin tiempo para volver a solicitar | Solicitar entre el 30 de noviembre y, como muy tarde, el 10 de diciembre. Ante un rechazo, **apelar** (21 días) en lugar de esperar 30. |
 | La solicitud sigue pendiente el 1 de febrero | No hay regla publicada. Solo se mitiga solicitando antes. |
 | Faltan suscriptores aunque sobren horas | 3–5 Shorts semanales desde la semana 1, con llamada a un episodio completo. |
 | Errores históricos | Revisión humana de nombres, fechas y cifras contra las fuentes antes de generar la voz. |

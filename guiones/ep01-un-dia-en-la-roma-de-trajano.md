@@ -6,6 +6,8 @@
 | **Extensión** | ~10.300 palabras en 14 capítulos, con 84 pausas ≈ 85–95 min leído a ritmo pausado (110–120 palabras/min) |
 | **Ambientación** | Roma, un día de octubre del año 112 d. C., durante el reinado de Trajano |
 | **Narración** | Tu voz grabada (o clonada); segunda persona («tú»), presente, tono bajo y sin sobresaltos. Guía de grabación: [`../docs/grabacion.md`](../docs/grabacion.md) |
+| **Promesa al espectador** | Pasar un día corriente en la Roma del emperador nacido en Hispania, del alba a la noche. |
+| **Pregunta central** | ¿Cómo era la vida diaria de la gente normal en la Roma del año 112? |
 
 ## A. Notas para producir
 
@@ -126,6 +128,21 @@ colores cálidos. Texto corto: «ROMA, AÑO 112».
 Ampliado de 10 a 14 capítulos. Se han añadido el agua, el río y el puerto, las
 mujeres y el Circo Máximo. El incendio se descartó porque rompe el tono para
 dormir. No se repite narración para alargar el vídeo: sería contenido repetido.
+
+## Control de publicación
+
+Rellenar antes de publicar; se archiva con el expediente del episodio.
+
+- [ ] Hechos de §B comprobados, sobre todo los ⚠️, anotando la fuente consultada. Revisor: ______ · Fecha: ______
+- [ ] La descripción dice que la familia y las personas corrientes que acompañamos son una **recreación**, y que los lugares, costumbres y datos están documentados (§B)
+- [ ] Pronunciación revisada (lista de §A)
+- [ ] Voz: ☐ humana ☐ clon. Si es clon, va declarado en la descripción
+- [ ] `planos.csv` con fuente, licencia y atribución en todas las imágenes reales, y `creditos.txt` pegado en la descripción
+- [ ] Música con licencia (Biblioteca de audio de YouTube) y su atribución, si la pide
+- [ ] Duración del vídeo por debajo de 120 min (doblaje automático)
+- [ ] Dos variantes de título y miniatura en «Probar y comparar» de YouTube Studio
+- [ ] Pantalla final hacia **un** solo vídeo siguiente, y comentario fijado con el mismo enlace
+- [ ] Expediente guardado: guion, audio bruto, proyecto, imágenes, licencias y vídeo final
 
 ## F. Guion
 

@@ -74,6 +74,21 @@ tiempos, para que puedas comprobarlos en Audacity si algo suena raro.
 - Hacer una pausa de más de un segundo a mitad de un párrafo. El montaje la
   tomaría por el final del párrafo y solo borraría desde ahí.
 
+## Claqueta y expediente
+
+- **Claqueta hablada:** al empezar cada archivo, di «episodio 1, capítulo 3,
+  toma 1», quédate **2 segundos en silencio** y empieza a leer. El montaje la
+  quita con la opción `--claqueta`. Así cada archivo se identifica solo.
+- **Guarda siempre el audio bruto**, el proyecto de Audacity y la exportación
+  final de cada episodio. Son la prueba de autoría si YouTube revisa el canal o
+  alguien reclama un vídeo.
+- **Clon de voz:**
+  - Para entrenarlo, usa una muestra concreta (puede ser la grabación del episodio
+    1) y guarda cuál fue.
+  - Guarda un documento con la fecha, el proveedor (por ejemplo ElevenLabs), el
+    plan contratado (con licencia comercial) y tu consentimiento por escrito.
+  - Nunca se clona la voz de otra persona.
+
 ## Qué hacer con los archivos
 
 Copia los 15 archivos (`cap00`–`cap14`) en una carpeta, por ejemplo

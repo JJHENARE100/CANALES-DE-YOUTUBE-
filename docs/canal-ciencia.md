@@ -7,7 +7,8 @@ historia, pero más lento sumando horas.
 
 ## Formato
 
-- **Documentales tranquilos de 45–90 min**, en español, narrados con tu voz.
+- **Documentales tranquilos de 45–70 min** de entrada, en español, narrados con tu voz.
+  Solo se pasa a 80–90 min si la retención lo justifica.
   Sirven para escuchar con calma o para dormirse. El tono es el del canal de
   historia, pero el tema es otro y en las imágenes predomina la foto real.
 - **Cada episodio se construye sobre una idea** que hace imaginables las cifras.
@@ -21,8 +22,8 @@ historia, pero más lento sumando horas.
 
 | | Historia | Ciencia y espacio |
 |---|---|---|
-| Duración | 90–150 min | 45–90 min |
-| Imágenes | Ilustración IA de estilo pictórico | **Fotos reales de NASA, ESA y ESO** con atribución, más ilustraciones IA para las comparaciones |
+| Duración | 90–119 min (el doblaje automático no funciona a partir de 120) | 45–70 min de entrada |
+| Imágenes | Ilustración IA de estilo pictórico | **Fotos reales** (sobre todo NASA y ESO), con su licencia y atribución en `planos.csv`, más ilustraciones IA para las comparaciones |
 | Público | Dormir | Escuchar con calma o dormir |
 | RPM esperado | Más bajo | Más alto: la categoría Educación y Ciencia tiene la mediana más alta en los datos de AIR |
 
@@ -30,10 +31,26 @@ historia, pero más lento sumando horas.
 - **NASA:** la mayoría de sus imágenes se pueden usar con atribución («NASA/JPL-Caltech»).
   No se pueden usar sus logotipos ni sugerir que la NASA respalda el canal, y
   algunas imágenes tienen derechos de terceros.
-- **ESA y ESO:** publican muchas imágenes con licencia Creative Commons
-  (CC BY 4.0) con atribución.
-- **En todos los casos:** comprueba la licencia de cada imagen antes de usarla y
-  copia la atribución en la descripción.
+- **ESO:** sus imágenes llevan licencia CC BY 4.0, que permite el uso comercial
+  con atribución («ESO/…»).
+- **ESA:** cuidado, corregido el 2 de octubre. La fototeca de ESA solo permite
+  usos educativos, editoriales o informativos y excluye el uso comercial sin
+  licencia específica. Solo se pueden usar las imágenes marcadas expresamente con
+  **CC BY-SA 3.0 IGO**, con crédito, enlace a la licencia y sin sugerir respaldo
+  de ESA ([condiciones](https://open.esa.int/image-usage-creative-commons/)).
+  Esa licencia obliga además a compartir igual cualquier versión modificada, así
+  que si hay duda se prefiere NASA o ESO.
+- **Wikimedia Commons:** se revisa la ficha de cada archivo (autor, licencia,
+  atribución y si obliga a compartir igual) y se anota en `planos.csv`.
+- **En todos los casos:** cada imagen real lleva fuente, licencia, atribución y
+  URL en `planos.csv`. El montaje se detiene si falta alguna y genera
+  `creditos.txt` para la descripción.
+- **Tres tipos de imagen, que no se deben confundir:**
+  - **observación real:** una foto de una sonda o de un telescopio;
+  - **visualización científica o ilustración artística de una agencia:** se
+    rotula como «Ilustración» si puede confundirse con una foto;
+  - **imagen generada con IA:** nunca debe parecer una observación real. Si
+    puede confundirse, se marca como contenido alterado o sintético.
 
 ## Nombre (comprobar que está libre en YouTube y en redes)
 

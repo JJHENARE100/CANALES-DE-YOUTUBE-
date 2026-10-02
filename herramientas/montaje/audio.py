@@ -62,7 +62,25 @@ def analizar(x: np.ndarray):
     return rms_db, pico_db, rms_db < umbral, umbral
 
 
+def quitar_claqueta(x: np.ndarray, nombre: str, informe: list[str]) -> np.ndarray:
+    """Quita la identificación hablada del principio («episodio 1, capítulo 3, toma 1»).
+
+    Busca, en los primeros 20 s, el primer silencio de 2 s o más que siga a algo de
+    voz, y corta todo lo anterior.
+    """
+    _, _, silencio, _ = analizar(x)
+    limite = int(20 * SR / FRAME)
+    for a, b in tramos(silencio):
+        if a > 0 and a < limite and (b - a) * FRAME / SR >= 2.0:
+            informe.append(f"{nombre}: claqueta quitada (primeros {b * FRAME / SR:.1f} s)")
+            return x[b * FRAME:]
+    informe.append(f"{nombre}: ⚠️ no se encontró la pausa de 2 s tras la claqueta; no se ha cortado nada")
+    return x
+
+
 def editar(x: np.ndarray, args, nombre: str, informe: list[str]) -> np.ndarray:
+    if args.claqueta:
+        x = quitar_claqueta(x, nombre, informe)
     rms_db, pico_db, silencio, umbral = analizar(x)
     sonido = tramos(~silencio)
     silencios = tramos(silencio)
@@ -137,6 +155,8 @@ def main() -> None:
     p.add_argument("--salida", type=Path, required=True)
     p.add_argument("--guion", type=Path, help="guion maestro, para poner nombre a los capítulos")
     p.add_argument("--limpiar", action="store_true", help="reducción suave de ruido de fondo")
+    p.add_argument("--claqueta", action="store_true",
+                   help="cada archivo empieza con una identificación hablada seguida de 2 s de silencio; se elimina")
     p.add_argument("--pausa-max", type=float, default=2.6, help="duración máxima de una pausa (s)")
     p.add_argument("--pausa-parrafo", type=float, default=0.9, help="pausa mínima entre párrafos (s)")
     p.add_argument("--palmada-db", type=float, default=-6, help="pico mínimo de una palmada (dBFS)")

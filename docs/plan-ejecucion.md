@@ -2,23 +2,40 @@
 
 Plan para los dos canales con más tirón según [`analisis-nichos.md`](analisis-nichos.md):
 **historia para dormir** y **ciencia y espacio**, en español, narrados con tu voz,
-entre 10 y 20 h a la semana. El calendario sirve para los dos canales; cada uno se
-mide por separado. El objetivo es **solicitar el YPP el 10 de diciembre**. Fecha límite: 20
-de diciembre.
+entre 10 y 20 h a la semana. Cada canal se mide por separado.
 
-## Hitos y puertas de decisión
+**Revisado el 2 de octubre tras la [auditoría externa](auditoria-externa-2026-10-02.md)
+([respuesta](respuesta-auditoria.md)):**
+- Los dos canales arrancan como **pilotos** y el **20 de octubre** se elige el
+  canal principal, que se lleva el 70–80% del tiempo.
+- La solicitud del YPP se hace **entre el 30 de noviembre y el 10 de diciembre**.
+  El 15 de enero es la fecha de aceptación, no la de solicitud.
+- Escenario base: **monetizar un canal antes del cambio de febrero**. Los dos a
+  la vez es el escenario optimista, no el que se planifica.
 
-| Fecha | Hito | Mínimo para ir «en ritmo» | Si no se cumple |
+## Hitos y puertas de decisión (calendario de monetización)
+
+El calendario editorial (qué se publica cada semana) está más abajo y en
+[`canal-ciencia.md`](canal-ciencia.md). Esta tabla es el calendario de
+monetización: qué se mide y qué se decide.
+
+| Fecha | Hito | Qué se mide | Decisión |
 |---|---|---|---|
-| 11 oct | Canal listo y 2 episodios terminados | Cuenta con verificación en dos pasos y funciones avanzadas, identidad visual, 2 episodios y 6 Shorts | Retrasar el lanzamiento como máximo una semana; nunca publicar sin colchón |
-| 12 oct | **Lanzamiento** | 2 episodios publicados el mismo día, más Shorts | — |
-| 1 nov | Primera lectura | ≥ 250 h, ≥ 80 suscriptores, 1 vídeo con > 1.000 visitas, visionado medio ≥ 20 min | Cambiar miniaturas, títulos y los 2 primeros minutos. **No cambiar de nicho** |
-| 15 nov | **Puerta principal** | ≥ 1.000 h, ≥ 300 suscriptores | Si un canal va claramente por detrás del otro, pasarle al que va en ritmo la mayor parte de las horas de la semana |
-| 1 dic | Recta final | ≥ 2.500 h, ≥ 650 suscriptores | Subir el ritmo de Shorts hasta uno diario |
-| **10 dic** | **Solicitar el YPP** | 4.000 h + 1.000 suscriptores, y la lista de §5 completa | Seguir publicando y solicitar en cuanto se cumpla |
-| 20 dic | Fecha límite para solicitar | — | A partir de aquí el objetivo pasa a ser el nivel de *fan funding* y las 8.000 h |
-| ~10–15 ene | Respuesta (unas 4 semanas) | Aceptado | **Apelar el mismo día** (hay 21 días; la respuesta llega en unos 14). No esperar 30 días |
-| 31 ene | Aceptar los nuevos términos del YPP en Studio | Hecho | Sin aceptarlos se deja de cobrar desde el 1 de febrero |
+| 11 oct | Cuentas listas y 2 episodios por canal terminados | Verificación en dos pasos, funciones avanzadas, AdSense, identidad visual | Retrasar como máximo una semana; nunca publicar sin colchón |
+| 12–22 oct | **Pilotos**: 2 episodios largos por canal (historia: 12 y 19; ciencia: 15 y 22), 4–6 Shorts por episodio y 2 familias de título y miniatura por canal | Por vídeo: impresiones, CTR, duración media vista, horas por 1.000 impresiones, suscriptores por 1.000 visualizaciones, fuente de tráfico, espectadores que vuelven | — |
+| **20 oct** | **Puerta 1: elegir canal principal** | Puntuación relativa: 35% horas por 1.000 impresiones; 25% suscriptores por 1.000 visualizaciones; 20% duración media y curva de retención; 10% CTR por fuente; 10% horas de tu tiempo por cada hora pública conseguida | El ganador recibe el 70–80% del tiempo: 2 episodios por semana y 6–10 Shorts. El otro pasa a 1 episodio quincenal, o semanal si mantiene su propia trayectoria. Si ninguno arranca, no se escala: se rehacen promesa, miniatura, apertura y temas |
+| 2 nov | Control | Trayectoria del principal ≥ 50% de la lineal hacia 4.000 h y 1.000 suscriptores, proyectada con la velocidad de los últimos 7 y 14 días | Si no llega, concentrar aún más |
+| 16 nov | Control | Trayectoria ≥ 75% | Empezar la auditoría del canal (§5): derechos, AdSense y vídeos marginales |
+| **30 nov** | **Solicitar el YPP** si ya se cumple | 4.000 h públicas válidas y 1.000 suscriptores | Solicitar ese mismo día |
+| **10 dic** | **Última fecha razonable para solicitar** | — | Solicitar si ya se cumple. No añadir contenido dudoso para llegar |
+| ~1–15 ene | Respuesta (alrededor de un mes, a veces más) | Aceptado | Si llega un rechazo, **apelar el mismo día** (hay 21 días y la respuesta tarda unos 14). Volver a solicitar exige esperar 30 días, que ya caerían después del 1 de febrero |
+| 15 ene | Objetivo de **aceptación** | — | Si sigue en revisión, seguir publicando contenido original |
+| 31 ene | Aceptar los nuevos términos del YPP en Studio | — | Sin aceptarlos se deja de cobrar desde el 1 de febrero |
+
+Si no se llega a tiempo, el canal sigue hacia el nivel de *fan funding*: 500
+suscriptores, 3 vídeos públicos en 90 días y 3.000 h. Ese nivel da membresías y
+Super Thanks, pero no anuncios, y sus requisitos no cambian en febrero. Para los
+anuncios, a partir de febrero harán falta 8.000 h.
 
 Para medir el ritmo en cada revisión hay una calculadora:
 [`../herramientas/ritmo_ypp.py`](../herramientas/ritmo_ypp.py).
@@ -61,7 +78,7 @@ Para medir el ritmo en cada revisión hay una calculadora:
 
 **Cada semana se publica:**
 
-- **1 episodio de 90–150 minutos.** Va como *estreno*, siempre el mismo día y a
+- **1 episodio de 90–119 minutos** (a partir de 120 no hay doblaje automático). Va como *estreno*, siempre el mismo día y a
   la misma hora, a primera hora de la noche en España, que es tarde en
   Latinoamérica.
 - **3–5 Shorts de 30–60 s** sacados del episodio, cada uno con el enlace
@@ -148,21 +165,43 @@ Precios de octubre de 2026, que pueden cambiar:
 la licencia comercial de cada herramienta: el plan gratuito de ElevenLabs no la
 incluye.
 
-## 5. Lista previa a la solicitud (hacer el 8–9 de diciembre)
+## 5. Auditoría del canal antes de solicitar (desde el 16 de noviembre)
 
 - [ ] 1.000 suscriptores y 4.000 h públicas en los últimos 365 días (Studio → Ingresos)
 - [ ] Verificación en dos pasos activa, funciones avanzadas activas y ningún aviso de Normas de la Comunidad
 - [ ] AdSense para YouTube vinculado y W-8BEN enviado
 - [ ] Revisar como lo haría un revisor: los 5 vídeos más vistos, los 5 más recientes y los que más tiempo de visualización aportan
-  - [ ] Cada uno tiene guion propio, fuentes en la descripción y voz IA declarada
+  - [ ] Cada uno tiene guion propio y fuentes en la descripción. La voz es humana o, si es tu clon, está declarada
+  - [ ] Cada vídeo tiene su manifiesto de imágenes (`creditos.txt`), con fuente y licencia de cada imagen real
+  - [ ] Ningún contenido reutilizado sin comentario o transformación propia
   - [ ] Ninguno es intercambiable con otro
   - [ ] Ninguno lleva escenas realistas inventadas sin etiquetar
 - [ ] «Acerca de» con el método
 - [ ] Títulos y miniaturas sin promesas falsas
-- [ ] Ningún vídeo con horas puesto en privado o borrado
+- [ ] Ningún vídeo con horas puesto en privado o borrado para manipular métricas. Sí se retira o corrige lo que tenga riesgo de política, de copyright o de autenticidad, aunque sus horas dejen de contar
 - [ ] Anotar la fecha de solicitud en el calendario para poder apelar en 21 días si llega un rechazo
 
-## 6. Lo que queda fuera de este plan
+## 6. Modelo de negocio
+
+El proyecto se plantea como una **cartera de propiedad intelectual editorial**
+(guiones, voz, catálogo), no como arbitraje de anuncios con vídeos automáticos.
+
+- **Anuncios:** a partir de 8 minutos se pueden poner anuncios a mitad del vídeo.
+  YouTube da al creador el 55% de los ingresos netos de los anuncios de la página
+  del vídeo.
+- **YouTube Premium:** se reparte según el tiempo que los miembros pasan viendo
+  tu contenido, incluida la reproducción en segundo plano, que es frecuente en
+  vídeos para dormir.
+- **Las cuentas de cada canal** se hacen con datos reales, no con estimaciones:
+  - Ingresos al mes = visualizaciones monetizadas / 1.000 × RPM real del canal.
+  - Margen = ingresos − (guion + voz + imágenes + software + horas de revisión).
+  - Recuperación = inversión acumulada / margen mensual.
+- **Segunda fuente de ingresos**, solo cuando haya audiencia demostrada y nunca
+  dentro de las previsiones anteriores al YPP:
+  - Ciencia: afiliación de astronomía (telescopios, libros) y patrocinios.
+  - Historia: membresías y un catálogo de audio.
+
+## 7. Lo que queda fuera de este plan
 
 - **Canal de ciencia y espacio:** formato, calendario e imágenes en [`canal-ciencia.md`](canal-ciencia.md).
 - **IRPF, IVA y alta de autónomo en España** por los ingresos de YouTube: hay que

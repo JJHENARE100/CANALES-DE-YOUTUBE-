@@ -124,7 +124,22 @@ columnas cuentan solo los recientes.
   5. **Recursos propios:** la maqueta del Sol de un metro y la Tierra hecha
      canica son ideas que vertebran el canal y que nadie más usa.
 
+## Lo que esta medición no permite saber (auditoría del 2 de octubre)
+
+- **Faltan datos de los resultados:** el tamaño de cada canal, su frecuencia de
+  publicación, los comentarios por 1.000 visualizaciones y el formato de
+  miniatura.
+- **No separa la demanda de búsqueda de la de recomendación.** Eso solo lo da
+  YouTube Studio una vez publicados los vídeos (Fuentes de tráfico → Búsqueda de
+  YouTube frente a Funciones de exploración y Vídeos sugeridos).
+- **Las visualizaciones acumuladas mezclan antigüedad e interés actual.** Por
+  eso se usan sobre todo los vídeos de menos de 12 meses.
+
 ## Protocolo para cada tema nuevo (antes de escribir)
+
+Para cada búsqueda se anotan, en `docs/datos/`: fecha, país e idioma, consulta
+exacta, URL de los 10 primeros resultados, visualizaciones, fecha de
+publicación, duración y, si se puede, tamaño del canal y frecuencia reciente.
 
 1. Buscar en YouTube 2 o 3 formas de preguntar por el tema, en español.
 2. Anotar:

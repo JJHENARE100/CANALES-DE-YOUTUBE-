@@ -9,7 +9,9 @@ carpeta de salida:
   planos.csv  un plano (una imagen) por cada ~70–100 palabras de narración (unos 40–50 s), con su
               texto. El montaje reparte el tiempo de cada capítulo entre sus planos
               en proporción a las palabras; la columna «visual» se rellena con la
-              descripción o el prompt de la imagen.
+              descripción o el prompt de la imagen. Las columnas fuente, licencia,
+              atribucion y url son obligatorias para las imágenes reales (video.py
+              se detiene si faltan) y «movimiento» fija el movimiento de cámara.
 
 Uso:
     python3 herramientas/montaje/exportar.py guiones/ep01-un-dia-en-la-roma-de-trajano.md produccion/ep01
@@ -22,6 +24,8 @@ from pathlib import Path
 
 PALABRAS_POR_PLANO = 70
 PALABRAS_POR_MINUTO = 115
+CAMPOS = ["plano", "capitulo", "palabras", "imagen", "visual", "texto",
+          "movimiento", "fuente", "licencia", "atribucion", "url"]
 
 
 def leer_capitulos(guion: str) -> list[dict]:
@@ -87,9 +91,10 @@ def escribir_planos(capitulos: list[dict], destino: Path) -> int:
             plano = f"{c['num']:02d}-{k:02d}"
             frag = " ".join(g)
             filas.append({"plano": plano, "capitulo": c["num"], "palabras": contar(frag),
-                          "imagen": f"{plano}.jpg", "visual": "", "texto": frag})
+                          "imagen": f"{plano}.jpg", "visual": "", "texto": frag,
+                          "movimiento": "", "fuente": "", "licencia": "", "atribucion": "", "url": ""})
     with destino.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["plano", "capitulo", "palabras", "imagen", "visual", "texto"])
+        w = csv.DictWriter(f, fieldnames=CAMPOS)
         w.writeheader()
         w.writerows(filas)
     return len(filas)
