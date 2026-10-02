@@ -50,7 +50,7 @@ mismo día por tu tiempo.
 | Fecha | Episodio | Gancho |
 |---|---|---|
 | jue 15 oct | **1. Un viaje a escala por el sistema solar, hasta la Voyager 1** ([guion](../guiones/ciencia-ep01-viaje-a-escala-sistema-solar.md)) | Si el Sol midiera un metro |
-| jue 22 oct | 2. Agujeros negros, explicados con calma | Las imágenes del Event Horizon Telescope |
+| jue 22 oct | **2. Agujeros negros, explicados con calma** ([guion](../guiones/ciencia-ep02-agujeros-negros.md)) | Las imágenes del Event Horizon Telescope |
 | jue 29 oct | 3. La Luna: de Apolo a Artemis II | Artemis II (abril de 2026), los humanos que más lejos han llegado |
 | jue 5 nov | 4. La vida de una estrella | Del nacimiento en una nebulosa a enana blanca |
 | jue 12 nov | 5. Marte, todo lo que sabemos | Perseverance y el agua antigua |
