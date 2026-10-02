@@ -96,7 +96,7 @@ Para medir el ritmo en cada revisión hay una calculadora:
 Mezclan temas universales con otros de interés para España y Latinoamérica:
 
 1. Un día cualquiera en la Roma de Trajano ([guion](../guiones/ep01-un-dia-en-la-roma-de-trajano.md))
-2. Al-Ándalus: Córdoba en el año 1000
+2. Un día en Córdoba, año 1000 ([guion](../guiones/ep02-cordoba-en-el-ano-1000.md))
 3. Tenochtitlan antes de la llegada de Cortés
 4. Mitología griega: del Caos al Olimpo
 5. La vida a bordo de un galeón de Indias
