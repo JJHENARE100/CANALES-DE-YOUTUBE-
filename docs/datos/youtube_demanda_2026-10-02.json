@@ -1,0 +1,5065 @@
+{
+ "meta": {
+  "collected": "2026-10-02",
+  "source": "YouTube search results via Firecrawl scrape (logged-out, location ES/es; last 2 queries proxied with gl=LT consent)",
+  "notes": "views = proxy of demand, not search volume; results personalised/geolocated; young = age shown in days/weeks/months (<12 months; YouTube shows 12-23 months as \"1 año\"); age_months_float for \"N a\" = 12*N lower bound; shorts excluded; \"historia para dormir roma\" titles partly missing (pre-collected)",
+  "credits_used": 27
+ },
+ "queries": [
+  {
+   "query": "historia para dormir roma",
+   "results": [
+    {
+     "title": "La Historia DEFINITIVA del Imperio Romano (+3h) | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 302000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "3:00:00+"
+    },
+    {
+     "title": "Guerra de Troya… Mitología Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 915000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": null
+    },
+    {
+     "title": "Toda la Mitología Romana",
+     "channel": "El Historiador Nocturno",
+     "views_int": 72000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": null
+    },
+    {
+     "title": "¿Por qué cayó el Imperio Romano?",
+     "channel": "El Historiador Nocturno",
+     "views_int": 72000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": null
+    },
+    {
+     "title": "Historia completa del Imperio Romano",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 45000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": null
+    },
+    {
+     "title": "Historia completa de Trajano",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 31000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "Descanso Histórico",
+     "views_int": 28000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "Sueños Históricos",
+     "views_int": 15000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "País de los Sueños",
+     "views_int": 5800,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": null
+    },
+    {
+     "title": "Cómo sobrevivían los romanos a las noches más frías",
+     "channel": "Historia Aburrida Para Dormir",
+     "views_int": 1500,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "Historia para Dormir",
+     "views_int": 1000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "Duerme Aprendiendo",
+     "views_int": 854,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "Historias Para Dormir",
+     "views_int": 435,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": null
+    },
+    {
+     "title": "Un Día en la Antigua Roma | Historia Para Dormir",
+     "channel": "Atlas Nocturno",
+     "views_int": 124,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": null
+    },
+    {
+     "title": "Una Noche en la Antigua Roma",
+     "channel": "Civilizaciones para Dormir",
+     "views_int": 110,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": null
+    },
+    {
+     "title": "(sin título registrado)",
+     "channel": "Travesías para Dormir",
+     "views_int": 86,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": null
+    }
+   ],
+   "stats": {
+    "n": 16,
+    "median_views": 10400,
+    "max_views": 915000,
+    "young_lt12m": 10,
+    "young_ge50k": 3,
+    "young_lt2k": 6,
+    "top3": [
+     {
+      "title": "Guerra de Troya… Mitología Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 915000,
+      "age": "1a"
+     },
+     {
+      "title": "La Historia DEFINITIVA del Imperio Romano (+3h) | Historia Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 302000,
+      "age": "11m"
+     },
+     {
+      "title": "Toda la Mitología Romana",
+      "channel": "El Historiador Nocturno",
+      "views": 72000,
+      "age": "11m"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Los caminos del Imperio inca",
+      "title": "¿Por qué cayó el Imperio Romano?",
+      "ratio": 0.6
+     },
+     {
+      "planned": "Los caminos del Imperio inca",
+      "title": "Historia completa del Imperio Romano",
+      "ratio": 0.56
+     },
+     {
+      "planned": "Un día cualquiera en la Roma de Trajano",
+      "title": "Un Día en la Antigua Roma | Historia Para Dormir",
+      "ratio": 0.55
+     },
+     {
+      "planned": "Un día en Córdoba, año 1000",
+      "title": "Un Día en la Antigua Roma | Historia Para Dormir",
+      "ratio": 0.6
+     }
+    ]
+   }
+  },
+  {
+   "query": "al andalus historia para dormir",
+   "results": [
+    {
+     "title": "TODA la Historia de AL-ÁNDALUS Explicada al COMPLETO | Aprende Mientras Duermes",
+     "channel": "Aprendes Mientras Duermes",
+     "views_int": 47000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:12:17"
+    },
+    {
+     "title": "AL-ÁNDALUS: La Historia Completa – Del 711 a 1492 - Explicado para Dormir",
+     "channel": "DOCUMENTALES PARA DORMIR",
+     "views_int": 1700,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "4:06:29"
+    },
+    {
+     "title": "La historia completa de Andalucía | narrada tranquila para dormir.",
+     "channel": "Crónicas Olvidadas",
+     "views_int": 30000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "1:38:07"
+    },
+    {
+     "title": "Suelta el Peso del Día 🌙 Historias para Dormir de la España Musulmana",
+     "channel": "El Pergamino Mágico",
+     "views_int": 5500,
+     "age_months_float": 0.13,
+     "age_raw": "4d",
+     "duration": "1:36:17"
+    },
+    {
+     "title": "Toda la Historia Completa de AL-ÁNDALUS para DORMIR (+3 HS)",
+     "channel": "Historia Mundial para dormir",
+     "views_int": 331,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "3:40:23"
+    },
+    {
+     "title": "Toda la Historia de Al-Ándalus: de la Invasión a la Caída de Granada (711 - 1492)",
+     "channel": "El Filo de la Historia",
+     "views_int": 8400,
+     "age_months_float": 0.13,
+     "age_raw": "4d",
+     "duration": "49:14"
+    },
+    {
+     "title": "AL-ÁNDALUS: La Historia Jamás Contada del Imperio que Deslumbró al Mundo",
+     "channel": "Crónicas en Documental",
+     "views_int": 279000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:02:00"
+    },
+    {
+     "title": "Al Andalus [711 - 1492] HISTORIA de ESPAÑA",
+     "channel": "A toda leche",
+     "views_int": 373000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "9:30"
+    },
+    {
+     "title": "La Historia COMPLETA de Al-Ándalus: El Imperio que Europa Quiso Olvidar",
+     "channel": "Desde El Principio",
+     "views_int": 22000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "1:21:15"
+    },
+    {
+     "title": "Duerme con la historia COMPLETA de: Al-Ándalus y la España Musulmana",
+     "channel": "Huellas Eternas",
+     "views_int": 350,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:11:01"
+    },
+    {
+     "title": "No Durarías 10 Años en la AL-ÁNDALUS Medieval (En Serio) | Duerme Con Historia Cansada",
+     "channel": "Duerme Con Historia Cansada",
+     "views_int": 637,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "1:35:08"
+    },
+    {
+     "title": "Cómo Vivían las Mujeres en la España Musulmana | Historia Aburrida Para Dormir",
+     "channel": "Historia Aburrida para Dormir y Historia Cotidiana",
+     "views_int": 2400,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:47:18"
+    },
+    {
+     "title": "Al-Ándalus: del Reino Visigodo al Califato de Córdoba",
+     "channel": "Academia Play",
+     "views_int": 2800000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "17:33"
+    },
+    {
+     "title": "AL ANDALUS resumen para NIÑOS",
+     "channel": "Clases Particulares en Ávila",
+     "views_int": 282000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "10:46"
+    },
+    {
+     "title": "Al-Ándalus en la península ibérica: historia completa y contexto",
+     "channel": "Historia de Barra de Bar",
+     "views_int": 16000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "44:40"
+    },
+    {
+     "title": "Al-Ándalus | El Esplendor de la Iberia Medieval 🌙 Historia para Dormir",
+     "channel": "HistoriaEnSusurros",
+     "views_int": 5,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "33:58"
+    },
+    {
+     "title": "Medina Azahara: El mayor sueño (y tragedia) de Al-Ándalus",
+     "channel": "Grandes Relatos para Dormir",
+     "views_int": 28000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "40:17"
+    },
+    {
+     "title": "Al-Ándalus: ¿Qué ocultan sus ruinas? Califato de Córdoba, taifas y caída | Para dormir",
+     "channel": "Sombras de Imperios",
+     "views_int": 118,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:24:51"
+    },
+    {
+     "title": "La Verdadera Historia de Al-Ándalus | El Reino Perdido de España",
+     "channel": "Vercingétorix",
+     "views_int": 4400,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "2:28:03"
+    },
+    {
+     "title": "HISTORIA DE AL-ÁNDALUS: DE LA CONQUISTA AL REINO NAZARÍ | Historia medieval ESO",
+     "channel": "La cuna de Halicarnaso",
+     "views_int": 86000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "7:52"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 12200,
+    "max_views": 2800000,
+    "young_lt12m": 16,
+    "young_ge50k": 1,
+    "young_lt2k": 6,
+    "top3": [
+     {
+      "title": "Al-Ándalus: del Reino Visigodo al Califato de Córdoba",
+      "channel": "Academia Play",
+      "views": 2800000,
+      "age": "7a"
+     },
+     {
+      "title": "Al Andalus [711 - 1492] HISTORIA de ESPAÑA",
+      "channel": "A toda leche",
+      "views": 373000,
+      "age": "8a"
+     },
+     {
+      "title": "AL ANDALUS resumen para NIÑOS",
+      "channel": "Clases Particulares en Ávila",
+      "views": 282000,
+      "age": "3a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "cordoba califato documental",
+   "results": [
+    {
+     "title": "¿Cómo Fue el Califato de Córdoba? El Esplendor de al-Andalus (756-1031) | HISTORIA DE ESPAÑA",
+     "channel": "AARD Documentales - Abraham Almonte RD",
+     "views_int": 7400,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "20:21"
+    },
+    {
+     "title": "Abderramán I - Documental",
+     "channel": "CanalGalaxia 7",
+     "views_int": 289000,
+     "age_months_float": 132.0,
+     "age_raw": "11a",
+     "duration": "50:51"
+    },
+    {
+     "title": "Documental. EL LEGADO ANDALUSÍ. 3. El Califato de Córdoba.. En castellano.",
+     "channel": "Ancestros",
+     "views_int": 203,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "29:34"
+    },
+    {
+     "title": "Documental : El califato de Al-Ándalus",
+     "channel": "CanalGalaxia 7",
+     "views_int": 15000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "29:22"
+    },
+    {
+     "title": "Los misterios ocultos de Córdoba | EPISODIO COMPLETO | NATIONAL GEOGRAPHIC ESPAÑA",
+     "channel": "National Geographic España",
+     "views_int": 219000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "43:55"
+    },
+    {
+     "title": "Al-Ándalus: del Reino Visigodo al Califato de Córdoba",
+     "channel": "Academia Play",
+     "views_int": 2800000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "17:33"
+    },
+    {
+     "title": "Medina Azahara La ciudad perdida",
+     "channel": "Maravillas del pasado",
+     "views_int": 8000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "51:44"
+    },
+    {
+     "title": "La Historia Oculta de la Mezquita de Córdoba: Conquista y Reconquista | Documental para Dormir",
+     "channel": "Palacios Oscuros",
+     "views_int": 3800,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:07:08"
+    },
+    {
+     "title": "El Califato de Córdoba: Cuando los Musulmanes Gobernaron España 800 Años | Historia Completa",
+     "channel": "SUSURRA AETERNA",
+     "views_int": 662,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "1:35:26"
+    },
+    {
+     "title": "El Cordobés, el primer portavoz español del ISIS | España",
+     "channel": "EL PAÍS",
+     "views_int": 453000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "1:31"
+    },
+    {
+     "title": "Huellas de Al Andalus: La Luz del Califato, Córdoba",
+     "channel": "Producción Documental: Oriente, África, Asia.",
+     "views_int": 132,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "31:58"
+    },
+    {
+     "title": "Toda la Historia de Al-Ándalus: de la Invasión a la Caída de Granada (711 - 1492)",
+     "channel": "El Filo de la Historia",
+     "views_int": 8400,
+     "age_months_float": 0.13,
+     "age_raw": "4d",
+     "duration": "49:14"
+    },
+    {
+     "title": "EL CALIFATO DE CÓRDOBA - De Abderramán III y Almanzor a la caída - Historia de Al-Andalus",
+     "channel": "Pero eso es otra Historia",
+     "views_int": 155000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "22:46"
+    },
+    {
+     "title": "La mezquita de Córdoba, monumento universal | Antonio Almagro",
+     "channel": "Fundación Juan March",
+     "views_int": 99000,
+     "age_months_float": 120.0,
+     "age_raw": "10a",
+     "duration": "1:08:59"
+    },
+    {
+     "title": "Así era Vivir en Córdoba en el Año 929 d.C. | La Capital del Mundo | Con IA",
+     "channel": "Archivo Medieval y Asi Era",
+     "views_int": 68000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "27:29"
+    },
+    {
+     "title": "Cierra los ojos y viaja a Córdoba en el año 961 | Historia para dormir (3 HORAS)",
+     "channel": "Ciudades Dormidas",
+     "views_int": 2500,
+     "age_months_float": 0.2,
+     "age_raw": "6d",
+     "duration": "3:00:02"
+    },
+    {
+     "title": "ABDERRAMÁN I El primer emir de al-Ándalus el príncipe emigrado Abd al Rahman",
+     "channel": "Crónicas de la Historia",
+     "views_int": 100000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "23:53"
+    },
+    {
+     "title": "Abderramán III: El Califa que Hizo de Córdoba un Imperio | Documental Completo",
+     "channel": "Velatum",
+     "views_int": 1100,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "21:53"
+    },
+    {
+     "title": "6 - Documental Al-Ándalus, el legado: Arquitectura y arte",
+     "channel": "El Ruedo Ibérico",
+     "views_int": 519,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "47:47"
+    },
+    {
+     "title": "Mezquita de Córdoba: El legado Islámico de España",
+     "channel": "Manuel Bravo",
+     "views_int": 689000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "19:14"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 11700,
+    "max_views": 2800000,
+    "young_lt12m": 7,
+    "young_ge50k": 2,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "Al-Ándalus: del Reino Visigodo al Califato de Córdoba",
+      "channel": "Academia Play",
+      "views": 2800000,
+      "age": "7a"
+     },
+     {
+      "title": "Mezquita de Córdoba: El legado Islámico de España",
+      "channel": "Manuel Bravo",
+      "views": 689000,
+      "age": "4a"
+     },
+     {
+      "title": "El Cordobés, el primer portavoz español del ISIS | España",
+      "channel": "EL PAÍS",
+      "views": 453000,
+      "age": "9a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "tenochtitlan historia para dormir",
+   "results": [
+    {
+     "title": "La Historia Completa de Tenochtitlán: Narración Relajante para Dormir y Viajar al Pasado.",
+     "channel": "Crónicas Olvidadas",
+     "views_int": 120000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:56:47"
+    },
+    {
+     "title": "Toda La Mitología Azteca Explicada | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 723000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:19:18"
+    },
+    {
+     "title": "DUÉRMETE Escuchando La Historia Del IMPERIO AZTECA | De Tenochtitlan a su Destrucción",
+     "channel": "Historias Nocturnas",
+     "views_int": 11000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:48:10"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Azteca para Dormir (+2 Horas)",
+     "channel": "Murmullos de la Historia",
+     "views_int": 18000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:19:35"
+    },
+    {
+     "title": "El Origen de Tenochtitlán: Del Mito al Imperio | Historia para Dormir",
+     "channel": "Crónicas Olvidadas",
+     "views_int": 2800,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:12:25"
+    },
+    {
+     "title": "La historia de Tenochtitlán: el origen y el fin de la ciudad en el agua | Documental histórico",
+     "channel": "Noches del Pasado",
+     "views_int": 415000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:25:16"
+    },
+    {
+     "title": "Toda La Historia De Los Aztecas Para Dormir",
+     "channel": "Descanso Histórico",
+     "views_int": 111000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:12:07"
+    },
+    {
+     "title": "LOS AZTECAS | Historia del Imperio que fue Destruido por sus Propios Dioses | HISTORIAS PARA DORMIR",
+     "channel": "Historias Para Dormir Oficial",
+     "views_int": 23000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "58:59"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Azteca para Dormir",
+     "channel": "Susurros del Olimpo",
+     "views_int": 124000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "1:50:50"
+    },
+    {
+     "title": "LOS AZTECAS | La Historia Completa de Tenochtitlán | Documental para Dormir",
+     "channel": "Historia a Oscuras Nocturna",
+     "views_int": 95,
+     "age_months_float": 0.46,
+     "age_raw": "2sem",
+     "duration": "1:04:18"
+    },
+    {
+     "title": "la Historia completa de Tenochtitlán, Texcoco y Tlacopan — voz suave para dormir",
+     "channel": "Crónicas Olvidadas",
+     "views_int": 5900,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:03:05"
+    },
+    {
+     "title": "HERNÁN CORTÉS | El Conquistador que Derribó a los Dioses | HISTORIA PARA DORMIR",
+     "channel": "Historias Para Dormir Oficial",
+     "views_int": 14000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "57:53"
+    },
+    {
+     "title": "Desapareció… Pero Dejó Esta Historia - Historia Completa del Imperio Azteca para Dormir",
+     "channel": "Historias para Dormir Top",
+     "views_int": 3900,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:20:42"
+    },
+    {
+     "title": "El Origen de los Mexicas y la Fundación de Tenochtitlan | AZTECAS | Documental Nocturno para Dormir",
+     "channel": "Historia para la Noche",
+     "views_int": 216,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "51:03"
+    },
+    {
+     "title": "Tenochtitlán, 1519 — La última noche antes de los extraños | Ambiente para dormir",
+     "channel": "Duerme en el Pasado",
+     "views_int": 177,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "3:00:02"
+    },
+    {
+     "title": "¿Cómo era un DÍA ENTERO en Tenochtitlán en 1519? | Historia para dormir",
+     "channel": "Historia a Oscuras Nocturna",
+     "views_int": 14,
+     "age_months_float": 0.43,
+     "age_raw": "13d",
+     "duration": "11:27"
+    },
+    {
+     "title": "La Ciudad Azteca Que Superaba a Cualquier Ciudad Europea: Tenochtitlan",
+     "channel": "ElHistoriadorConsciente y La Historia del Mundo",
+     "views_int": 1300000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "44:31"
+    },
+    {
+     "title": "Tenochtitlán: ¿Cómo un Imperio de Guerreros Cayó ante sus Propias Víctimas? | Historia Para Dormir",
+     "channel": "Insomnio Imperial",
+     "views_int": 336,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "41:56"
+    },
+    {
+     "title": "La vida OCULTA de los AZTECAS - EXPLORACIÓN AZTECA ¡Maratón serie completa!",
+     "channel": "History Latinoamérica",
+     "views_int": 849000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:09:23"
+    },
+    {
+     "title": "Los Aztecas: El Ascenso y Caída de Tenochtitlan | Historia para Dormir",
+     "channel": "La hora del pasado",
+     "views_int": 2200,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:04:55"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 12500,
+    "max_views": 1300000,
+    "young_lt12m": 17,
+    "young_ge50k": 4,
+    "young_lt2k": 5,
+    "top3": [
+     {
+      "title": "La Ciudad Azteca Que Superaba a Cualquier Ciudad Europea: Tenochtitlan",
+      "channel": "ElHistoriadorConsciente y La Historia del Mundo",
+      "views": 1300000,
+      "age": "7m"
+     },
+     {
+      "title": "La vida OCULTA de los AZTECAS - EXPLORACIÓN AZTECA ¡Maratón serie completa!",
+      "channel": "History Latinoamérica",
+      "views": 849000,
+      "age": "1a"
+     },
+     {
+      "title": "Toda La Mitología Azteca Explicada | Historia Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 723000,
+      "age": "1a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "aztecas historia para dormir",
+   "results": [
+    {
+     "title": "Toda La Historia De Los Aztecas Para Dormir",
+     "channel": "Descanso Histórico",
+     "views_int": 111000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:12:07"
+    },
+    {
+     "title": "Toda La Mitología Azteca Explicada | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 723000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:19:18"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Azteca para Dormir (+2 Horas)",
+     "channel": "Murmullos de la Historia",
+     "views_int": 18000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:19:35"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Azteca para Dormir",
+     "channel": "Susurros del Olimpo",
+     "views_int": 124000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "1:50:50"
+    },
+    {
+     "title": "LOS AZTECAS | Historia del Imperio que fue Destruido por sus Propios Dioses | HISTORIAS PARA DORMIR",
+     "channel": "Historias Para Dormir Oficial",
+     "views_int": 23000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "58:59"
+    },
+    {
+     "title": "La vida OCULTA de los AZTECAS - EXPLORACIÓN AZTECA ¡Maratón serie completa!",
+     "channel": "History Latinoamérica",
+     "views_int": 850000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:09:23"
+    },
+    {
+     "title": "HISTORIA PARA DORMIR Aztecas: ¿Cómo trataban a las mujeres?",
+     "channel": "Canal del Sueño",
+     "views_int": 48,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:06:01"
+    },
+    {
+     "title": "7 Secretos Aztecas que Cambiarán TODO lo que Sabes",
+     "channel": "Historia Aburrida",
+     "views_int": 3900,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:12:25"
+    },
+    {
+     "title": "Toda La Historia de los Aztecas | Historia para Dormir",
+     "channel": "Susurros Legendarios",
+     "views_int": 393,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:23:14"
+    },
+    {
+     "title": "The Entire History of the Aztecs and the Inca Explained to Fall Asleep To",
+     "channel": "The Stoic Cat",
+     "views_int": 61,
+     "age_months_float": 0.2,
+     "age_raw": "6d",
+     "duration": "58:34"
+    },
+    {
+     "title": "La Historia Completa de Tenochtitlán: Narración Relajante para Dormir y Viajar al Pasado.",
+     "channel": "Crónicas Olvidadas",
+     "views_int": 120000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:56:47"
+    },
+    {
+     "title": "Los Primeros Pueblos de América: Olmecas, Mayas y Aztecas — Relato para Dormir.",
+     "channel": "Crónicas Olvidadas",
+     "views_int": 9200,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:08:27"
+    },
+    {
+     "title": "Desapareció… Pero Dejó Esta Historia - Historia Completa del Imperio Azteca para Dormir",
+     "channel": "Historias para Dormir Top",
+     "views_int": 3900,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:20:42"
+    },
+    {
+     "title": "DUÉRMETE Escuchando La Historia Del IMPERIO AZTECA | De Tenochtitlan a su Destrucción",
+     "channel": "Historias Nocturnas",
+     "views_int": 11000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:48:10"
+    },
+    {
+     "title": "Los secretos aztecas que podrían cambiar la historia de México que conoces | Historia para Dormir",
+     "channel": "Noches del Pasado",
+     "views_int": 150000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:36:44"
+    },
+    {
+     "title": "HERNÁN CORTÉS | El Conquistador que Derribó a los Dioses | HISTORIA PARA DORMIR",
+     "channel": "Historias Para Dormir Oficial",
+     "views_int": 14000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "57:53"
+    },
+    {
+     "title": "21 Misterios del IMPERIO AZTECA aún sin resolver - La Ciencia No Ha Podido Explicar",
+     "channel": "Historia Incomprendida",
+     "views_int": 4800000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "31:06"
+    },
+    {
+     "title": "Duérmete con la historia de Tezcatlipoca, el dios Azteca del espejo de obsidiana",
+     "channel": "Susurros de los Dioses",
+     "views_int": 8300,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:06:14"
+    },
+    {
+     "title": "Una Noche en el Imperio Azteca | Historia para Dormir",
+     "channel": "Relatos Nocturnos",
+     "views_int": 41,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "14:29"
+    },
+    {
+     "title": "Toda la MITOLOGÍA AZTECA explicada | Mitología para dormir",
+     "channel": "El Narrador Soñoliento",
+     "views_int": 832,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:15:01"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 12500,
+    "max_views": 4800000,
+    "young_lt12m": 14,
+    "young_ge50k": 3,
+    "young_lt2k": 3,
+    "top3": [
+     {
+      "title": "21 Misterios del IMPERIO AZTECA aún sin resolver - La Ciencia No Ha Podido Explicar",
+      "channel": "Historia Incomprendida",
+      "views": 4800000,
+      "age": "3a"
+     },
+     {
+      "title": "La vida OCULTA de los AZTECAS - EXPLORACIÓN AZTECA ¡Maratón serie completa!",
+      "channel": "History Latinoamérica",
+      "views": 850000,
+      "age": "1a"
+     },
+     {
+      "title": "Toda La Mitología Azteca Explicada | Historia Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 723000,
+      "age": "1a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Marte, todo lo que sabemos",
+      "title": "7 Secretos Aztecas que Cambiarán TODO lo que Sabes",
+      "ratio": 0.55
+     },
+     {
+      "planned": "Los caminos del Imperio inca",
+      "title": "Una Noche en el Imperio Azteca | Historia para Dormir",
+      "ratio": 0.58
+     }
+    ]
+   }
+  },
+  {
+   "query": "galeon de manila historia",
+   "results": [
+    {
+     "title": "El Galeón de Manila: Cuando España Conectó Asia y América | Documental",
+     "channel": "España Legendaria",
+     "views_int": 62000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:05:20"
+    },
+    {
+     "title": "Andrés de URDANETA y el TORNAVIAJE El GALEÓN de MANILA La PRIMERA globalización.",
+     "channel": "Crónicas de la Historia",
+     "views_int": 120000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "27:27"
+    },
+    {
+     "title": "El Galeón de Manila: la Ruta Española que Conectó Tres Continentes",
+     "channel": "History of Spain",
+     "views_int": 6800,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "5:33"
+    },
+    {
+     "title": "49. El Galeón de Manila.",
+     "channel": "Memorias de un tambor - Podcast",
+     "views_int": 2400,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:54:21"
+    },
+    {
+     "title": "El Galeón de Manila",
+     "channel": "Ministerio de Asuntos Exteriores, UE y Cooperación",
+     "views_int": 24000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "1:57"
+    },
+    {
+     "title": "El galeón de Manila: la ruta española que unió el mundo",
+     "channel": "ViOne",
+     "views_int": 12000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:13:01"
+    },
+    {
+     "title": "Conferencia de historia: \"El galeón de Manila\"",
+     "channel": "Mutua Madrileña",
+     "views_int": 17000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "1:14:58"
+    },
+    {
+     "title": "Los galeones de Manila, valorados en mil millones de dólares—el imperio secreto español del Pacífico",
+     "channel": "Gran Galeón",
+     "views_int": 758,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "27:20"
+    },
+    {
+     "title": "El Galeón de Manila o Nao de China",
+     "channel": "INAH TV",
+     "views_int": 51000,
+     "age_months_float": 204.0,
+     "age_raw": "17a",
+     "duration": "3:01"
+    },
+    {
+     "title": "9. El Galeón de Manila, la primera ruta del Pacífico",
+     "channel": "Canal Hispanidad",
+     "views_int": 41000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "10:08"
+    },
+    {
+     "title": "La Increíble Ingeniería del Galeón de Manila",
+     "channel": "La Santabárbara",
+     "views_int": 68000,
+     "age_months_float": 0.46,
+     "age_raw": "2sem",
+     "duration": "26:35"
+    },
+    {
+     "title": "El Galeón de Manila: Cuando Nueva España fue el Corazón del Mundo",
+     "channel": "Archivo Inédito",
+     "views_int": 4300,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "27:58"
+    },
+    {
+     "title": "49. El Galeón de Manila. (reupload)",
+     "channel": "Memorias de un tambor - Podcast",
+     "views_int": 43000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "1:54:21"
+    },
+    {
+     "title": "El Galeón de Manila",
+     "channel": "MUCAIN - Museo Carrera Indias",
+     "views_int": 39000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "19:38"
+    },
+    {
+     "title": "La Increíble Ingeniería del Galeón Español",
+     "channel": "La Santabárbara",
+     "views_int": 1200000,
+     "age_months_float": 0.69,
+     "age_raw": "3sem",
+     "duration": "26:25"
+    },
+    {
+     "title": "El Galeón de Manila. Eduardo Bernal",
+     "channel": "MUCAIN - Museo Carrera Indias",
+     "views_int": 2900,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "41:14"
+    },
+    {
+     "title": "Un Galeón de Manila",
+     "channel": "INAH TV",
+     "views_int": 32000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "55:15"
+    },
+    {
+     "title": "El GALEÓN de MANILA – La RUTA que UNIÓ ESPAÑA y ASIA durante 250 AÑOS",
+     "channel": "La Voz de la Hispanidad",
+     "views_int": 10000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "29:38"
+    },
+    {
+     "title": "China, la plata americana y el Galeón de Manila - Dra. Eva Tobalina - Value Tree Talks 2026",
+     "channel": "Value TV",
+     "views_int": 45000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "1:12:28"
+    },
+    {
+     "title": "El Galeón de Manila: El barco que cambió la historia #02 Osos y Flamencos",
+     "channel": "UNIDOS POR LA HISTORIA",
+     "views_int": 155000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "27:00"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 35500,
+    "max_views": 1200000,
+    "young_lt12m": 6,
+    "young_ge50k": 3,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "La Increíble Ingeniería del Galeón Español",
+      "channel": "La Santabárbara",
+      "views": 1200000,
+      "age": "3sem"
+     },
+     {
+      "title": "El Galeón de Manila: El barco que cambió la historia #02 Osos y Flamencos",
+      "channel": "UNIDOS POR LA HISTORIA",
+      "views": 155000,
+      "age": "1a"
+     },
+     {
+      "title": "Andrés de URDANETA y el TORNAVIAJE El GALEÓN de MANILA La PRIMERA globalización.",
+      "channel": "Crónicas de la Historia",
+      "views": 120000,
+      "age": "3a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "egipto historia para dormir",
+   "results": [
+    {
+     "title": "Toda La Mitología Egipcia Explicada | Mitología Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 1700000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:12:39"
+    },
+    {
+     "title": "La HISTORIA de las PIRÁMIDES de EGIPTO | El secreto mejor Guardado de EGIPTO",
+     "channel": "Cronista del Sueño",
+     "views_int": 67000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:11:55"
+    },
+    {
+     "title": "DUÉRMETE con la historia COMPLETA del Antiguo Egipto—Pirámides, Faraones y Dioses | Historia Antigua",
+     "channel": "Tras las Huellas de la Historia",
+     "views_int": 45000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "3:00:19"
+    },
+    {
+     "title": "TODA la Historia del Antiguo Egipto Explicada (+4 Horas) | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 72000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "4:13:02"
+    },
+    {
+     "title": "Toda La Historia De Los Egipcios Para Dormir | Historia Para Dormir",
+     "channel": "Rincones del Tiempo",
+     "views_int": 1200,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:35:32"
+    },
+    {
+     "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DEL EGIPTO ANTIGUO |DOCUMENTAL PARA RELAJARSE ANTES DE DORMIR",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 15000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "51:57"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Egipcia para Dormir",
+     "channel": "Susurros del Olimpo",
+     "views_int": 426000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "1:23:59"
+    },
+    {
+     "title": "Historia Aburrida para Dormir | Toda la Historia del ANTIGUO EGIPTO | Cómo Duró Egipto 3.000 Años",
+     "channel": "Historia y Sueño",
+     "views_int": 223000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:45:06"
+    },
+    {
+     "title": "Cuentos del Antiguo Egipto Historias Mágicas para Dormir y Relajarse",
+     "channel": "El Pergamino Mágico",
+     "views_int": 12000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "1:08:28"
+    },
+    {
+     "title": "La Historia del antigüo Egipto Serie documental completa online",
+     "channel": "Steve Martinez",
+     "views_int": 735000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "6:56:07"
+    },
+    {
+     "title": "Historia de Tutankamón para dormir | El faraón que Egipto intentó borrar de la historia",
+     "channel": "Antes del colapso",
+     "views_int": 147000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "56:52"
+    },
+    {
+     "title": "Por Qué Dormir en el Antiguo Egipto era Imposible | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 43000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:02:03"
+    },
+    {
+     "title": "Historia para Dormir: No durarías en el Antiguo Egipto Relato inmersivo narrado para relajarte",
+     "channel": "Historias Para Dormir",
+     "views_int": 242,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:51:19"
+    },
+    {
+     "title": "La Historia COMPLETA del Antiguo Egipto Para Dormir",
+     "channel": "Historia para Dormir",
+     "views_int": 3400,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "1:43:52"
+    },
+    {
+     "title": "Historia de Ramsés II para dormir | El faraón que desafió el tiempo y la muerte",
+     "channel": "Antes del colapso",
+     "views_int": 245000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "1:09:02"
+    },
+    {
+     "title": "La Historia COMPLETA de Todos los Faraones de Egipto para Dormir",
+     "channel": "Susurros del Olimpo",
+     "views_int": 71000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "1:56:59"
+    },
+    {
+     "title": "¿Y si las pirámides fueran miles de años más antiguas que Egipto? | Relatos para Dormir",
+     "channel": "Sueños Históricos",
+     "views_int": 17000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:11:11"
+    },
+    {
+     "title": "100 Datos Curiosos del Antiguo Egipto para Dormir",
+     "channel": "Historia Para Dormir",
+     "views_int": 4300,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "1:39:42"
+    },
+    {
+     "title": "¿INSOMNIO? Duerme Rápido escuchando antiguos cuentos de Egipto",
+     "channel": "El Pergamino Mágico",
+     "views_int": 17000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "2:35:42"
+    },
+    {
+     "title": "¿INSOMNIO? Cuentos para Dormir de Mitología Egipcia Leyendas del Nilo para Adultos",
+     "channel": "El Pergamino Mágico",
+     "views_int": 5900,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "1:10:41"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 44000,
+    "max_views": 1700000,
+    "young_lt12m": 13,
+    "young_ge50k": 5,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "Toda La Mitología Egipcia Explicada | Mitología Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 1700000,
+      "age": "1a"
+     },
+     {
+      "title": "La Historia del antigüo Egipto Serie documental completa online",
+      "channel": "Steve Martinez",
+      "views": 735000,
+      "age": "8a"
+     },
+     {
+      "title": "La Historia COMPLETA de la Mitología Egipcia para Dormir",
+      "channel": "Susurros del Olimpo",
+      "views": 426000,
+      "age": "4m"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "incas historia para dormir",
+   "results": [
+    {
+     "title": "La Arquitectura Inca que Desafía la Ciencia Moderna | Historia para Dormir",
+     "channel": "Noches del Pasado",
+     "views_int": 4700,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:45:01"
+    },
+    {
+     "title": "Toda La Historia De Los Incas Para Dormir",
+     "channel": "Descanso Histórico",
+     "views_int": 57000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:29:58"
+    },
+    {
+     "title": "INCAS: DUERME ESCUCHANDO LA HISTORIA COMPLETA | DOCUMENTAL PARA RELAJARSE ANTES DE DORMIR",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 169000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "49:42"
+    },
+    {
+     "title": "Machu Picchu: el Lado más Brutal y Majestuoso del Imperio Inca | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 12000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:02:51"
+    },
+    {
+     "title": "Los secretos incas que podrían cambiar la historia que conoces | Historia para Dormir",
+     "channel": "Noches del Pasado",
+     "views_int": 116000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:29:28"
+    },
+    {
+     "title": "EL ORO INCA Y EL MISTERIO DE SU SABIDURÍA EXPLORACIÓN INCA ¡Maratón serie completa!",
+     "channel": "History Latinoamérica",
+     "views_int": 855000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:11:12"
+    },
+    {
+     "title": "Toda la Historia de LOS INCAS | Historia para Dormir",
+     "channel": "Susurros Legendarios",
+     "views_int": 373,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:42:46"
+    },
+    {
+     "title": "Los secretos de Vilcabamba y Paititi que podrían reescribir la historia inca | Historia para Dormir",
+     "channel": "Noches del Pasado",
+     "views_int": 16000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:15:00"
+    },
+    {
+     "title": "TODA La Mitología Inca Explicada (el código de Machu Picchu) | Mitología Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 20000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:09:14"
+    },
+    {
+     "title": "¿INSOMNIO? Duerme Rápido escuchando antiguos cuentos incas",
+     "channel": "El Pergamino Mágico",
+     "views_int": 8400,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "1:38:43"
+    },
+    {
+     "title": "Antiguos Relatos Incas Cuentos de las Montañas del Perú para Descansar Profundamente",
+     "channel": "El Pergamino Mágico",
+     "views_int": 9900,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "2:01:33"
+    },
+    {
+     "title": "Mucho antes de los incas: las civilizaciones que construyeron los Andes | Historia para Dormir",
+     "channel": "Noches del Pasado",
+     "views_int": 107000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:50:43"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología INCA para Dormir",
+     "channel": "El Narrador de los Dioses",
+     "views_int": 640,
+     "age_months_float": 0.69,
+     "age_raw": "3sem",
+     "duration": "1:37:34"
+    },
+    {
+     "title": "Cómo sobrevivían los incas a los inviernos brutales de los Andes | Historia para Dormir",
+     "channel": "Noches del Pasado",
+     "views_int": 4500,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:32:43"
+    },
+    {
+     "title": "Toda La Mitología Inca Explicada | Mitología Para Dormir",
+     "channel": "Noches de Insomnio",
+     "views_int": 487,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:10:49"
+    },
+    {
+     "title": "Cómo Vivía la Gente Común en el Imperio Inca | Historia Aburrida Para Dormir",
+     "channel": "Historia Aburrida para Dormir y The Nodding Historian",
+     "views_int": 398,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:27:41"
+    },
+    {
+     "title": "La Caída del Imperio INCA: La Verdadera Historia",
+     "channel": "Hijos de España y Ceiba Documental",
+     "views_int": 1700000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:03:45"
+    },
+    {
+     "title": "Cómo Era la Vida en una Ciudad del Imperio Inca | Historia Aburrida Para Dormir",
+     "channel": "Historia Aburrida para Dormir y Historia Cotidiana",
+     "views_int": 360,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:54:32"
+    },
+    {
+     "title": "HISTORIAS PARA DORMIR | EL IMPERIO INCA",
+     "channel": "Historias contra el Insomnio",
+     "views_int": 457,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "30:06"
+    },
+    {
+     "title": "Historia para dormir | Un mito inca: la paciencia de buscar dónde plantar nuestra vida, y enseñar",
+     "channel": "Noches que Abrigan",
+     "views_int": 485,
+     "age_months_float": 0.3,
+     "age_raw": "9d",
+     "duration": "2:59:59"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 9150,
+    "max_views": 1700000,
+    "young_lt12m": 13,
+    "young_ge50k": 3,
+    "young_lt2k": 5,
+    "top3": [
+     {
+      "title": "La Caída del Imperio INCA: La Verdadera Historia",
+      "channel": "Hijos de España y Ceiba Documental",
+      "views": 1700000,
+      "age": "10m"
+     },
+     {
+      "title": "EL ORO INCA Y EL MISTERIO DE SU SABIDURÍA EXPLORACIÓN INCA ¡Maratón serie completa!",
+      "channel": "History Latinoamérica",
+      "views": 855000,
+      "age": "1a"
+     },
+     {
+      "title": "INCAS: DUERME ESCUCHANDO LA HISTORIA COMPLETA | DOCUMENTAL PARA RELAJARSE ANTES DE DORMIR",
+      "channel": "Pergaminos Olvidados",
+      "views": 169000,
+      "age": "1a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Los caminos del Imperio inca",
+      "title": "Cómo Vivía la Gente Común en el Imperio Inca | Historia Aburrida Para Dormir",
+      "ratio": 0.58
+     },
+     {
+      "planned": "Los caminos del Imperio inca",
+      "title": "La Caída del Imperio INCA: La Verdadera Historia",
+      "ratio": 0.58
+     },
+     {
+      "planned": "Los caminos del Imperio inca",
+      "title": "Cómo Era la Vida en una Ciudad del Imperio Inca | Historia Aburrida Para Dormir",
+      "ratio": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "query": "toda la mitologia griega para dormir",
+   "results": [
+    {
+     "title": "TODA la Mitología Griega Explicada (+4 Horas) | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 595000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "4:54:28"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Griega para Dormir (+2 Horas)",
+     "channel": "Murmullos de la Historia",
+     "views_int": 350000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:52:34"
+    },
+    {
+     "title": "Toda la Mitología Griega para Dormir y Aprender | De los Dioses a los Héroes",
+     "channel": "Relatos para Dormir",
+     "views_int": 139000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "3:29:01"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Griega para Dormir",
+     "channel": "Susurros del Olimpo",
+     "views_int": 119000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:27:54"
+    },
+    {
+     "title": "Toda La Historia de la Guerra de Troya (y el Caballo) Explicada | Mitología Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 915000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:09:22"
+    },
+    {
+     "title": "La MITOLOGÍA GRIEGA Completa | Historia para Dormir (+4 Horas)",
+     "channel": "Cronista del Sueño",
+     "views_int": 80000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "4:06:34"
+    },
+    {
+     "title": "Toda 'La Odisea' Explicada: El Viaje Más Increíble de la Mitología Griega | Mitología Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 756000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:54:18"
+    },
+    {
+     "title": "TODA la Mitología Griega: Del Caos al Olimpo (La Historia Definitiva) | Relatos para Dormir",
+     "channel": "Sueños Históricos",
+     "views_int": 104000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "3:12:25"
+    },
+    {
+     "title": "Las MEJORES historias de MITOLOGÍA GRIEGA para ayudarte a conciliar el sueño",
+     "channel": "Mira la Historia / Mitologia",
+     "views_int": 414000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:35:47"
+    },
+    {
+     "title": "Duerme con la Historia COMPLETA de Hermes (Mitología Griega para Dormir)",
+     "channel": "Susurros Míticos",
+     "views_int": 299,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "3:30:18"
+    },
+    {
+     "title": "Toda La Mitología Griega Explicada | Documental Histórico",
+     "channel": "Era Humana",
+     "views_int": 470000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:34:18"
+    },
+    {
+     "title": "Las 25 Criaturas Más Increíbles y Desconocidas de la Mitología Griega | Mitología Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 38000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:19:19"
+    },
+    {
+     "title": "MITOLOGÍA GRIEGA - Resumen completo - Mitos, dioses y héroes griegos, y Atlántida (Documental)",
+     "channel": "Pero eso es otra Historia",
+     "views_int": 10000000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "59:25"
+    },
+    {
+     "title": "TODA la Mitología Griega Explicada | Historia Aburrida para Dormir",
+     "channel": "Historia Aburrida Para Dormir",
+     "views_int": 2700,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:56:49"
+    },
+    {
+     "title": "La Mitología Griega Completa para Dormir (Pantalla Negra)",
+     "channel": "HistoriasEnSueños",
+     "views_int": 1800,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:42:37"
+    },
+    {
+     "title": "Toda La Historia de Los Titanes Explicada | Mitologia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 406000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:17:34"
+    },
+    {
+     "title": "Todo EL INFRAMUNDO Explicado (el reino de Hades) | Mitología Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 1200000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:14:04"
+    },
+    {
+     "title": "Toda La Mitología Egipcia Explicada | Mitología Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 1700000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:12:39"
+    }
+   ],
+   "stats": {
+    "n": 18,
+    "median_views": 378000,
+    "max_views": 10000000,
+    "young_lt12m": 9,
+    "young_ge50k": 6,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "MITOLOGÍA GRIEGA - Resumen completo - Mitos, dioses y héroes griegos, y Atlántida (Documental)",
+      "channel": "Pero eso es otra Historia",
+      "views": 10000000,
+      "age": "5a"
+     },
+     {
+      "title": "Toda La Mitología Egipcia Explicada | Mitología Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 1700000,
+      "age": "1a"
+     },
+     {
+      "title": "Todo EL INFRAMUNDO Explicado (el reino de Hades) | Mitología Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 1200000,
+      "age": "1a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Mitología griega: del Caos al Olimpo",
+      "title": "TODA la Mitología Griega Explicada (+4 Horas) | Historia Aburrida para Dormir",
+      "ratio": 0.59
+     },
+     {
+      "planned": "Mitología griega: del Caos al Olimpo",
+      "title": "La MITOLOGÍA GRIEGA Completa | Historia para Dormir (+4 Horas)",
+      "ratio": 0.65
+     },
+     {
+      "planned": "Mitología griega: del Caos al Olimpo",
+      "title": "TODA la Mitología Griega: Del Caos al Olimpo (La Historia Definitiva) | Relatos para Dormir",
+      "ratio": 0.68
+     },
+     {
+      "planned": "Mitología griega: del Caos al Olimpo",
+      "title": "Toda La Mitología Griega Explicada | Documental Histórico",
+      "ratio": 0.62
+     },
+     {
+      "planned": "Mitología griega: del Caos al Olimpo",
+      "title": "TODA la Mitología Griega Explicada | Historia Aburrida para Dormir",
+      "ratio": 0.62
+     }
+    ]
+   }
+  },
+  {
+   "query": "vikingos historia para dormir",
+   "results": [
+    {
+     "title": "VIKINGOS: DUERME ESCUCHANDO LA HISTORIA COMPLETA | DOCUMENTAL DE HISTORIA PARA DORMIR EN PAZ",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 42000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "53:10"
+    },
+    {
+     "title": "Toda La Historia De Los Vikingos Para Dormir",
+     "channel": "Descanso Histórico",
+     "views_int": 8500,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:28:03"
+    },
+    {
+     "title": "¿Cómo Dormían los Vikingos en Casas Largas Sin Morir Congelados? | Documental Para Dormir",
+     "channel": "El Paleontólogo Somnoliento",
+     "views_int": 31000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "3:24:46"
+    },
+    {
+     "title": "Historias para Dormir | Los Vikingos la Historia Completa (Pantalla Negra)",
+     "channel": "HistoriasEnSueños",
+     "views_int": 1300,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:09:22"
+    },
+    {
+     "title": "La historia completa de los vikingos | Historia para Dormir",
+     "channel": "La hora del pasado",
+     "views_int": 16,
+     "age_months_float": 0.0,
+     "age_raw": "12h",
+     "duration": "2:39:51"
+    },
+    {
+     "title": "Historia Para Dormir: Cuento Vikingo de Odin, Thor y Loki | Relato Nórdico Relajante",
+     "channel": "Dormiluna",
+     "views_int": 510,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "34:06"
+    },
+    {
+     "title": "Cómo los vikingos dormían durante noches de ventisca sin leña | Historia Aburrida para Dormir",
+     "channel": "Dormir con Historia",
+     "views_int": 1500,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:11:29"
+    },
+    {
+     "title": "TODA la Historia de los Vikingos Explicada (el terror nórdico) | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 28000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:32:50"
+    },
+    {
+     "title": "¿Cómo DORMÍAN los VIKINGOS en los Barcos SIN MORIR CONGELADOS? | Historia para dormir",
+     "channel": "Portales Al Pasado",
+     "views_int": 680,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "1:03:26"
+    },
+    {
+     "title": "La Niña Vikinga Que Aprendía En Silencio | Historia para Dormir",
+     "channel": "Historia al Dormir",
+     "views_int": 110,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "1:30:38"
+    },
+    {
+     "title": "LA ERA VIKINGA | 300 Años de Sangre y Furia: La Verdadera Historia | HISTORIA PARA DORMIR",
+     "channel": "Historias Para Dormir Oficial",
+     "views_int": 26000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "59:27"
+    },
+    {
+     "title": "¿Cómo viajaban los vikingos hacia tierras desconocidas? | Historia para Dormir",
+     "channel": "Relatos para Dormir",
+     "views_int": 64000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "2:20:01"
+    },
+    {
+     "title": "DUÉRMETE Escuchando La Historia Completa De Valhalla",
+     "channel": "Historias Nocturnas",
+     "views_int": 161000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:39:42"
+    },
+    {
+     "title": "¿Cómo Dormían los Vikingos en los Barcos con el Frío Más extremo?",
+     "channel": "VIKINGOS",
+     "views_int": 2500,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "40:07"
+    },
+    {
+     "title": "Sin calefacción, sin camas: así dormían los vikingos en -50 grados | Historia para Dormir",
+     "channel": "Relatos para Dormir",
+     "views_int": 70000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:20:01"
+    },
+    {
+     "title": "Mitología Nórdica para Dormir Cuentos Relajantes y Mágicos",
+     "channel": "El Pergamino Mágico",
+     "views_int": 12000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "49:36"
+    },
+    {
+     "title": "EGIPTO Y VIKINGOS | Historia Relajante Para Dormir",
+     "channel": "Viajando Para Dormir",
+     "views_int": 724,
+     "age_months_float": 0.13,
+     "age_raw": "4d",
+     "duration": "1:21:47"
+    },
+    {
+     "title": "La Historia Completa de los Vikingos | Documental Épico Completo",
+     "channel": "Capas de la Historia",
+     "views_int": 216000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "1:10:20"
+    },
+    {
+     "title": "¿Cómo Los Vikingos DORMÍAN a −50°C en Barcos Abiertos SIN Morir Congelados? | Historia Calmada",
+     "channel": "Historia Calmada",
+     "views_int": 5600,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "50:01"
+    },
+    {
+     "title": "Historia Aburrida Para Dormir | Los Orígenes Vikingos de Dublín",
+     "channel": "Historia Aburrida para Dormir ASMR",
+     "views_int": 261,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:17:52"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 7050,
+    "max_views": 216000,
+    "young_lt12m": 15,
+    "young_ge50k": 4,
+    "young_lt2k": 6,
+    "top3": [
+     {
+      "title": "La Historia Completa de los Vikingos | Documental Épico Completo",
+      "channel": "Capas de la Historia",
+      "views": 216000,
+      "age": "3m"
+     },
+     {
+      "title": "DUÉRMETE Escuchando La Historia Completa De Valhalla",
+      "channel": "Historias Nocturnas",
+      "views": 161000,
+      "age": "3m"
+     },
+     {
+      "title": "Sin calefacción, sin camas: así dormían los vikingos en -50 grados | Historia para Dormir",
+      "channel": "Relatos para Dormir",
+      "views": 70000,
+      "age": "4m"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Un invierno vikingo",
+      "title": "LA ERA VIKINGA | 300 Años de Sangre y Furia: La Verdadera Historia | HISTORIA PARA DORMIR",
+      "ratio": 0.59
+     }
+    ]
+   }
+  },
+  {
+   "query": "mitologia nordica para dormir",
+   "results": [
+    {
+     "title": "La Historia Completa de la Mitología Nórdica para Dormir",
+     "channel": "Los Tiempos Sagrados",
+     "views_int": 16000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "3:53:06"
+    },
+    {
+     "title": "Toda La Mitología Nórdica Explicada | Mitología Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 117000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:08:45"
+    },
+    {
+     "title": "Mitología Nórdica para Dormir Cuentos Relajantes y Mágicos",
+     "channel": "El Pergamino Mágico",
+     "views_int": 12000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "49:36"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Nórdica para Dormir (+2 Horas)",
+     "channel": "Murmullos de la Historia",
+     "views_int": 6600,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:10:27"
+    },
+    {
+     "title": "La Historia COMPLETA de la Mitología Nórdica para Dormir",
+     "channel": "Susurros del Olimpo",
+     "views_int": 12000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:00:08"
+    },
+    {
+     "title": "La Historia Completa de la Mitología Nórdica para Dormir y Aprender | De la Creación al Ragnarök",
+     "channel": "Relatos para Dormir",
+     "views_int": 7000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "3:16:39"
+    },
+    {
+     "title": "Toda la Historia de la Mitología NÓRDICA explicada | Mejor serie Documental Animada",
+     "channel": "Mira la Historia / Mitologia",
+     "views_int": 225000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:20:37"
+    },
+    {
+     "title": "Ragnarök: El Terrible APOCALIPSIS VIKINGO Explicado (la profecía nórdica) | Mitología Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 15000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:33:15"
+    },
+    {
+     "title": "Mitología nórdica para dormir: Odín no era el dios sabio que crees, el precio del conocimiento",
+     "channel": "Antes del colapso",
+     "views_int": 518,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "19:05"
+    },
+    {
+     "title": "MITOLOGÍA NÓRDICA: Los Aesir, Yggdrasil, Valhalla, Ragnarok, Volsungos, Sigfrido y Nibelungos",
+     "channel": "Pero eso es otra Historia",
+     "views_int": 4100000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "26:07"
+    },
+    {
+     "title": "Mitología Nórdica Para Dormir (2 Horas) | Odín, Thor y Ragnarök | Narración Relajante",
+     "channel": "Crónicas Nocturnas",
+     "views_int": 210,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:10:01"
+    },
+    {
+     "title": "Las MEJORES Historias de la MITOLOGÍA NÓRDICA",
+     "channel": "Mira la Historia / Mitologia",
+     "views_int": 290000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:16:28"
+    },
+    {
+     "title": "Toda La Mitología Nórdica Explicada | Mitología para Dormir",
+     "channel": "Relatos de Medianoche",
+     "views_int": 418,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:27:02"
+    },
+    {
+     "title": "VIKINGOS: DUERME ESCUCHANDO LA HISTORIA COMPLETA | DOCUMENTAL DE HISTORIA PARA DORMIR EN PAZ",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 42000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "53:10"
+    },
+    {
+     "title": "La historia de Thor (mitología nórdica para dormir)",
+     "channel": "Relatos de Medianoche",
+     "views_int": 335,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:41:56"
+    },
+    {
+     "title": "Mitología nórdica para dormir: la verdad sobre el Valhalla",
+     "channel": "Antes del colapso",
+     "views_int": 149,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "9:09"
+    },
+    {
+     "title": "Toda La Historia De Los Vikingos Para Dormir",
+     "channel": "Descanso Histórico",
+     "views_int": 8500,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:28:03"
+    },
+    {
+     "title": "MITOLOGÍA NÓRDICA: DUERME ESCUCHANDO LA HISTORIA COMPLETA | DOCUMENTAL HISTÓRICO PARA DORMIR",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 2500,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:08:12"
+    },
+    {
+     "title": "Historia Para Dormir: Cuento Vikingo de Odin, Thor y Loki | Relato Nórdico Relajante",
+     "channel": "Dormiluna",
+     "views_int": 510,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "34:06"
+    },
+    {
+     "title": "Mitología Nórdica - Para Dormir Profundo o Estudiar (Voz profunda + Música vikinga ambiental)",
+     "channel": "Mitología y Religión",
+     "views_int": 179,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "53:06"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 7750,
+    "max_views": 4100000,
+    "young_lt12m": 13,
+    "young_ge50k": 0,
+    "young_lt2k": 7,
+    "top3": [
+     {
+      "title": "MITOLOGÍA NÓRDICA: Los Aesir, Yggdrasil, Valhalla, Ragnarok, Volsungos, Sigfrido y Nibelungos",
+      "channel": "Pero eso es otra Historia",
+      "views": 4100000,
+      "age": "5a"
+     },
+     {
+      "title": "Las MEJORES Historias de la MITOLOGÍA NÓRDICA",
+      "channel": "Mira la Historia / Mitologia",
+      "views": 290000,
+      "age": "2a"
+     },
+     {
+      "title": "Toda la Historia de la Mitología NÓRDICA explicada | Mejor serie Documental Animada",
+      "channel": "Mira la Historia / Mitologia",
+      "views": 225000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "constantinopla historia para dormir",
+   "results": [
+    {
+     "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DE CONSTANTINOPLA | DOCUMENTAL DE HISTORIA PARA DORMIR",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 5900,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "1:11:24"
+    },
+    {
+     "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DE CONSTANTINO | RELATO HISTÓRICO PARA REFLEXIONAR Y DORMIR",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 217000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:33:06"
+    },
+    {
+     "title": "Constantinopla Pudo Comprar el Cañón que la Destruyó — Pero Decidió Ahorrar | Historia para Dormir",
+     "channel": "Historias Para Dormir Oficial",
+     "views_int": 4600,
+     "age_months_float": 0.69,
+     "age_raw": "3sem",
+     "duration": "51:53"
+    },
+    {
+     "title": "IMPERIO BIZANTINO: DUERME ESCUCHANDO LA HISTORIA COMPLETA - PARTE 1/2 | HISTORIA PARA DORMIR",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 9500,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:31:31"
+    },
+    {
+     "title": "EL IMPERIO BIZANTINO: EL ÚLTIMO SUSPIRO de ROMA | Documental Completo",
+     "channel": "Historia Olvidada",
+     "views_int": 58000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "2:44:49"
+    },
+    {
+     "title": "¿Cómo cayó Constantinopla en una sola noche? Historia para dormir | Expediente Nº 001",
+     "channel": "El Archivero Cuervo",
+     "views_int": 369,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "29:37"
+    },
+    {
+     "title": "La Última Noche en Constantinopla 1453 - Historia Relajante para Dormir",
+     "channel": "Historiador Sin Dormir",
+     "views_int": 128,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:38:09"
+    },
+    {
+     "title": "Constantinopla : El Imperio Olvidado (LibrosPorElCamino) Historia Del Imperio Bizantino - Audiolibro",
+     "channel": "Libros Por El Camino",
+     "views_int": 31000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "9:22:42"
+    },
+    {
+     "title": "Duerme escuchando la historia completa del Emperador Constantino",
+     "channel": "Voces del Tiempo",
+     "views_int": 930,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "53:59"
+    },
+    {
+     "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DEL CONCILIO DE CONSTANTINOPLA | RELATO PARA DORMIR EN PAZ",
+     "channel": "Pergaminos Olvidados",
+     "views_int": 9200,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:12:17"
+    },
+    {
+     "title": "La caída de Constantinopla - Historia para Relajarse y Dormir",
+     "channel": "HistorIA Mundial",
+     "views_int": 302,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:47:53"
+    },
+    {
+     "title": "La Historia COMPLETA del Imperio Romano para Dormir (+3 Horas)",
+     "channel": "Murmullos de la Historia",
+     "views_int": 10000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "3:54:25"
+    },
+    {
+     "title": "La Historia DEFINITIVA del Imperio Romano Explicada (+3 Horas) | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 302000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "3:27:26"
+    },
+    {
+     "title": "DUÉRMETE con la historia COMPLETA de Constantinopla — El último día de mil años | Historia",
+     "channel": "Tras las Huellas del Pasado",
+     "views_int": 2100,
+     "age_months_float": 0.69,
+     "age_raw": "3sem",
+     "duration": "2:56:26"
+    },
+    {
+     "title": "El Imperio Bizantino | La Caída de Constantinopla Historia para Dormir",
+     "channel": "HistoriaEnSusurros",
+     "views_int": 0,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "35:17"
+    },
+    {
+     "title": "Imperio Bizantino: Historia para Dormir – La Caída de Constantinopla",
+     "channel": "Sombras de Imperios",
+     "views_int": 154,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:24:23"
+    },
+    {
+     "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DEL CONCILIO DE CONSTANTINOPLA | RELATO PARA DORMIR EN PAZ (copia)",
+     "channel": "Los Pergaminos Olvidados",
+     "views_int": 140,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:12:21"
+    },
+    {
+     "title": "EL SECRETO de CONSTANTINOPLA: La TRAICIÓN que acabó con ROMA | 1453",
+     "channel": "RELATOS HISTORICOS EPICOS",
+     "views_int": 4100,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "39:39"
+    },
+    {
+     "title": "Duerme con Toda la Historia del Imperio Bizantino | Cuento para Dormir para Adultos",
+     "channel": "Momento de Dormir",
+     "views_int": 105,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:56:06"
+    }
+   ],
+   "stats": {
+    "n": 19,
+    "median_views": 4100,
+    "max_views": 302000,
+    "young_lt12m": 14,
+    "young_ge50k": 2,
+    "young_lt2k": 6,
+    "top3": [
+     {
+      "title": "La Historia DEFINITIVA del Imperio Romano Explicada (+3 Horas) | Historia Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 302000,
+      "age": "11m"
+     },
+     {
+      "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DE CONSTANTINO | RELATO HISTÓRICO PARA REFLEXIONAR Y DORMIR",
+      "channel": "Pergaminos Olvidados",
+      "views": 217000,
+      "age": "1a"
+     },
+     {
+      "title": "EL IMPERIO BIZANTINO: EL ÚLTIMO SUSPIRO de ROMA | Documental Completo",
+      "channel": "Historia Olvidada",
+      "views": 58000,
+      "age": "10m"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "La caída de Constantinopla",
+      "title": "DUERME ESCUCHANDO LA HISTORIA COMPLETA DE CONSTANTINOPLA | DOCUMENTAL DE HISTORIA PARA DORMIR",
+      "ratio": 0.55
+     },
+     {
+      "planned": "La caída de Constantinopla",
+      "title": "La caída de Constantinopla - Historia para Relajarse y Dormir",
+      "ratio": 0.6
+     },
+     {
+      "planned": "La caída de Constantinopla",
+      "title": "Imperio Bizantino: Historia para Dormir – La Caída de Constantinopla",
+      "ratio": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "query": "historia aburrida para dormir",
+   "results": [
+    {
+     "title": "*SIN ANUNCIOS* Las Reglas de Etiqueta Más Extrañas de la Era Victoriana | Historia Aburrida",
+     "channel": "Historia Cotidiana",
+     "views_int": 63000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "3:44:41"
+    },
+    {
+     "title": "TODA La Segunda Guerra Mundial Explicada | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 725000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:43:55"
+    },
+    {
+     "title": "Así era vivir en la UNIÓN SOVIETICA (URSS)… nunca estabas solo | Historia Aburrida para Dormir",
+     "channel": "Historias para Dormir",
+     "views_int": 68000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:29:44"
+    },
+    {
+     "title": "*SIN ANUNCIOS* La Vida Cotidiana de una Familia Medieval | Historia Aburrida Para Dormir",
+     "channel": "Historia Cotidiana",
+     "views_int": 2200,
+     "age_months_float": 0.0,
+     "age_raw": "15h",
+     "duration": "2:48:28"
+    },
+    {
+     "title": "Las Reglas Absurdas Que Debían Seguir los Sirvientes Victorianos | Historia Aburrida Para Dormir",
+     "channel": "Historia Aburrida para Dormir (o2n)",
+     "views_int": 3000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "2:53:21"
+    },
+    {
+     "title": "Por Qué la Comida Medieval era LA PEOR DE LA HISTORIA | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 419000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:30:03"
+    },
+    {
+     "title": "*SIN ANUNCIOS* Cómo Era Alojarse en un Gran Hotel de los Años 20 | Historia Aburrida Para Dormir",
+     "channel": "Historia Cotidiana",
+     "views_int": 9300,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "3:04:43"
+    },
+    {
+     "title": "Toda La Primera Guerra Mundial Explicada | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 801000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:17:34"
+    },
+    {
+     "title": "TODA La Guerra Fría Explicada (USA vs URSS) | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 145000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:01:54"
+    },
+    {
+     "title": "Cómo Sobrevivían Los Romanos a Las Noches Más Frías | Historia Aburrida para Dormir",
+     "channel": "Historia Aburrida Para Dormir",
+     "views_int": 1500,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:09:01"
+    },
+    {
+     "title": "¿Cómo Era un Día Completo en la Edad Media? | Historia Para Dormir",
+     "channel": "Relatos para Dormir",
+     "views_int": 1000000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "2:30:01"
+    },
+    {
+     "title": "¿Cómo dormían los piratas medievales en barcos durante noches heladas?",
+     "channel": "Relatos para Dormir",
+     "views_int": 164000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "2:30:01"
+    },
+    {
+     "title": "Cómo Vivían las Mujeres en un Harén Otomano | Historia Aburrida Para Dormir",
+     "channel": "Historia Aburrida para Dormir (o2n)",
+     "views_int": 16000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "2:55:45"
+    },
+    {
+     "title": "Estos Eran los INFLUENCERS de la Edad Media | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 43000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:00:07"
+    },
+    {
+     "title": "*SIN ANUNCIOS* Cómo Era la Vida de las Mujeres Nobles del Renacimiento | Historia Aburrida",
+     "channel": "Historia Cotidiana",
+     "views_int": 13000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "2:51:08"
+    },
+    {
+     "title": "*SIN ANUNCIOS* Cómo Era Ser Sirviente en Versalles | Historia Aburrida Para Dormir",
+     "channel": "Historia Cotidiana",
+     "views_int": 17000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "2:51:37"
+    },
+    {
+     "title": "¿Cómo dormían en la Edad Media cuando llovía a cántaros? | Historia para Dormir",
+     "channel": "Relatos para Dormir",
+     "views_int": 67000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:25:00"
+    },
+    {
+     "title": "TODA la Historia del Antiguo Egipto Explicada (+4 Horas) | Historia Aburrida para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 72000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "4:13:02"
+    },
+    {
+     "title": "Los Reyes Más Nefastos y Repugnantes de la Edad Media | Historia Aburrida Para Dormir",
+     "channel": "El Historiador Nocturno",
+     "views_int": 12000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:19:43"
+    }
+   ],
+   "stats": {
+    "n": 19,
+    "median_views": 63000,
+    "max_views": 1000000,
+    "young_lt12m": 13,
+    "young_ge50k": 5,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "¿Cómo Era un Día Completo en la Edad Media? | Historia Para Dormir",
+      "channel": "Relatos para Dormir",
+      "views": 1000000,
+      "age": "8m"
+     },
+     {
+      "title": "Toda La Primera Guerra Mundial Explicada | Historia Aburrida Para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 801000,
+      "age": "1a"
+     },
+     {
+      "title": "TODA La Segunda Guerra Mundial Explicada | Historia Aburrida para Dormir",
+      "channel": "El Historiador Nocturno",
+      "views": 725000,
+      "age": "1a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "sistema solar para dormir",
+   "results": [
+    {
+     "title": "¿Qué Tan Grande Es Realmente El Sistema Solar? | Ciencia Para Dormir",
+     "channel": "Ciencia Para Dormir",
+     "views_int": 40000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "2:14:21"
+    },
+    {
+     "title": "El Sistema Solar para Dormir | Explicado para descansar",
+     "channel": "Universo Errante",
+     "views_int": 539,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:03:28"
+    },
+    {
+     "title": "Música Relajante para Dormir y Meditar sin Estrés - Planetas Estrellas Cosmos - Videos Universo HD",
+     "channel": "Sounds & Nature",
+     "views_int": 191000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "4:49:37"
+    },
+    {
+     "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+     "channel": "Jodisea",
+     "views_int": 4100000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:37:08"
+    },
+    {
+     "title": "El Universo Para Sanar Mientras Duermes | Música para Dormir Profunda, Curación de Frecuencia Hz",
+     "channel": "Tranquil Relax",
+     "views_int": 5500000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "3:56:10"
+    },
+    {
+     "title": "20 Curiosidades del Sistema Solar Para Dormir",
+     "channel": "Odisea Espacial",
+     "views_int": 47000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:09:32"
+    },
+    {
+     "title": "CAER EN UN SUEÑO PROFUNDO Viaja a exoplanetas mientras te relajas, vuela en el espacio profundo",
+     "channel": "La Luna",
+     "views_int": 400000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "11:26:42"
+    },
+    {
+     "title": "TODO el Sistema Solar Explicado (Planeta Por Planeta) | Ciencia Para Dormir",
+     "channel": "Ciencia Para Dormir",
+     "views_int": 66000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "4:29:13"
+    },
+    {
+     "title": "4 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO: Un Viaje INCREÍBLE al Espacio | DOCU",
+     "channel": "Jodisea",
+     "views_int": 1500000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "3:56:23"
+    },
+    {
+     "title": "HISTORIA COMPLETA DEL SISTEMA SOLAR | Desde el Big Bang hasta Hoy - Documental para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 2600,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "2:21:11"
+    },
+    {
+     "title": "LUAS: Os Mundos Mais Incríveis do Sistema Solar | Documentário Completo Para Dormir 2026 (PT)",
+     "channel": "UNIVERSO PARA DORMIR",
+     "views_int": 632,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "1:09:52"
+    },
+    {
+     "title": "Los Datos Más Relajantes Del Espacio Para Dormir | Ciencia Tranquila",
+     "channel": "Dormir Con Ciencia",
+     "views_int": 311000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:17:51"
+    },
+    {
+     "title": "¿Cómo sería vivir un día en cada planeta del Sistema Solar? | Cuentos del Universo para Dormir",
+     "channel": "UNIVERSO PARA DORMIR",
+     "views_int": 19000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:16:47"
+    },
+    {
+     "title": "Qué Hay Por Encima Y Por Debajo Del Sistema Solar | Documental Para Dormir",
+     "channel": "Espacio Antes de Dormir",
+     "views_int": 36000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "4:22:44"
+    },
+    {
+     "title": "El Sistema Solar para niños | Planeta a planeta | Recopilación",
+     "channel": "Smile and Learn - Español",
+     "views_int": 28000000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "17:34"
+    },
+    {
+     "title": "3 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO: Un Viaje INCREÍBLE al Espacio | DOCU",
+     "channel": "Jodisea",
+     "views_int": 806000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "3:10:28"
+    },
+    {
+     "title": "CURIOSIDADES del UNIVERSO para DORMIR",
+     "channel": "Cosmos Sin Límites",
+     "views_int": 559000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:31:50"
+    },
+    {
+     "title": "Viaje por el Sistema Solar para dormir",
+     "channel": "ASTRODATOS",
+     "views_int": 597,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "2:07:08"
+    },
+    {
+     "title": "El Viaje Imposible a Alfa Centauri: 70 Mil Años de Oscuridad | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 579000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:02:21"
+    }
+   ],
+   "stats": {
+    "n": 19,
+    "median_views": 191000,
+    "max_views": 28000000,
+    "young_lt12m": 9,
+    "young_ge50k": 4,
+    "young_lt2k": 2,
+    "top3": [
+     {
+      "title": "El Sistema Solar para niños | Planeta a planeta | Recopilación",
+      "channel": "Smile and Learn - Español",
+      "views": 28000000,
+      "age": "8a"
+     },
+     {
+      "title": "El Universo Para Sanar Mientras Duermes | Música para Dormir Profunda, Curación de Frecuencia Hz",
+      "channel": "Tranquil Relax",
+      "views": 5500000,
+      "age": "4a"
+     },
+     {
+      "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+      "channel": "Jodisea",
+      "views": 4100000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+      "ratio": 0.65
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Viaje por el Sistema Solar para dormir",
+      "ratio": 0.67
+     }
+    ]
+   }
+  },
+  {
+   "query": "viaje por el sistema solar documental",
+   "results": [
+    {
+     "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+     "channel": "Jodisea",
+     "views_int": 4100000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:37:08"
+    },
+    {
+     "title": "UN VIAJE POR EL SISTEMA SOLAR | DOCUMENTAL 2025",
+     "channel": "Al Infinito Y Más Allá",
+     "views_int": 72000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "57:48"
+    },
+    {
+     "title": "Viaje a los confines del Universo, el documental | #TOPDOCUMENTALES #NationalGeographic #Universo",
+     "channel": "TOPDOCUMENTALES",
+     "views_int": 18000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "1:33:21"
+    },
+    {
+     "title": "¿Por Qué Es Tan Difícil Llegar a los Planetas del Sistema Solar? | Toma Décadas",
+     "channel": "Abyx Cosmos Español",
+     "views_int": 79000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "1:50:54"
+    },
+    {
+     "title": "Viaje a los límites del Sistema Solar",
+     "channel": "Kosmo ES",
+     "views_int": 20000000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "2:35:39"
+    },
+    {
+     "title": "Viaje por el universo con imágenes reales 4K (Nueva versión) | Documental Completo",
+     "channel": "Sci Media",
+     "views_int": 4400000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "2:18:43"
+    },
+    {
+     "title": "Un Viaje fascinante por el Sistema Solar. Documental",
+     "channel": "HouseofNews",
+     "views_int": 8800,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:08:50"
+    },
+    {
+     "title": "¡El increíble viaje a nuestro Sistema Solar! | Espacio DOCUMENTAL",
+     "channel": "Jodisea",
+     "views_int": 2500000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "1:53:50"
+    },
+    {
+     "title": "Viaje por el universo con imágenes reales 4K | Documental Completo",
+     "channel": "Sci Media",
+     "views_int": 15000000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "1:36:27"
+    },
+    {
+     "title": "El Viaje Imposible a Alfa Centauri: 70 Mil Años de Oscuridad | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 579000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:02:21"
+    },
+    {
+     "title": "Lo que Voyager 1 descubrió al abandonar el sistema solar - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 57000,
+     "age_months_float": 0.46,
+     "age_raw": "2sem",
+     "duration": "3:07:53"
+    },
+    {
+     "title": "Viajando por los planetas del Sistema solar",
+     "channel": "Kosmo ES",
+     "views_int": 3500000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "1:10:47"
+    },
+    {
+     "title": "Un Viaje MAGNÍFICO a NUESTRO SISTEMA SOLAR | DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 398000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:37:54"
+    },
+    {
+     "title": "ZONAS HABITABLES EN EL SISTEMA SOLAR (TITAN, MARTE, VENUS, EUROPA) - Documental",
+     "channel": "Documentales Paleotube",
+     "views_int": 151000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "47:28"
+    },
+    {
+     "title": "VIAJE ESTELAR | Las Maravillas del Sistema Solar",
+     "channel": "Astraway",
+     "views_int": 7400000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "2:37:02"
+    },
+    {
+     "title": "¿Por Qué Es IMPOSIBLE que los Humanos Viajen Más Allá del Sistema Solar? | Documental para Dormir",
+     "channel": "El Silencio del Espacio",
+     "views_int": 250000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:10:07"
+    },
+    {
+     "title": "Los Secretos del Sistema Solar: Un Viaje para Descubrir lo Desconocido | DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 193000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:24:49"
+    }
+   ],
+   "stats": {
+    "n": 17,
+    "median_views": 398000,
+    "max_views": 20000000,
+    "young_lt12m": 4,
+    "young_ge50k": 4,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "Viaje a los límites del Sistema Solar",
+      "channel": "Kosmo ES",
+      "views": 20000000,
+      "age": "3a"
+     },
+     {
+      "title": "Viaje por el universo con imágenes reales 4K | Documental Completo",
+      "channel": "Sci Media",
+      "views": 15000000,
+      "age": "4a"
+     },
+     {
+      "title": "VIAJE ESTELAR | Las Maravillas del Sistema Solar",
+      "channel": "Astraway",
+      "views": 7400000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+      "ratio": 0.65
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "UN VIAJE POR EL SISTEMA SOLAR | DOCUMENTAL 2025",
+      "ratio": 0.71
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Viaje a los límites del Sistema Solar",
+      "ratio": 0.59
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Un Viaje fascinante por el Sistema Solar. Documental",
+      "ratio": 0.73
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "¡El increíble viaje a nuestro Sistema Solar! | Espacio DOCUMENTAL",
+      "ratio": 0.56
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Lo que Voyager 1 descubrió al abandonar el sistema solar - DOCUMENTAL ESPACIO",
+      "ratio": 0.58
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Un Viaje MAGNÍFICO a NUESTRO SISTEMA SOLAR | DOCUMENTAL ESPACIO",
+      "ratio": 0.59
+     },
+     {
+      "planned": "La vida de una estrella",
+      "title": "VIAJE ESTELAR | Las Maravillas del Sistema Solar",
+      "ratio": 0.59
+     }
+    ]
+   }
+  },
+  {
+   "query": "agujeros negros documental para dormir",
+   "results": [
+    {
+     "title": "El Misterio de los Agujeros Negros: un Viaje INCREÍBLE a los Devoradores de Mundos | DOCUMENTAL",
+     "channel": "Jodisea",
+     "views_int": 402000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:20:48"
+    },
+    {
+     "title": "En Busca de Agujeros Negros, Secretos del Universo | Documental Completo en Español",
+     "channel": "FD Engineering Español",
+     "views_int": 645000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "50:35"
+    },
+    {
+     "title": "48 Curiosidades Sobre Agujeros Negros Que Te Harán Pensar | Para Dormir",
+     "channel": "Secretos Nocturnos",
+     "views_int": 9800,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "4:34:01"
+    },
+    {
+     "title": "Viaje al Abismo: Dentro del Agujero Negro Más Grande | Documental para Dormir",
+     "channel": "Cosmos para Dormir con Mateo",
+     "views_int": 300,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:50:05"
+    },
+    {
+     "title": "COSMOS (Agujeros Negros) - Documentales",
+     "channel": "Mega Cosmos",
+     "views_int": 57000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "41:01"
+    },
+    {
+     "title": "El Misterio de los Agujeros de Gusano - Documental Para Dormir",
+     "channel": "Odisea Espacial",
+     "views_int": 4900,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:09:32"
+    },
+    {
+     "title": "Agujeros negros (Documentales sin publicidad)",
+     "channel": "Documentales DC",
+     "views_int": 64000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "50:28"
+    },
+    {
+     "title": "Por esto TON 618 es el AGUJERO NEGRO que NO debería existir | Documental Para Dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 3100,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:04:28"
+    },
+    {
+     "title": "Por esto es IMPOSIBLE entender el ESPACIO-TIEMPO | Documental Para Dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 229000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:43:45"
+    },
+    {
+     "title": "El Mejor Documental Sobre los Agujeros Negros: El Gran Enigma del Universo",
+     "channel": "McEvil100",
+     "views_int": 196000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "1:22:15"
+    },
+    {
+     "title": "Es MUY Probable Que Vivamos DENTRO De Un Agujero Negro | Ciencia Para Dormir",
+     "channel": "Ciencia Para Dormir",
+     "views_int": 8900,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:04:01"
+    },
+    {
+     "title": "El Misterio de los Agujeros Negros: Documental del Universo para Dormir",
+     "channel": "Universo Para Dormir",
+     "views_int": 10000,
+     "age_months_float": 0.69,
+     "age_raw": "3sem",
+     "duration": "2:30:30"
+    },
+    {
+     "title": "Viaje a través de los agujeros negros del Universo: donde el tiempo se rompe - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 21000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "3:06:44"
+    },
+    {
+     "title": "Los Datos Más Curiosos Sobre Agujeros Negros Errantes | Para Dormir",
+     "channel": "Dormir Con Ciencia",
+     "views_int": 4400,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:00:09"
+    },
+    {
+     "title": "¿El Big Bang Es Un Agujero Negro Que Se Expandió En Otra Dimensión? | Ciencia Para Dormir",
+     "channel": "Ciencia Para Dormir",
+     "views_int": 6300,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "2:01:43"
+    },
+    {
+     "title": "Agujeros Negros: El Gran Misterio que Desafía al Universo | Documental",
+     "channel": "Cosmos HD",
+     "views_int": 127000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "54:50"
+    },
+    {
+     "title": "Un segundo en un agujero negro = millones de años en la Tierra - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 17000,
+     "age_months_float": 0.46,
+     "age_raw": "2sem",
+     "duration": "2:46:31"
+    },
+    {
+     "title": "TON 618: El Monstruo que Devora 1,000 Soles al Día | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 15000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:45:08"
+    },
+    {
+     "title": "El Viaje de 10 Mil Millones de Años Hasta TON 618 | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 11000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "2:14:40"
+    },
+    {
+     "title": "Misterios de los Agujeros Negros Para Dormir",
+     "channel": "Odisea Espacial",
+     "views_int": 1800,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:08:04"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 13000,
+    "max_views": 645000,
+    "young_lt12m": 12,
+    "young_ge50k": 2,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "En Busca de Agujeros Negros, Secretos del Universo | Documental Completo en Español",
+      "channel": "FD Engineering Español",
+      "views": 645000,
+      "age": "9m"
+     },
+     {
+      "title": "El Misterio de los Agujeros Negros: un Viaje INCREÍBLE a los Devoradores de Mundos | DOCUMENTAL",
+      "channel": "Jodisea",
+      "views": 402000,
+      "age": "1a"
+     },
+     {
+      "title": "Por esto es IMPOSIBLE entender el ESPACIO-TIEMPO | Documental Para Dormir",
+      "channel": "Ciencia Nocturna",
+      "views": 229000,
+      "age": "9m"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Agujeros negros, explicados con calma",
+      "title": "COSMOS (Agujeros Negros) - Documentales",
+      "ratio": 0.58
+     },
+     {
+      "planned": "Agujeros negros, explicados con calma",
+      "title": "Agujeros negros (Documentales sin publicidad)",
+      "ratio": 0.56
+     }
+    ]
+   }
+  },
+  {
+   "query": "agujeros negros documental",
+   "results": [
+    {
+     "title": "El Misterio de los Agujeros Negros: un Viaje INCREÍBLE a los Devoradores de Mundos | DOCUMENTAL",
+     "channel": "Jodisea",
+     "views_int": 402000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:20:48"
+    },
+    {
+     "title": "En Busca de Agujeros Negros, Secretos del Universo | Documental Completo en Español",
+     "channel": "FD Engineering Español",
+     "views_int": 645000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "50:35"
+    },
+    {
+     "title": "El Mejor Documental Sobre los Agujeros Negros: El Gran Enigma del Universo",
+     "channel": "McEvil100",
+     "views_int": 196000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "1:22:15"
+    },
+    {
+     "title": "El enigma de los agujeros negros",
+     "channel": "Informativos y Documentales",
+     "views_int": 3700,
+     "age_months_float": 156.0,
+     "age_raw": "13a",
+     "duration": "50:01"
+    },
+    {
+     "title": "LOS 10 AGUJEROS NEGROS MÁS GRANDES DEL UNIVERSO - DOCUMENTAL 4K",
+     "channel": "The Curious Español",
+     "views_int": 343000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "16:51"
+    },
+    {
+     "title": "Documental El Universo. Agujeros del Espacio",
+     "channel": "Felipe Antonio",
+     "views_int": 5400,
+     "age_months_float": 156.0,
+     "age_raw": "13a",
+     "duration": "44:05"
+    },
+    {
+     "title": "COSMOS (Agujeros Negros) - Documentales",
+     "channel": "Mega Cosmos",
+     "views_int": 57000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "41:01"
+    },
+    {
+     "title": "Agujeros Negros: El Gran Misterio que Desafía al Universo | Documental",
+     "channel": "Cosmos HD",
+     "views_int": 127000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "54:50"
+    },
+    {
+     "title": "Viaje a los Monstruos del Universo: Descubra el Misterioso Agujero Negro | Documental Espacio",
+     "channel": "Jodisea",
+     "views_int": 1800000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "1:15:22"
+    },
+    {
+     "title": "El Gran Misterio de los AGUJEROS NEGROS | Documental Astronomía",
+     "channel": "Viral Grabber",
+     "views_int": 716000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "54:50"
+    },
+    {
+     "title": "Desmontando el Cosmos 3x02 La búsqueda de los agujeros negros supermasivos",
+     "channel": "Documentales Universo by dem",
+     "views_int": 23000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "43:47"
+    },
+    {
+     "title": "Viaje a través de los agujeros negros del Universo: donde el tiempo se rompe - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 21000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "3:06:44"
+    },
+    {
+     "title": "Documentales BBC. El Universo. Agujeros Negros.",
+     "channel": "Pelis, docus y cosas mías",
+     "views_int": 6900,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "50:23"
+    },
+    {
+     "title": "Los Agujeros Negros NO son lo mas raro del Universo",
+     "channel": "Astrum Español",
+     "views_int": 666000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "57:56"
+    },
+    {
+     "title": "Documental Como Nacio El Universo Y La Formula De Agujeros Negros Albert Einstein",
+     "channel": "Diego Ollej",
+     "views_int": 378,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "51:39"
+    },
+    {
+     "title": "¿Qué Hay Dentro de un Agujero Negro? | Aprende Durmiendo",
+     "channel": "Aprende Ciencia Durmiendo",
+     "views_int": 12000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "1:07:52"
+    },
+    {
+     "title": "¿Cómo nace realmente un agujero negro?",
+     "channel": "Más allá de las estrellas",
+     "views_int": 60000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:07:28"
+    },
+    {
+     "title": "Por esto TON 618 es el AGUJERO NEGRO que NO debería existir | Documental Para Dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 3100,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:04:28"
+    },
+    {
+     "title": "Los Agujeros Negros Documental Canal Odisea",
+     "channel": "the raven king",
+     "views_int": 6900,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "50:01"
+    },
+    {
+     "title": "Agujeros Negros: ¿El Fin de Todo… o el Comienzo de Algo Más? Documental Espacio",
+     "channel": "Jodisea",
+     "views_int": 29000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:24:34"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 43000,
+    "max_views": 1800000,
+    "young_lt12m": 7,
+    "young_ge50k": 3,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "Viaje a los Monstruos del Universo: Descubra el Misterioso Agujero Negro | Documental Espacio",
+      "channel": "Jodisea",
+      "views": 1800000,
+      "age": "3a"
+     },
+     {
+      "title": "El Gran Misterio de los AGUJEROS NEGROS | Documental Astronomía",
+      "channel": "Viral Grabber",
+      "views": 716000,
+      "age": "9a"
+     },
+     {
+      "title": "Los Agujeros Negros NO son lo mas raro del Universo",
+      "channel": "Astrum Español",
+      "views": 666000,
+      "age": "11m"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "El tamaño del universo",
+      "title": "El enigma de los agujeros negros",
+      "ratio": 0.56
+     },
+     {
+      "planned": "Agujeros negros, explicados con calma",
+      "title": "COSMOS (Agujeros Negros) - Documentales",
+      "ratio": 0.58
+     },
+     {
+      "planned": "Agujeros negros, explicados con calma",
+      "title": "Los Agujeros Negros Documental Canal Odisea",
+      "ratio": 0.62
+     }
+    ]
+   }
+  },
+  {
+   "query": "la luna documental",
+   "results": [
+    {
+     "title": "LA LUNA - Nuestra puerta de entrada al universo - Documental HD",
+     "channel": "Weyder",
+     "views_int": 3500000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "51:45"
+    },
+    {
+     "title": "El Poder de la Luna - Documental",
+     "channel": "Docutami",
+     "views_int": 868000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "47:51"
+    },
+    {
+     "title": "Secretos de la Luna | Documental TVE",
+     "channel": "Docu-Enigmas",
+     "views_int": 70000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "50:44"
+    },
+    {
+     "title": "El poder de la luna (Documentales sin publicidad)",
+     "channel": "Documentales DC",
+     "views_int": 298000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "47:53"
+    },
+    {
+     "title": "El Universo -Misterios de la Luna-",
+     "channel": "LoquelaVerdadEsconde.comunidad",
+     "views_int": 337000,
+     "age_months_float": 156.0,
+     "age_raw": "13a",
+     "duration": "44:12"
+    },
+    {
+     "title": "Por eso dicen que la Luna es una obra de ingeniería",
+     "channel": "Sistema Solar para Dormir",
+     "views_int": 286000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:55:50"
+    },
+    {
+     "title": "¿Cómo es REALMENTE la superficie de la Luna? | DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 1300000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:23:13"
+    },
+    {
+     "title": "La luna - La cara oculta de la Tierra Documental en Español",
+     "channel": "iamksc",
+     "views_int": 124000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "52:01"
+    },
+    {
+     "title": "¿Por qué ir a la Luna es tan difícil incluso hoy? | Documental",
+     "channel": "ExplorandoElCosmos",
+     "views_int": 140000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "50:01"
+    },
+    {
+     "title": "La Luna NO Es Lo Que Piensas (35 Verdades Que Desafían Lo Que Crees) | Documental 2025",
+     "channel": "Obscura Nova",
+     "views_int": 75000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:45:16"
+    },
+    {
+     "title": "Documental - Formación de la Luna, nuestro satélite natural.",
+     "channel": "Documentales en español",
+     "views_int": 2300,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "46:29"
+    },
+    {
+     "title": "El Viaje a La Luna | Documental",
+     "channel": "El Egipcio Loco",
+     "views_int": 61000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "52:25"
+    },
+    {
+     "title": "¿Cómo Se Formó La Luna?",
+     "channel": "Planeta Antiguo",
+     "views_int": 35000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "46:14"
+    },
+    {
+     "title": "Desde el lado oculto de la Luna: las imágenes que están sorprendiendo al mundo",
+     "channel": "MILENIO",
+     "views_int": 85000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "4:08"
+    },
+    {
+     "title": "ARTEMIS 2: El ÉPICO AMERIZAJE que marca el inicio de una nueva era lunar de la NASA",
+     "channel": "Relatos Aéreos",
+     "views_int": 851000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "11:28"
+    },
+    {
+     "title": "¿NUNCA llegamos a la LUNA? | Neil Armstrong | Documental",
+     "channel": "Dieck Docs",
+     "views_int": 9700000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "37:12"
+    },
+    {
+     "title": "Apolo: Misiones a la Luna (Documental Completo) | Nat Geo en Español",
+     "channel": "Nat Geo en Español",
+     "views_int": 326000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "1:34:40"
+    },
+    {
+     "title": "LA LUNA - Episodio 2 - Los confines del espacio - Documental HD 720p",
+     "channel": "Weyder",
+     "views_int": 225000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "24:05"
+    },
+    {
+     "title": "LADO OCULTO DE LA LUNA: El inquietante hallazgo que nadie esperaba | Ciencia Para Dormir",
+     "channel": "Ciencia Tardía",
+     "views_int": 634000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "2:38:57"
+    },
+    {
+     "title": "La Historia Oculta de la Luna. Documental HD Español",
+     "channel": "Astro Documentales",
+     "views_int": 1600,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "49:51"
+    },
+    {
+     "title": "ARTEMIS 2: La HUMANIDAD Vuelve a la LUNA tras 53 Años",
+     "channel": "Universo Aburrido",
+     "views_int": 78000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "1:12:48"
+    },
+    {
+     "title": "¿Por qué la Luna Podría Ser la Mayor Obra de Ingeniería de la Historia?",
+     "channel": "Sistema Solar para Dormir",
+     "views_int": 84000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:00:45"
+    }
+   ],
+   "stats": {
+    "n": 22,
+    "median_views": 182500,
+    "max_views": 9700000,
+    "young_lt12m": 7,
+    "young_ge50k": 6,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "¿NUNCA llegamos a la LUNA? | Neil Armstrong | Documental",
+      "channel": "Dieck Docs",
+      "views": 9700000,
+      "age": "1a"
+     },
+     {
+      "title": "LA LUNA - Nuestra puerta de entrada al universo - Documental HD",
+      "channel": "Weyder",
+      "views": 3500000,
+      "age": "6a"
+     },
+     {
+      "title": "¿Cómo es REALMENTE la superficie de la Luna? | DOCUMENTAL ESPACIO",
+      "channel": "Jodisea",
+      "views": 1300000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "marte documental",
+   "results": [
+    {
+     "title": "Marte El Planeta Rojo - Documental",
+     "channel": "Crónicas de Historia",
+     "views_int": 31000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "51:05"
+    },
+    {
+     "title": "MARTE- Documental",
+     "channel": "Mario Pérez - Locutor profesional",
+     "views_int": 1300,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "45:07"
+    },
+    {
+     "title": "Marte - Documental Asombroso",
+     "channel": "BotTrader Pro",
+     "views_int": 253000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "43:48"
+    },
+    {
+     "title": "Así Sería Vivir en Marte: La Realidad de Colonizar el Planeta Rojo | explicado pra dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 36000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:40:29"
+    },
+    {
+     "title": "Marte es alcanzable, pero volver... ¡casi imposible!",
+     "channel": "Astronomía en español",
+     "views_int": 70000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:07:17"
+    },
+    {
+     "title": "EXPEDICIÓN A MARTE National Geographic 2018 FULL HD 720p",
+     "channel": "Documentales Equescorp",
+     "views_int": 3400,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "1:28:17"
+    },
+    {
+     "title": "Marte - ¿Vida en el planeta rojo? | DW Documental",
+     "channel": "DW Documental",
+     "views_int": 8200000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "42:27"
+    },
+    {
+     "title": "ZONAS HABITABLES EN EL SISTEMA SOLAR (TITAN, MARTE, VENUS, EUROPA) - Documental",
+     "channel": "Documentales Paleotube",
+     "views_int": 151000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "47:28"
+    },
+    {
+     "title": "Terraformar Marte National Geographic",
+     "channel": "Documentales España",
+     "views_int": 4900,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "47:02"
+    },
+    {
+     "title": "El Universo. Marte. El Planeta Rojo ! Documental",
+     "channel": "DocuZone !",
+     "views_int": 10000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "44:09"
+    },
+    {
+     "title": "EXPLORANDO MARTE - Documental",
+     "channel": "Documentales Paleotube",
+     "views_int": 24000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "43:58"
+    },
+    {
+     "title": "Camino a Marte Capitulo 3 Mantenerse con vida Documental JC HD",
+     "channel": "joke duff",
+     "views_int": 1500,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "52:19"
+    },
+    {
+     "title": "ESPACIO (Curiosity) Explorando Marte - Documentales",
+     "channel": "Mega Exploración",
+     "views_int": 2600,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "46:03"
+    },
+    {
+     "title": "Rumbo a Marte los Seis minutos de terror del aterrizaje - Documental",
+     "channel": "Documentales321",
+     "views_int": 11000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "45:31"
+    },
+    {
+     "title": "VIAJE A MARTE - Neil Degrasse - Documental HD 720p",
+     "channel": "Weyder",
+     "views_int": 1800000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "52:03"
+    },
+    {
+     "title": "Perseverance Rover Objetivo: Marte - Documental",
+     "channel": "Documentales Paleotube",
+     "views_int": 62000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "1:24:23"
+    },
+    {
+     "title": "LOS ÚLTIMOS DESCUBRIMIENTOS 2024: Un MARAVILLOSO VIAJE al PLANETA MARTE | Documental Espacio",
+     "channel": "Jodisea",
+     "views_int": 1000000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:28:47"
+    },
+    {
+     "title": "Marte tiene un problema fatal y nadie sabe la solución",
+     "channel": "Astrum Español",
+     "views_int": 632000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "51:10"
+    },
+    {
+     "title": "Rumbo a Marte | El Factor Humano | 1080p",
+     "channel": "Cosmos Full HD",
+     "views_int": 9400,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "45:31"
+    },
+    {
+     "title": "Marte: vida, exploración y futuros viajes humanos | SLICE Iberia | DOCUMENTAL COMPLETO",
+     "channel": "SLICE Iberia",
+     "views_int": 22000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "50:00"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 27500,
+    "max_views": 8200000,
+    "young_lt12m": 2,
+    "young_ge50k": 1,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "Marte - ¿Vida en el planeta rojo? | DW Documental",
+      "channel": "DW Documental",
+      "views": 8200000,
+      "age": "2a"
+     },
+     {
+      "title": "VIAJE A MARTE - Neil Degrasse - Documental HD 720p",
+      "channel": "Weyder",
+      "views": 1800000,
+      "age": "7a"
+     },
+     {
+      "title": "LOS ÚLTIMOS DESCUBRIMIENTOS 2024: Un MARAVILLOSO VIAJE al PLANETA MARTE | Documental Espacio",
+      "channel": "Jodisea",
+      "views": 1000000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": []
+   }
+  },
+  {
+   "query": "voyager 1 documental",
+   "results": [
+    {
+     "title": "documania nasa voyager 1 y voyager 2",
+     "channel": "Luis Roman Doniz Abrante",
+     "views_int": 298000,
+     "age_months_float": 144.0,
+     "age_raw": "12a",
+     "duration": "1:31:53"
+    },
+    {
+     "title": "Viaje al Sistema Solar y Más Allá: la Odisea de las Sondas Voyager 1 y 2 | DOCUMENTAL Espacio",
+     "channel": "Jodisea",
+     "views_int": 1100000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "2:44:30"
+    },
+    {
+     "title": "Los Increíbles Descubrimientos de las Sondas Voyager en el Sistema Solar",
+     "channel": "Astrum Español",
+     "views_int": 1000000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "26:29"
+    },
+    {
+     "title": "Viaje más allá del Sistema solar con los Voyager",
+     "channel": "Kosmo ES",
+     "views_int": 1000000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:24:29"
+    },
+    {
+     "title": "Lo que la Voyager detectó en los confines del Sistema Solar",
+     "channel": "Astrum Español",
+     "views_int": 2700000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "50:24"
+    },
+    {
+     "title": "Lo que Voyager 1 descubrió al abandonar el sistema solar - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 57000,
+     "age_months_float": 0.46,
+     "age_raw": "2sem",
+     "duration": "3:07:53"
+    },
+    {
+     "title": "Lo que la VOYAGER encontró al SALIR del Sistema Solar tras 46 años | Documental para dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 745000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "1:58:26"
+    },
+    {
+     "title": "Los Voyager. Un vuelo de millones de años",
+     "channel": "Kosmo ES",
+     "views_int": 44000,
+     "age_months_float": 0.46,
+     "age_raw": "2sem",
+     "duration": "58:54"
+    },
+    {
+     "title": "¿Hasta dónde puede viajar la Voyager 1?",
+     "channel": "TheSimplySpace",
+     "views_int": 196000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:03:42"
+    },
+    {
+     "title": "Sondas Voyager: El Viaje Más LEJANO de la Humanidad – Documental Completo",
+     "channel": "Astro Documentales",
+     "views_int": 32000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "1:31:38"
+    },
+    {
+     "title": "Voyager 1 NUNCA se Congela… y Lleva 49 Años a 270 Bajo Cero | 2 horas para dormir",
+     "channel": "Cosmos Calmado",
+     "views_int": 159000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "2:03:59"
+    },
+    {
+     "title": "La NASA acaba de confirmar que la Voyager 1 encontró algo imposible",
+     "channel": "Neurika",
+     "views_int": 127000,
+     "age_months_float": 0.03,
+     "age_raw": "1d",
+     "duration": "21:09"
+    },
+    {
+     "title": "El Viaje de 90,000 Años: Siguiendo a las Sondas Voyager | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 57000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:59:10"
+    },
+    {
+     "title": "¿Hasta dónde viajará la Voyager 1 antes de morir?",
+     "channel": "GENIAL",
+     "views_int": 106000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "3:00:30"
+    },
+    {
+     "title": "La Verdadera Razón por la que la Voyager 1 No Choca con Nada",
+     "channel": "Cosmos Calmado",
+     "views_int": 2300,
+     "age_months_float": 0.0,
+     "age_raw": "15h",
+     "duration": "2:06:26"
+    },
+    {
+     "title": "Misión Interestelar: Sondas Voyager 1 y 2 | Documental Para Dormir",
+     "channel": "ASTRODATOS",
+     "views_int": 454,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "1:17:01"
+    },
+    {
+     "title": "Documental. El viaje de la humanidad hacia las estrellas. Sondas espaciales",
+     "channel": "HouseofNews",
+     "views_int": 3500,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "34:19"
+    },
+    {
+     "title": "¿Qué pasaría si encendiéramos la cámara de la Voyager 1?",
+     "channel": "Pionero",
+     "views_int": 2000000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "7:11"
+    },
+    {
+     "title": "El viaje de las Voyager en orden cronológico",
+     "channel": "TodoEsRelativo",
+     "views_int": 107000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "9:32"
+    },
+    {
+     "title": "Journey Into Interstellar Space with Voyagers | Space Documentary 2026 (EN)",
+     "channel": "Actual Space",
+     "views_int": 212000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "1:30:41"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 143000,
+    "max_views": 2700000,
+    "young_lt12m": 10,
+    "young_ge50k": 7,
+    "young_lt2k": 1,
+    "top3": [
+     {
+      "title": "Lo que la Voyager detectó en los confines del Sistema Solar",
+      "channel": "Astrum Español",
+      "views": 2700000,
+      "age": "1a"
+     },
+     {
+      "title": "¿Qué pasaría si encendiéramos la cámara de la Voyager 1?",
+      "channel": "Pionero",
+      "views": 2000000,
+      "age": "1a"
+     },
+     {
+      "title": "Viaje al Sistema Solar y Más Allá: la Odisea de las Sondas Voyager 1 y 2 | DOCUMENTAL Espacio",
+      "channel": "Jodisea",
+      "views": 1100000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Viaje más allá del Sistema solar con los Voyager",
+      "ratio": 0.64
+     },
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Lo que Voyager 1 descubrió al abandonar el sistema solar - DOCUMENTAL ESPACIO",
+      "ratio": 0.58
+     }
+    ]
+   }
+  },
+  {
+   "query": "vida de una estrella documental",
+   "results": [
+    {
+     "title": "VIDA Y MUERTE DE LAS ESTRELLAS - DOCUMENTALES HD EN ESPAÑOL",
+     "channel": "DOCUMENTALES HD EN ESPAÑOL",
+     "views_int": 58000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "44:20"
+    },
+    {
+     "title": "LAS ESTRELLAS, EL MEJOR DOCUMENTAL ONLINE",
+     "channel": "Documentales Online",
+     "views_int": 75000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "52:02"
+    },
+    {
+     "title": "Los Secretos de la Creación: Las Estrellas | Documental Universo",
+     "channel": "Viral Grabber",
+     "views_int": 51000,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "57:08"
+    },
+    {
+     "title": "La vida de una estrella: desde el nacimiento hasta la muerte cósmica",
+     "channel": "VIAJE CÓSMICO",
+     "views_int": 2200,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:06"
+    },
+    {
+     "title": "La vida detrás de las estrellas",
+     "channel": "jaime mendoza",
+     "views_int": 655,
+     "age_months_float": 96.0,
+     "age_raw": "8a",
+     "duration": "42:32"
+    },
+    {
+     "title": "Monstruos cósmicos. Viaje a las estrellas",
+     "channel": "Kosmo ES",
+     "views_int": 1400000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:32:55"
+    },
+    {
+     "title": "Ciclo de vida Estelar. (Nacimiento, vida y muerte de una estrella).",
+     "channel": "ConCiencia",
+     "views_int": 365000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "4:29"
+    },
+    {
+     "title": "El universo la via lactea vida de las estrellas",
+     "channel": "edzaba",
+     "views_int": 1500000,
+     "age_months_float": 168.0,
+     "age_raw": "14a",
+     "duration": "1:00:37"
+    },
+    {
+     "title": "Documental HD - Los límites del universo (National geographic)",
+     "channel": "FiSICANDO",
+     "views_int": 4400000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "1:33:19"
+    },
+    {
+     "title": "Los Datos más Asombrosos sobre LAS ESTRELLAS | Documental",
+     "channel": "Descubre el Universo Durmiendo",
+     "views_int": 3000,
+     "age_months_float": 7.0,
+     "age_raw": "7m",
+     "duration": "1:05:06"
+    },
+    {
+     "title": "El universo HD Latino - Vida y muerte de una estrella - Temporada 1 Episodio 10",
+     "channel": "Documentales Del Universo",
+     "views_int": 15000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "44:09"
+    },
+    {
+     "title": "Nuestra propia Estrella en la Tierra | Documental Completo",
+     "channel": "FD Engineering Español",
+     "views_int": 669000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "56:56"
+    },
+    {
+     "title": "Documental - Miguel angel, una super estrella (irrelevante)",
+     "channel": "Su Majestad",
+     "views_int": 1800000,
+     "age_months_float": 156.0,
+     "age_raw": "13a",
+     "duration": "51:59"
+    },
+    {
+     "title": "¿Cuántas Estrellas Hay en el Universo que Nunca Veremos?",
+     "channel": "Cosmos Calmado",
+     "views_int": 29000,
+     "age_months_float": 0.1,
+     "age_raw": "3d",
+     "duration": "2:04:44"
+    },
+    {
+     "title": "Viaje Épico a Nuestras Estrellas Más Cercanas | Documental Espacial",
+     "channel": "Materia Oscura",
+     "views_int": 7000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:11:58"
+    },
+    {
+     "title": "El completo Bestiario de Estrellas: Cada Criatura de Fuego que Llena el Universo - DOCUMENTAL",
+     "channel": "Jodisea",
+     "views_int": 26000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "2:30:19"
+    },
+    {
+     "title": "Polvo de Estrellas Teorias del Origen de la Vida Documental en Español",
+     "channel": "Reginald Peyton",
+     "views_int": 2000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "44:49"
+    },
+    {
+     "title": "¿Quieres saber cómo se forman las estrellas y planetas?",
+     "channel": "Astronomiaweb",
+     "views_int": 218000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "13:12"
+    },
+    {
+     "title": "Las estrellas. Origen, evolución y muerte.",
+     "channel": "Karura GatiK",
+     "views_int": 54000,
+     "age_months_float": 120.0,
+     "age_raw": "10a",
+     "duration": "12:04"
+    }
+   ],
+   "stats": {
+    "n": 19,
+    "median_views": 54000,
+    "max_views": 4400000,
+    "young_lt12m": 4,
+    "young_ge50k": 1,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "Documental HD - Los límites del universo (National geographic)",
+      "channel": "FiSICANDO",
+      "views": 4400000,
+      "age": "6a"
+     },
+     {
+      "title": "Documental - Miguel angel, una super estrella (irrelevante)",
+      "channel": "Su Majestad",
+      "views": 1800000,
+      "age": "13a"
+     },
+     {
+      "title": "El universo la via lactea vida de las estrellas",
+      "channel": "edzaba",
+      "views": 1500000,
+      "age": "14a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "La vida de una estrella",
+      "title": "La vida detrás de las estrellas",
+      "ratio": 0.78
+     },
+     {
+      "planned": "La vida de una estrella",
+      "title": "El universo la via lactea vida de las estrellas",
+      "ratio": 0.6
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "¿Cuántas Estrellas Hay en el Universo que Nunca Veremos?",
+      "ratio": 0.57
+     }
+    ]
+   }
+  },
+  {
+   "query": "lunas de jupiter y saturno oceanos documental",
+   "results": [
+    {
+     "title": "ZONAS HABITABLES EN EL SISTEMA SOLAR (TITAN, MARTE, VENUS, EUROPA) - Documental",
+     "channel": "Documentales Paleotube",
+     "views_int": 151000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "47:28"
+    },
+    {
+     "title": "Increíbles DESCUBRIMIENTOS en las MAYORES LUNAS de JÚPITER | Astrum Español",
+     "channel": "Astrum Español",
+     "views_int": 814000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "47:43"
+    },
+    {
+     "title": "El enigma del planeta (Júpiter) Documental",
+     "channel": "jean Carlos Van Damme",
+     "views_int": 1700,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "44:26"
+    },
+    {
+     "title": "El reino de Saturno:la épica exploración de la sonda Cassini.",
+     "channel": "Documentales DC",
+     "views_int": 55000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "52:22"
+    },
+    {
+     "title": "LAS LUNAS HELADAS DE SATURNO: DOCUMENTAL PARA DORMIR",
+     "channel": "El Sueño de Adán",
+     "views_int": 2000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:40:42"
+    },
+    {
+     "title": "¡Descubre los SECRETOS del planeta SATURNO! DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 424000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:36:49"
+    },
+    {
+     "title": "JUPITER - Planetas del sistema solar - Documental Universo HD",
+     "channel": "Weyder",
+     "views_int": 5500000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "45:05"
+    },
+    {
+     "title": "Urano y Neptuno | Documental",
+     "channel": "Documentales Paleotube",
+     "views_int": 60000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "44:59"
+    },
+    {
+     "title": "Los Satélites de Júpiter y los Secretos del Olimpo | Episodio Completo",
+     "channel": "DocuMundo",
+     "views_int": 9400,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "46:50"
+    },
+    {
+     "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+     "channel": "Jodisea",
+     "views_int": 4100000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:37:08"
+    },
+    {
+     "title": "¡Un INCREÍBLE Viaje a los MISTERIOS del Planeta Júpiter! | DOCUMENTAL Sistema Solar",
+     "channel": "Jodisea",
+     "views_int": 410000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:45:37"
+    },
+    {
+     "title": "SATURNO - Documental Universo HD 1080p",
+     "channel": "Weyder",
+     "views_int": 3800000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "45:01"
+    },
+    {
+     "title": "Ciencia Al Desnudo Júpiter | Documental Completo | Documental Universo",
+     "channel": "Sever Documental",
+     "views_int": 5800,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "46:48"
+    },
+    {
+     "title": "Desmontando el Cosmos 4x04 Júpiter Secretos del sistema solar",
+     "channel": "Documentales Universo by dem",
+     "views_int": 16000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "43:43"
+    },
+    {
+     "title": "FORMACIÓN del SISTEMA SOLAR [DOCUMENTAL del UNIVERSO y COSMOS HD en Español National Geographic]",
+     "channel": "VidBang TV",
+     "views_int": 26000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "44:46"
+    },
+    {
+     "title": "TITÁN: la luna de SATURNO con mares lagos y lluvia",
+     "channel": "Astrum Español",
+     "views_int": 854000,
+     "age_months_float": 72.0,
+     "age_raw": "6a",
+     "duration": "18:46"
+    },
+    {
+     "title": "Ganimedes: una Luna más grande que Mercurio",
+     "channel": "Odisea Espacial",
+     "views_int": 42000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:11:06"
+    },
+    {
+     "title": "El universo HD Latino - Jupiter el Planeta Gigante - Temporada 1 Episodio 4",
+     "channel": "Documentales Del Universo",
+     "views_int": 28000,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "44:07"
+    },
+    {
+     "title": "GANIMEDES, la única LUNA con CAMPO MAGNÉTICO del Sistema Solar | Documentales de ciencia Astrum",
+     "channel": "Astrum Español",
+     "views_int": 262000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "10:53"
+    },
+    {
+     "title": "Las 4 LUNAS de Júpiter QUE PARECEN PLANETAS",
+     "channel": "CienciaDeSofa",
+     "views_int": 693000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "14:34"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 105500,
+    "max_views": 5500000,
+    "young_lt12m": 3,
+    "young_ge50k": 0,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "JUPITER - Planetas del sistema solar - Documental Universo HD",
+      "channel": "Weyder",
+      "views": 5500000,
+      "age": "6a"
+     },
+     {
+      "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+      "channel": "Jodisea",
+      "views": 4100000,
+      "age": "2a"
+     },
+     {
+      "title": "SATURNO - Documental Universo HD 1080p",
+      "channel": "Weyder",
+      "views": 3800000,
+      "age": "7a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "Un viaje a escala por el sistema solar (Sol de 1 metro)",
+      "title": "Un Viaje EXCEPCIONAL al SISTEMA SOLAR | Documental Espacio 2024",
+      "ratio": 0.65
+     }
+    ]
+   }
+  },
+  {
+   "query": "universo para dormir",
+   "results": [
+    {
+     "title": "100 Maravillas Del Universo Para Dormir | Ciencia Relajante Del Espacio",
+     "channel": "Dormir Con Ciencia",
+     "views_int": 198000,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "2:26:28"
+    },
+    {
+     "title": "CURIOSIDADES del UNIVERSO para DORMIR",
+     "channel": "Cosmos Sin Límites",
+     "views_int": 559000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:31:50"
+    },
+    {
+     "title": "3 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO (v. 57EIcvl01qI)",
+     "channel": "Jodisea",
+     "views_int": 334000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:27:23"
+    },
+    {
+     "title": "El Universo Para Sanar Mientras Duermes | Música para Dormir Profunda, Curación de Frecuencia Hz",
+     "channel": "Tranquil Relax",
+     "views_int": 5500000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "3:56:10"
+    },
+    {
+     "title": "4 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO: Un Viaje INCREÍBLE al Espacio | DOCU",
+     "channel": "Jodisea",
+     "views_int": 1500000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "3:56:23"
+    },
+    {
+     "title": "2 Horas de Datos Asombrosos del Universo Para Dormir",
+     "channel": "Odisea Espacial",
+     "views_int": 60000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "2:11:10"
+    },
+    {
+     "title": "Los Datos Más Relajantes Sobre El Universo | Astronomía Para Dormir",
+     "channel": "Dormir Con Ciencia",
+     "views_int": 121000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:35:23"
+    },
+    {
+     "title": "3 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO (v. xb0fERG5PV4)",
+     "channel": "Jodisea",
+     "views_int": 307000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:26:23"
+    },
+    {
+     "title": "Curiosidades del Universo para Dormir | Relájate y Descansa",
+     "channel": "Cosmos Sin Límites",
+     "views_int": 55000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "51:46"
+    },
+    {
+     "title": "3 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO (v. wgQ8g_fVDwI)",
+     "channel": "Jodisea",
+     "views_int": 806000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "3:10:28"
+    },
+    {
+     "title": "[Duérmete Inmediatamente] Música PARA DORMIR PROFUNDO para Aliviar el Insomnio y Dejar de Pensar",
+     "channel": "Soul Healing Música",
+     "views_int": 9900000,
+     "age_months_float": 48.0,
+     "age_raw": "4a",
+     "duration": "3:46:57"
+    },
+    {
+     "title": "¿De dónde venimos? | Ciencia para dormir: Un viaje por el universo",
+     "channel": "Date un Vlog",
+     "views_int": 1300000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "41:38"
+    },
+    {
+     "title": "3 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO (v. 3UjqtOzAROM)",
+     "channel": "Jodisea",
+     "views_int": 247000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "3:12:04"
+    },
+    {
+     "title": "3 horas de Fascinantes Datos sobre el Universo para Ayudarte a Dormir Rápido: Un VIAJE al ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 81000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:11:51"
+    },
+    {
+     "title": "3 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO (v. SS_lR_dke0M)",
+     "channel": "Jodisea",
+     "views_int": 600000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "3:24:00"
+    },
+    {
+     "title": "Música Relajante para Dormir y Meditar sin Estrés - Planetas Estrellas Cosmos - Videos Universo HD",
+     "channel": "Sounds & Nature",
+     "views_int": 191000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "4:49:37"
+    },
+    {
+     "title": "Los Datos Más Relajantes Del Espacio Para Dormir | Ciencia Tranquila",
+     "channel": "Dormir Con Ciencia",
+     "views_int": 311000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:17:51"
+    },
+    {
+     "title": "4 horas de datos sorprendentes sobre el universo para dormir",
+     "channel": "Odisea Espacial",
+     "views_int": 23000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "4:32:36"
+    },
+    {
+     "title": "Entre Galaxias Solo Hay Oscuridad y Millones de Años | Documental Para Dormir",
+     "channel": "Espacio Antes de Dormir",
+     "views_int": 103000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:25:53"
+    },
+    {
+     "title": "Increíbles Datos sobre el Universo que No Te Contaron | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 7800,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "2:27:54"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 277000,
+    "max_views": 9900000,
+    "young_lt12m": 8,
+    "young_ge50k": 7,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "[Duérmete Inmediatamente] Música PARA DORMIR PROFUNDO para Aliviar el Insomnio y Dejar de Pensar",
+      "channel": "Soul Healing Música",
+      "views": 9900000,
+      "age": "4a"
+     },
+     {
+      "title": "El Universo Para Sanar Mientras Duermes | Música para Dormir Profunda, Curación de Frecuencia Hz",
+      "channel": "Tranquil Relax",
+      "views": 5500000,
+      "age": "4a"
+     },
+     {
+      "title": "4 Horas De Datos Asombrosos Del UNIVERSO Para DORMIR RÁPIDO: Un Viaje INCREÍBLE al Espacio | DOCU",
+      "channel": "Jodisea",
+      "views": 1500000,
+      "age": "2a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "El tamaño del universo",
+      "title": "Los Datos Más Relajantes Sobre El Universo | Astronomía Para Dormir",
+      "ratio": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "query": "tamaño del universo documental",
+   "results": [
+    {
+     "title": "TAMAÑO REAL DEL UNIVERSO - Documental 4K",
+     "channel": "The Curious Español",
+     "views_int": 355000,
+     "age_months_float": 10.0,
+     "age_raw": "10m",
+     "duration": "1:11:33"
+    },
+    {
+     "title": "JAMES WEBB: Así reveló la auténtica inmensidad del universo",
+     "channel": "Ecos del Cosmos",
+     "views_int": 193000,
+     "age_months_float": 6.0,
+     "age_raw": "6m",
+     "duration": "2:40:59"
+    },
+    {
+     "title": "Un Viaje INCREÍBLE a los Descubrimientos más HERMOSOS del Universo por JAMES WEBB Documental Espacio",
+     "channel": "Jodisea",
+     "views_int": 3200000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "1:12:03"
+    },
+    {
+     "title": "Qué Tan Grande Es El Universo Comparado Con Nuestra Galaxia | Documental Para Dormir",
+     "channel": "Espacio Antes de Dormir",
+     "views_int": 108000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "3:22:15"
+    },
+    {
+     "title": "Más allá de lo imaginable: ¡Los descubrimientos más locos del Universo observable! | Documental",
+     "channel": "Jodisea",
+     "views_int": 551000,
+     "age_months_float": 24.0,
+     "age_raw": "2a",
+     "duration": "1:14:45"
+    },
+    {
+     "title": "La asombrosa verdad sobre los billones de galaxias | Documental Para Dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 151000,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "3:00:44"
+    },
+    {
+     "title": "La Aterradora Verdad sobre Nuestro Tamaño en el Universo | Estamos Solos… o Peor…",
+     "channel": "Abyx Cosmos Español",
+     "views_int": 46000,
+     "age_months_float": 5.0,
+     "age_raw": "5m",
+     "duration": "1:47:42"
+    },
+    {
+     "title": "¿Qué tan grande es el universo",
+     "channel": "Aburrida Ciencia",
+     "views_int": 315000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:11:53"
+    },
+    {
+     "title": "Entre Galaxias Solo Hay Oscuridad y Millones de Años | Documental Para Dormir",
+     "channel": "Espacio Antes de Dormir",
+     "views_int": 103000,
+     "age_months_float": 4.0,
+     "age_raw": "4m",
+     "duration": "2:25:53"
+    },
+    {
+     "title": "¿Qué Tan Grande Es el Universo Comparado con Nuestra Galaxia?",
+     "channel": "Aprende Ciencia Durmiendo",
+     "views_int": 26000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "1:27:14"
+    },
+    {
+     "title": "¿Qué tan grande es el universo? | explicado para dormir",
+     "channel": "Ciencia Relajada para Dormir",
+     "views_int": 28000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:10:11"
+    },
+    {
+     "title": "El Universo que ves ya no existe - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 30000,
+     "age_months_float": 1.0,
+     "age_raw": "1m",
+     "duration": "1:37:23"
+    },
+    {
+     "title": "Las dimensiones del universo - Nuestro lugar y el misterio del espacio",
+     "channel": "Andreas en el Espacio",
+     "views_int": 17000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:53:22"
+    },
+    {
+     "title": "Por esto es IMPOSIBLE entender el ESPACIO-TIEMPO | Documental Para Dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 229000,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "1:43:45"
+    },
+    {
+     "title": "¿En qué se expande el UNIVERSO si no hay nada fuera de él? | Documental Espacial",
+     "channel": "Materia Oscura",
+     "views_int": 81000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "1:40:14"
+    },
+    {
+     "title": "¿Qué hay al otro lado del UNIVERSO? | Documental Espacial",
+     "channel": "Materia Oscura",
+     "views_int": 58000,
+     "age_months_float": 12.0,
+     "age_raw": "1a",
+     "duration": "3:24:00"
+    },
+    {
+     "title": "Confirmado el verdadero tamaño del universo | Documental Para Dormir",
+     "channel": "Ciencia Nocturna",
+     "views_int": 4400,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "2:09:05"
+    },
+    {
+     "title": "El Universo podría estar ocultando algo inmenso - DOCUMENTAL ESPACIO",
+     "channel": "Jodisea",
+     "views_int": 7200,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "3:08:39"
+    },
+    {
+     "title": "El Verdadero Tamaño del Espacio Es Aterrador",
+     "channel": "Documental Galáctico",
+     "views_int": 191000,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "49:43"
+    },
+    {
+     "title": "La Verdadera Escala del Universo: Desde la Tierra Hasta el Borde de Todo",
+     "channel": "Aprende Ciencia Durmiendo",
+     "views_int": 7800,
+     "age_months_float": 2.0,
+     "age_raw": "2m",
+     "duration": "1:31:09"
+    }
+   ],
+   "stats": {
+    "n": 20,
+    "median_views": 92000,
+    "max_views": 3200000,
+    "young_lt12m": 14,
+    "young_ge50k": 8,
+    "young_lt2k": 0,
+    "top3": [
+     {
+      "title": "Un Viaje INCREÍBLE a los Descubrimientos más HERMOSOS del Universo por JAMES WEBB Documental Espacio",
+      "channel": "Jodisea",
+      "views": 3200000,
+      "age": "3a"
+     },
+     {
+      "title": "Más allá de lo imaginable: ¡Los descubrimientos más locos del Universo observable! | Documental",
+      "channel": "Jodisea",
+      "views": 551000,
+      "age": "2a"
+     },
+     {
+      "title": "TAMAÑO REAL DEL UNIVERSO - Documental 4K",
+      "channel": "The Curious Español",
+      "views": 355000,
+      "age": "10m"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "El tamaño del universo",
+      "title": "TAMAÑO REAL DEL UNIVERSO - Documental 4K",
+      "ratio": 0.61
+     },
+     {
+      "planned": "El tamaño del universo",
+      "title": "¿Qué tan grande es el universo",
+      "ratio": 0.69
+     },
+     {
+      "planned": "El tamaño del universo",
+      "title": "¿Qué tan grande es el universo? | explicado para dormir",
+      "ratio": 0.67
+     },
+     {
+      "planned": "El tamaño del universo",
+      "title": "¿Qué hay al otro lado del UNIVERSO? | Documental Espacial",
+      "ratio": 0.66
+     },
+     {
+      "planned": "El tamaño del universo",
+      "title": "Confirmado el verdadero tamaño del universo | Documental Para Dormir",
+      "ratio": 0.67
+     }
+    ]
+   }
+  },
+  {
+   "query": "estrella de belen explicacion astronomica",
+   "results": [
+    {
+     "title": "La verdad científica sobre la Estrella de Belén: ¿Mito o realidad astronómica?",
+     "channel": "Magisterium Levy",
+     "views_int": 3400,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "10:43"
+    },
+    {
+     "title": "La estrella de Belén: posibles explicaciones astronómicas",
+     "channel": "TITO VIVAS",
+     "views_int": 4300,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "28:09"
+    },
+    {
+     "title": "La Estrella de Belén: Lo Que la Astronomía, la Historia y las Escrituras Realmente Revelan",
+     "channel": "La Biblia Simplificada",
+     "views_int": 267,
+     "age_months_float": 3.0,
+     "age_raw": "3m",
+     "duration": "13:48"
+    },
+    {
+     "title": "El MISTERIO de la ESTRELLA de BELÉN RESUELTO por un CIENTÍFICO de la NASA",
+     "channel": "EXOPLANETAS Noticias Ciencia y Tecnología",
+     "views_int": 50000,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "17:52"
+    },
+    {
+     "title": "¿Existió realmente la Estrella de Belén?",
+     "channel": "Date un Voltio",
+     "views_int": 110000,
+     "age_months_float": 84.0,
+     "age_raw": "7a",
+     "duration": "5:40"
+    },
+    {
+     "title": "La Estrella de Belén: qué pudo ser realmente según la historia y la astronomía",
+     "channel": "Historias de Énegon",
+     "views_int": 661,
+     "age_months_float": 8.0,
+     "age_raw": "8m",
+     "duration": "1:06:00"
+    },
+    {
+     "title": "¿Qué era la estrella de Belén?",
+     "channel": "Emerson Ayllón",
+     "views_int": 12000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "11:35"
+    },
+    {
+     "title": "Todo sobre la Estrella de Belén: teorías y evidencias",
+     "channel": "Todo Sobre Todo",
+     "views_int": 181,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "9:17"
+    },
+    {
+     "title": "La estrella de Belén entre la leyenda y la Astronomía | Ciencia en Bicicleta | Parque Explora",
+     "channel": "Parque Explora",
+     "views_int": 534,
+     "age_months_float": 132.0,
+     "age_raw": "11a",
+     "duration": "56:37"
+    },
+    {
+     "title": "¿ Existio la ESTRELLA De BELEN ? Segun La CIENCIA",
+     "channel": "Producción Curiosa",
+     "views_int": 2100,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "3:02"
+    },
+    {
+     "title": "El misterio de la estrella de Belén",
+     "channel": "Néstor Armando Alzate - Y lógico",
+     "views_int": 85000,
+     "age_months_float": 36.0,
+     "age_raw": "3a",
+     "duration": "36:23"
+    },
+    {
+     "title": "La Estrella de Belén: La Evidencia Científica que Cambia la Historia",
+     "channel": "Universo Oculto",
+     "views_int": 42,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "10:49"
+    },
+    {
+     "title": "La Estrella de Belén: ¿Fenómeno Cósmico o Milagro? Lo que dice la Ciencia",
+     "channel": "Plenitud Espiritual 369",
+     "views_int": 6,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "11:33"
+    },
+    {
+     "title": "La Estrella de Belén: La Teoría Astronómica que lo Explica Todo",
+     "channel": "Soy Física Extrema",
+     "views_int": 92,
+     "age_months_float": 11.0,
+     "age_raw": "11m",
+     "duration": "9:43"
+    },
+    {
+     "title": "Astronomía Sagrada y Fin de los Tiempos: La Estrella de Belén - Video 2",
+     "channel": "Escatología - Antonio Yagüe",
+     "views_int": 82000,
+     "age_months_float": 144.0,
+     "age_raw": "12a",
+     "duration": "35:35"
+    },
+    {
+     "title": "Lo que la astronomía ocultó sobre la Estrella de Belén por siglos",
+     "channel": "Teoria de lo posible",
+     "views_int": 5,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "2:59"
+    },
+    {
+     "title": "¿Qué fue realmente la estrella de Belén? La ciencia tras el evento bíblico.",
+     "channel": "es de maestros",
+     "views_int": 249,
+     "age_months_float": 9.0,
+     "age_raw": "9m",
+     "duration": "6:45"
+    },
+    {
+     "title": "Estrella de Belén se podrá ver por primera vez en 800 años y ya lo creen un mensaje divino",
+     "channel": "Al Rojo Vivo",
+     "views_int": 1000000,
+     "age_months_float": 60.0,
+     "age_raw": "5a",
+     "duration": "4:27"
+    },
+    {
+     "title": "¿Qué fue la estrella de Belén?",
+     "channel": "Sábados Culturetas",
+     "views_int": 148,
+     "age_months_float": 108.0,
+     "age_raw": "9a",
+     "duration": "3:28"
+    }
+   ],
+   "stats": {
+    "n": 19,
+    "median_views": 661,
+    "max_views": 1000000,
+    "young_lt12m": 11,
+    "young_ge50k": 1,
+    "young_lt2k": 8,
+    "top3": [
+     {
+      "title": "Estrella de Belén se podrá ver por primera vez en 800 años y ya lo creen un mensaje divino",
+      "channel": "Al Rojo Vivo",
+      "views": 1000000,
+      "age": "5a"
+     },
+     {
+      "title": "¿Existió realmente la Estrella de Belén?",
+      "channel": "Date un Voltio",
+      "views": 110000,
+      "age": "7a"
+     },
+     {
+      "title": "El misterio de la estrella de Belén",
+      "channel": "Néstor Armando Alzate - Y lógico",
+      "views": 85000,
+      "age": "3a"
+     }
+    ],
+    "fuzzy_title_matches": [
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "La estrella de Belén: posibles explicaciones astronómicas",
+      "ratio": 0.62
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "¿Existió realmente la Estrella de Belén?",
+      "ratio": 0.55
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "La Estrella de Belén: qué pudo ser realmente según la historia y la astronomía",
+      "ratio": 0.6
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "¿Qué era la estrella de Belén?",
+      "ratio": 0.64
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "Todo sobre la Estrella de Belén: teorías y evidencias",
+      "ratio": 0.58
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "La estrella de Belén entre la leyenda y la Astronomía | Ciencia en Bicicleta | Parque Explora",
+      "ratio": 0.58
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "¿ Existio la ESTRELLA De BELEN ? Segun La CIENCIA",
+      "ratio": 0.56
+     },
+     {
+      "planned": "La vida de una estrella",
+      "title": "El misterio de la estrella de Belén",
+      "ratio": 0.59
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "El misterio de la estrella de Belén",
+      "ratio": 0.56
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "La Estrella de Belén: ¿Fenómeno Cósmico o Milagro? Lo que dice la Ciencia",
+      "ratio": 0.55
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "La Estrella de Belén: La Teoría Astronómica que lo Explica Todo",
+      "ratio": 0.59
+     },
+     {
+      "planned": "La estrella de Belén: ¿qué pudo ser?",
+      "title": "¿Qué fue la estrella de Belén?",
+      "ratio": 0.64
+     }
+    ]
+   }
+  }
+ ]
+}
