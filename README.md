@@ -14,7 +14,8 @@ el 10 y el 20 de diciembre de 2026**.
 Un único canal hacia la fecha:
 
 - **Tema:** historia para dormir, en español.
-- **Formato:** episodios de 90–150 min con voz sintética declarada y guion
+- **Formato:** episodios de 90–150 min narrados con **tu propia voz clonada**
+  (declarada como generada con IA) y guion
   investigado con fuentes.
 - **Apoyo:** Shorts para captar suscriptores y doblaje automático al inglés.
 - **Segundo canal** (ciencia y espacio): se decide el 15 de noviembre según el
@@ -35,7 +36,8 @@ python3 herramientas/ritmo_ypp.py --horas 850 --subs 240 --minutos-por-visita 22
 ## Reglas del proyecto
 
 1. No se publica ningún guion sin revisión humana de los hechos.
-2. Las fuentes van en la descripción de cada episodio y la voz IA se declara.
+2. Las fuentes van en la descripción de cada episodio y se indica que la
+   narración es tu voz generada con IA.
 3. Ningún personaje IA se presenta como experto, y no se tocan salud, finanzas,
    derecho ni política con voz IA.
 4. Nada de sub4sub, compra de visitas o bots.
