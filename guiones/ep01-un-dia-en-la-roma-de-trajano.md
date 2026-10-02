@@ -3,15 +3,21 @@
 | | |
 |---|---|
 | **Estado** | Borrador para revisión humana: comprobar la lista de §B antes de generar la voz |
-| **Extensión** | ~7.100 palabras de narración y 55 pausas ≈ 60–65 min a ritmo pausado (115–125 palabras/min). Para llegar a 90–120 min, ver §E |
+| **Extensión** | ~10.300 palabras en 14 capítulos, con 84 pausas ≈ 85–95 min leído a ritmo pausado (110–120 palabras/min) |
 | **Ambientación** | Roma, un día de octubre del año 112 d. C., durante el reinado de Trajano |
-| **Narración** | Tu voz clonada; segunda persona («tú»), presente, tono bajo y sin sobresaltos |
+| **Narración** | Tu voz grabada (o clonada); segunda persona («tú»), presente, tono bajo y sin sobresaltos. Guía de grabación: [`../docs/grabacion.md`](../docs/grabacion.md) |
 
 ## A. Notas para producir
 
-- **Voz:** genera el audio capítulo a capítulo. Cada salto de párrafo es una pausa
-  de ~1 s; donde aparece `[pausa]`, una de 2–3 s. Si la herramienta no admite
-  etiquetas de pausa, borra `[pausa]` y añade el silencio en el montaje.
+- **Voz:** se graba un archivo por capítulo (`cap00` es la bienvenida, `cap01`–`cap14`
+  los capítulos), siguiendo [`../docs/grabacion.md`](../docs/grabacion.md). Cada
+  salto de párrafo es una pausa de ~1 s y cada `[pausa]` una de 2–3 s. El montaje
+  automático acorta las pausas largas, así que no hace falta cronometrarlas.
+- **Si algún episodio se genera con tu clon de voz** en lugar de grabarlo, añade
+  en la bienvenida, después de «Antes de empezar»: «esta narración usa mi voz
+  generada con inteligencia artificial».
+- **Las cursivas** (*insula*, *prandium*…) son palabras en latín: léelas con
+  calma y sin énfasis especial.
 - **Imágenes:** una cada 30–45 s. Prioriza láminas de dominio público
   (reconstrucciones del siglo XIX, maquetas de Roma, mosaicos y frescos de
   Pompeya y Ostia), mapas y ilustraciones IA con el estilo fijado. Nada de escenas
@@ -22,7 +28,9 @@
 - **Nombres y lugares**, por si la voz los pronuncia mal: Itálica (I-tá-li-ca),
   Bílbilis, Bética, *insula* (ín-su-la), *ientaculum* (ien-tá-cu-lum),
   *prandium* (prán-dium), *strigilis* (strí-gi-lis), *tepidarium*,
-  *frigidarium*, *caldarium*, *triclinium*, Quirinal, Esquilino, Subura.
+  *frigidarium*, *caldarium*, *triclinium*, Quirinal, Esquilino, Frontino,
+  *castella*, *horrea* (hó-rre-a), *saccarii*, *mensores*, *modius*, Calpurnia,
+  Escorpo, *spina*, vestales.
 
 ## B. Lista de comprobación de hechos (antes de grabar)
 
@@ -45,6 +53,17 @@ que son las más fáciles de equivocar:
 14. «Siesta» viene del latín *sexta [hora]*, la hora sexta (Diccionario de la RAE).
 15. ⚠️ Población de Roma: «quizá un millón» es una estimación discutida. El guion la presenta así.
 16. ⚠️ Las horas romanas: el día de sol se dividía en doce horas, que en octubre duraban algo menos de una hora actual.
+17. Diez acueductos en el año 112: los nueve de Frontino más el Aqua Traiana. El Agua Virgen alimenta hoy la Fontana de Trevi.
+18. Frontino, *Sobre los acueductos* I.16 (las pirámides «ociosas») y II.75–76 (tomas ilegales). Nerva le nombró *curator aquarum* en el año 97.
+19. ⚠️ Pendiente de los acueductos: del orden de un palmo (10–30 cm) cada 100 m en muchos tramos.
+20. ⚠️ El puerto de Claudio se empezó en el año 42; las tormentas lo dañaban (Tácito, *Anales* XV.18, año 62). La dársena hexagonal de Trajano está junto al aeropuerto de Fiumicino.
+21. Ostia está a unos 24 km de Roma por la vía Ostiense. La navegación se suspendía en invierno (*mare clausum*).
+22. Epitafio de Claudia: «domum servavit, lanam fecit» (CIL I² 1211).
+23. Plinio el Joven, *Cartas* IV.19: Calpurnia escucha tras una cortina y canta sus versos con la cítara.
+24. ⚠️ Plinio el Joven, *Panegírico* 51: Trajano amplió el Circo Máximo y se sentaba a la vista del pueblo.
+25. El obelisco del Circo Máximo lo llevó Augusto (10 a. C.) y hoy está en la plaza del Popolo. Las carreras tenían siete vueltas, marcadas con huevos y delfines.
+26. Marcial, *Epigramas* X.53: epitafio de Escorpo, muerto antes de los treinta años.
+27. Plinio el Joven, *Cartas* IX.6: la afición al circo y el «favor al color de la túnica».
 
 ## C. Título, miniatura y descripción
 
@@ -63,22 +82,13 @@ colores cálidos. Texto corto: «ROMA, AÑO 112».
 > Desde los carros que cruzan la ciudad antes del alba hasta las termas, la cena
 > y las lámparas que se apagan.
 >
-> Narración con mi voz, generada con IA. El guion está escrito a partir de las
-> fuentes que siguen y se ha revisado a mano. Si encuentras un error, dímelo en
+> Narración con mi voz. El guion está escrito a partir de las fuentes que siguen
+> y se ha revisado a mano.
+> *(Si el episodio se genera con tu clon: «Narración con mi voz, generada con IA».)* Si encuentras un error, dímelo en
 > los comentarios y lo corregiré en la descripción.
 >
-> **Capítulos** (rellenar con los tiempos reales del montaje)
-> 00:00 Bienvenida
-> Antes del amanecer
-> La insula se despierta
-> El primer bocado y los dioses de la casa
-> La salutación
-> Las calles por la mañana
-> El foro nuevo de Trajano
-> La hora sexta
-> Las termas
-> La cena
-> La noche vuelve a Roma
+> **Capítulos**
+> (los genera el montaje con los tiempos reales en `capitulos_youtube.txt`)
 >
 > **Fuentes antiguas**
 > - Juvenal, *Sátiras*, III
@@ -87,6 +97,9 @@ colores cálidos. Texto corto: «ROMA, AÑO 112».
 > - Plinio el Joven, *Cartas*
 > - Estrabón, *Geografía*, V
 > - Frontino, *Sobre los acueductos de Roma*
+> - Tácito, *Anales*, XV
+> - Plinio el Joven, *Panegírico de Trajano*
+> - Epitafio de Claudia (CIL I² 1211)
 > - Augusto, *Res Gestae*
 >
 > **Estudios modernos**
@@ -96,28 +109,22 @@ colores cálidos. Texto corto: «ROMA, AÑO 112».
 
 ## D. Ideas para Shorts (30–60 s)
 
-1. **«¿Por qué decimos siesta?»** — viene de la hora sexta romana (capítulo 7).
-2. **«En Roma los carros estaban prohibidos de día»** — y por eso nadie dormía por la noche (capítulos 1 y 10).
-3. **«El emperador que nació en Sevilla»** — Trajano e Itálica (capítulo 6).
-4. **«Una montaña hecha de ánforas españolas»** — el Monte Testaccio (capítulo 6).
+1. **«¿Por qué decimos siesta?»** — viene de la hora sexta romana (capítulo 9).
+2. **«En Roma los carros estaban prohibidos de día»** — y por eso nadie dormía por la noche (capítulos 1 y 14).
+3. **«El emperador que nació en Sevilla»** — Trajano e Itálica (capítulo 8).
+4. **«Una montaña hecha de ánforas españolas»** — el Monte Testaccio (capítulo 8).
 5. **«Ningún reloj estaba de acuerdo»** — la broma de Séneca y las horas que cambiaban de duración (capítulo 2).
+6. **«La Fontana de Trevi bebe de un acueducto romano»** (capítulo 6).
+7. **«El puerto hexagonal que se ve desde el avión»** (capítulo 7).
+8. **«Fanáticos de un color»** — Plinio y los aficionados al circo (capítulo 11).
 
 ---
 
-## E. Cómo alargarlo a 90–120 minutos
+## E. Ampliación
 
-El plan pide episodios de 90–150 min, porque cuantos más minutos ve cada
-espectador, antes se llega a las 4.000 h. Hay dos opciones:
-
-1. **Añadir cuatro capítulos** de unas 1.300 palabras cada uno, sin cambiar el
-   tono y en el orden del día:
-   - Ostia y el puerto nuevo de Trajano, antes del capítulo 6.
-   - Un incendio en el barrio y los *vigiles* trabajando, al final del capítulo 5.
-   - Una tarde en el Circo Máximo, entre los capítulos 8 y 9.
-   - Las mujeres de Roma: la matrona y la tendera, dentro del capítulo 9.
-2. **Repetir la narración a un volumen más bajo** después del «Buenas noches»,
-   como hacen otros canales del formato. **No recomendado:** es contenido
-   repetido, justo lo que la política de contenido no auténtico penaliza.
+Ampliado de 10 a 14 capítulos. Se han añadido el agua, el río y el puerto, las
+mujeres y el Circo Máximo. El incendio se descartó porque rompe el tono para
+dormir. No se repite narración para alargar el vídeo: sería contenido repetido.
 
 ## F. Guion
 
@@ -130,9 +137,8 @@ Esta noche vamos a viajar muy lejos y muy despacio. No hace falta que prestes
 atención a todo. Si te duermes por el camino, la historia seguirá sin ti, y
 estará bien así.
 
-Antes de empezar, una cosa sincera: esta narración usa mi voz generada con
-inteligencia artificial. El guion está escrito a partir de fuentes antiguas y
-de historiadores modernos, y lo he revisado a mano. Las tienes todas en la
+Antes de empezar, una cosa: todo lo que vas a escuchar está escrito a partir de
+fuentes antiguas y de historiadores modernos. Las tienes todas en la
 descripción.
 
 [pausa]
@@ -571,7 +577,206 @@ Igual que el emperador. Igual que el poeta Marcial. Igual que tantos otros.
 
 [pausa]
 
-### 6. El foro nuevo de Trajano
+### 6. El agua de Roma
+
+Dejamos atrás el ruido de las tiendas y seguimos una calle que sube un poco.
+Al fondo, por encima de los tejados, se ve una línea larga y oscura que cruza el
+cielo de lado a lado. Una fila de arcos de piedra, unos encima de otros, que
+avanza sobre la ciudad sin prisa, como un puente que no terminara nunca.
+
+Es un acueducto.
+
+[pausa]
+
+Por dentro de esa línea de arcos, en lo más alto, corre un canal cubierto. No se
+ve el agua, pero está ahí. Viene desde muy lejos, desde manantiales y ríos de
+las montañas que rodean Roma, a veces a cincuenta, setenta o hasta noventa
+kilómetros de distancia. Y llega hasta aquí sin bombas ni motores, solo gracias a la
+pendiente. Una pendiente tan suave, tan cuidadosamente calculada, que en muchos
+tramos el canal apenas baja un palmo en cada cien metros.
+
+La mayor parte del recorrido no se ve. Los acueductos van casi siempre bajo
+tierra, siguiendo las curvas de las colinas, atravesando la roca por túneles.
+Solo cuando se acercan a la ciudad, al cruzar la llanura, se elevan sobre arcos
+para no perder altura. Y es entonces cuando se vuelven visibles, y la gente que
+llega a Roma por los caminos del este los ve aparecer en el horizonte, largos y
+tranquilos, mucho antes de ver la ciudad.
+
+[pausa]
+
+En este año ciento doce, Roma recibe agua de diez acueductos. El más antiguo,
+el Agua Apia, tiene más de cuatrocientos años, y su canal va casi todo bajo
+tierra. El más moderno es el de Trajano, inaugurado hace tres años. Entre uno y
+otro, generaciones de magistrados y de emperadores han ido añadiendo nuevas
+conducciones: el Agua Marcia, famosa por su agua fría y limpia; el Agua Virgen,
+que todavía hoy, casi dos mil años después, sigue alimentando una de las fuentes
+más conocidas de Roma, la Fontana de Trevi; el Agua Claudia y el Anio Nuevo, que
+entran en la ciudad uno encima del otro, sobre los mismos arcos.
+
+[pausa]
+
+Sabemos mucho sobre estos acueductos gracias a un hombre llamado Sexto Julio
+Frontino. Fue un senador, un militar con experiencia, y unos quince años antes
+de este día que estamos viviendo, el emperador Nerva le nombró responsable de
+las aguas de Roma.
+
+Frontino se tomó el encargo muy en serio. Recorrió los acueductos, midió sus
+caudales, revisó los registros, descubrió fugas y tomas ilegales, y lo puso todo
+por escrito en un pequeño libro que ha llegado hasta nosotros.
+
+En una de sus páginas, Frontino se deja llevar por el orgullo. Compara los
+acueductos de Roma, tan útiles y tan necesarios, con las pirámides de Egipto, a
+las que llama ociosas, y con las obras famosas de los griegos, que según él no
+sirven para nada. Es un comentario muy romano: lo admirable no es lo bello, sino
+lo que sirve.
+
+[pausa]
+
+Cuando el agua llega a la ciudad, entra primero en unos depósitos llamados
+*castella*. Allí se calma, deja caer las impurezas al fondo y se reparte. Desde
+los depósitos salen tuberías de plomo, cada una con un diámetro controlado, que
+llevan el agua a tres destinos distintos.
+
+El primero, las fuentes públicas, como la que escuchábamos esta mañana en la
+esquina. Son gratuitas, están abiertas a todo el mundo y nunca se cierran. El
+agua corre de día y de noche, y lo que sobra limpia las calles y se va por las
+cloacas hacia el río.
+
+El segundo, los edificios públicos: las termas, los estanques ornamentales, los
+grandes jardines.
+
+Y el tercero, las casas particulares. Pero ese privilegio cuesta dinero y
+necesita permiso. Solo las familias más ricas tienen agua corriente en casa, y
+cada concesión se registra con el nombre del titular. Frontino cuenta que muchos
+fontaneros hacían conexiones ilegales a escondidas, a cambio de un pago, y que el
+agua que tendría que llegar a las fuentes públicas desaparecía por el camino.
+
+[pausa]
+
+Mientras pensamos en todo esto, llegamos a otra fuente pública, en una plaza
+pequeña. Es como la de esta mañana: una pila de piedra, un caño de bronce, a
+veces con la forma de una cabeza de león o de un rostro sonriente, por donde sale
+el chorro.
+
+Alrededor hay movimiento. Un aguador llena sus ánforas para venderlas en los pisos
+altos, donde la gente no quiere bajar y subir la escalera cada vez. Un niño mete
+las manos en el agua y se las pasa por la cara. Un perro bebe del borde. Dos
+mujeres conversan mientras esperan su turno, con el cántaro apoyado en la cadera.
+
+El agua cae y cae. El chorro hace un sonido limpio, constante, que tapa un poco el
+ruido de la calle. Si te quedas aquí un rato, sin hacer nada, ese sonido acaba
+ocupándolo todo.
+
+[pausa]
+
+Para los romanos, el agua abundante no es un lujo. Es una forma de entender la
+ciudad. Una ciudad donde cualquiera, rico o pobre, puede beber agua fresca de
+las montañas en cualquier esquina. Donde cada tarde se puede ir a unas termas
+por una moneda pequeña. Donde las calles se limpian solas con el agua que rebosa.
+
+Cuesta imaginar la cantidad de trabajo que hay detrás. Miles de obreros que
+cavaron túneles y levantaron arcos. Esclavos públicos que limpian los canales y
+reparan las tuberías. Funcionarios que vigilan las tomas. Y, todo el tiempo,
+silenciosa, la pendiente, que empuja el agua desde las montañas hasta aquí, gota
+a gota, sin descanso.
+
+Escucha la fuente un momento más.
+
+[pausa]
+
+Ahora sigamos el agua. Vamos a bajar, como ella, hacia el río.
+
+[pausa]
+
+### 7. El río y el puerto
+
+El Tíber pasa por Roma dibujando una gran curva. Sus aguas son de color
+amarillento, cargadas de tierra, y bajan despacio, con remolinos suaves junto a
+las orillas. Los poetas lo llaman a veces el rubio Tíber, por ese color.
+
+Al sur de la ciudad, a los pies de la colina del Aventino, el río se ensancha en
+una zona de muelles. Allí está el puerto fluvial de Roma, el *Emporium*. Es
+una larga orilla de piedra, con escalones que bajan hasta el agua y anillas de
+hierro para amarrar las barcas.
+
+[pausa]
+
+Por el río suben barcazas de fondo plano, cargadas hasta arriba. No navegan a
+vela, porque el río es estrecho y la corriente va en contra. Las arrastran desde
+la orilla, con largas cuerdas, parejas de bueyes y hombres que caminan por un
+camino de sirga. Avanzan muy despacio. A veces se oye el chapoteo del agua
+contra los costados, el crujido de la madera, una voz que marca el ritmo.
+
+Estas barcazas vienen de la costa. Allí, en la desembocadura del Tíber, a poco más
+de veinte kilómetros de aquí, están Ostia y el gran puerto marítimo que el
+emperador Claudio mandó construir, hace ya más de medio siglo, para que los barcos
+grandes no tuvieran que entrar en el río.
+
+Ese puerto, sin embargo, tenía un problema: era demasiado abierto, y las
+tormentas podían dañar los barcos amarrados en él. Por eso Trajano está mandando
+excavar ahora, tierra adentro, una nueva dársena protegida. Tiene una forma
+geométrica perfecta: un hexágono, con seis lados iguales, rodeado de almacenes.
+Todavía hoy, vista desde el aire, esa dársena hexagonal se reconoce entre los
+campos cercanos al aeropuerto de Roma.
+
+[pausa]
+
+A esos puertos llegan barcos de todo el Mediterráneo. Grandes naves de carga
+de Alejandría, en Egipto, llenas de trigo. Barcos del norte de África, de
+Cartago, con más trigo y aceite. Barcos de Hispania, con aceite, vino y salazones.
+Barcos de Grecia, de Asia, de la Galia.
+
+En la costa, el cargamento se pasa de las naves grandes a las barcazas del río.
+Unos trabajadores llamados *saccarii* cargan los sacos de trigo a la espalda, uno
+tras otro, subiendo y bajando por las pasarelas. Otros, los *mensores*, miden el
+grano con un recipiente de madera, un *modius*, y lo anotan todo, para que nadie
+se quede con lo que no le corresponde.
+
+[pausa]
+
+Aquí, en el puerto de Roma, la escena se repite al revés. Las barcazas llegan,
+se amarran, y otra fila de porteadores descarga los sacos y las ánforas y los
+lleva hasta los almacenes.
+
+Los almacenes romanos se llaman *horrea*. Son edificios enormes, de ladrillo,
+organizados alrededor de grandes patios, con decenas de habitaciones
+alargadas, todas iguales, una al lado de otra. Algunas guardan trigo. Otras,
+aceite, vino, legumbres, telas, mármol, papiro. Las paredes son gruesas, para
+mantener el fresco. Las puertas, sólidas, para que nadie entre a robar.
+
+Hay un ir y venir constante: escribanos que toman nota, capataces que dan
+órdenes, carreteros que esperarán a la noche para llevar la mercancía a las
+tiendas de la ciudad.
+
+[pausa]
+
+Sentado en un escalón del muelle, un viejo marinero mira el río. Quizá ha
+navegado muchas veces hasta Alejandría y de vuelta. Quizá cuenta a quien quiera
+escucharle cómo es el faro de esa ciudad, una torre tan alta que su fuego se ve
+desde muy lejos en el mar. Quizá habla de las tormentas del invierno, cuando los
+barcos dejan de navegar y esperan en puerto a que vuelva el buen tiempo.
+
+Porque el mar, para los romanos, tiene estaciones. En los meses de invierno,
+navegar es peligroso, y la mayoría de los barcos se quedan amarrados. Por eso en
+otoño, en días como este de octubre, los puertos están especialmente activos.
+Los últimos cargamentos del año llegan antes de que el mar se cierre.
+
+[pausa]
+
+El río sigue bajando, despacio, amarillo, hacia el mar. Las barcazas siguen
+subiendo, una detrás de otra. Los porteadores siguen cargando. El sol de la
+mañana se refleja en el agua, rompiéndose en pequeñas luces que tiemblan.
+
+Todo lo que Roma come, todo lo que Roma usa, pasa por aquí o por un lugar como
+este. La ciudad entera depende de este movimiento tranquilo y continuo, de
+esta cadena de barcos, de barcazas, de bueyes y de espaldas.
+
+Volvamos ahora hacia el centro. Hay algo que todo el mundo en Roma quiere ver
+estos días.
+
+[pausa]
+
+### 8. El foro nuevo de Trajano
 
 Si seguimos bajando, la calle se ensancha y desemboca en el centro de la ciudad,
 entre las colinas del Capitolio y del Quirinal.
@@ -616,11 +821,9 @@ a una ciudad como esta, cada día.
 
 [pausa]
 
-Roma no puede producir su propia comida. Es demasiado grande. El trigo llega
-por mar desde Egipto, desde el norte de África, desde Sicilia. Desembarca en el
-puerto de Ostia, en la desembocadura del Tíber, y en el nuevo puerto que
-Trajano está mandando construir allí cerca. Luego sube por el río, en barcazas
-arrastradas desde la orilla, hasta los grandes almacenes de la ciudad.
+Roma no puede producir su propia comida. Es demasiado grande. Ya hemos visto
+cómo el trigo sube por el río desde el mar, saco a saco, hasta los grandes
+almacenes de la ciudad.
 
 Una parte de ese grano se reparte gratis. Desde hace mucho tiempo, el Estado
 entrega cada mes una cantidad de trigo a un número fijo de ciudadanos romanos.
@@ -676,7 +879,7 @@ Se acerca la hora sexta. El mediodía.
 
 [pausa]
 
-### 7. La hora sexta
+### 9. La hora sexta
 
 A la hora sexta, Roma baja el ritmo.
 
@@ -724,16 +927,208 @@ Un día sin prisa.
 
 [pausa]
 
-En la ciudad, el reposo dura poco. Hacia la hora séptima u octava, las calles se
-vuelven a animar. Pero ahora el movimiento tiene una dirección distinta. Mucha
-gente deja el trabajo. Y empieza a caminar, sola o con amigos, hacia el mismo
-tipo de lugar.
+En la ciudad, el reposo dura poco. Hacia la hora séptima, las calles se
+vuelven a animar poco a poco.
+
+[pausa]
+
+### 10. Las mujeres de Roma
+
+Volvamos a la insula del tercer piso. A la mujer que esta mañana bajó la primera
+a la fuente, con su cántaro.
+
+Desde entonces no ha parado. Ha comprado pan. Ha barrido la habitación. Ha
+llevado a los niños a la escuela del pórtico. Ha ido al mercado a por verduras,
+regateando el precio de unas coles. Ha cosido un desgarrón en la túnica de su
+marido. Y ahora, mientras la ciudad descansa en la hora sexta, está sentada junto
+a la ventana con una rueca en la mano, hilando lana.
+
+[pausa]
+
+Hilar lana es, para los romanos, el símbolo de la buena esposa. Durante siglos,
+cuando una mujer moría, su familia grababa en la tumba unas pocas palabras para
+recordar sus virtudes. Una de esas inscripciones, muy antigua, dedicada a una
+mujer llamada Claudia, termina con una frase sencilla: «Cuidó de su casa. Hiló
+la lana».
+
+Esa era la imagen ideal: la mujer en casa, con la rueca, cuidando de los hijos
+y de la familia. Pero la realidad de Roma era más variada que la imagen.
+
+[pausa]
+
+Muchas mujeres trabajan fuera de casa. Lo sabemos sobre todo por las
+inscripciones de sus tumbas, que a veces mencionan su oficio. Hay vendedoras de
+pescado, de legumbres, de perfumes. Hay costureras, tejedoras, peluqueras,
+nodrizas. Hay comadronas, que ayudan a dar a luz, y algunas mujeres que ejercen
+como médicas. Hay taberneras y dueñas de pequeños negocios.
+
+En la planta baja de esta misma insula, por ejemplo, la tienda de telas la
+lleva una viuda. Su marido murió hace años y ella siguió con el negocio. Conoce
+a todos los vecinos, sabe quién paga y quién se retrasa, y discute con los
+proveedores con mucha más firmeza de la que tenía su marido.
+
+[pausa]
+
+Las mujeres romanas no votan ni pueden ocupar cargos públicos. Legalmente, durante
+mucho tiempo, han estado bajo la tutela de un hombre: primero el padre, después
+el marido o un tutor. Pero en esta época esa tutela es ya en muchos casos una
+formalidad. Una mujer puede tener sus propios bienes, heredar, comprar, vender,
+dejar testamento. Algunas son muy ricas, y con su dinero pagan templos, pórticos
+o banquetes para su ciudad, y la ciudad les dedica estatuas en agradecimiento.
+
+[pausa]
+
+En la casa del senador que visitamos esta mañana, la señora de la casa, la
+*matrona*, tiene una vida muy distinta a la de la mujer de la insula. No hila
+para vestir a la familia, aunque quizá lo haga a veces, como gesto de
+virtud. Dirige a los esclavos de la casa, lleva las cuentas, organiza las cenas,
+recibe a sus propias amigas, visita a su familia. Sale a la calle en litera, con
+sus esclavas, y va a las termas, a los templos, a los espectáculos.
+
+Plinio el Joven, en una de sus cartas, habla con mucho cariño de su joven
+esposa, Calpurnia. Cuenta que ella lee y relee sus escritos, que se los aprende
+de memoria, y que cuando él lee en público, ella se sienta detrás de una cortina
+para escuchar los aplausos. Cuenta también que pone música a sus versos y los
+canta acompañándose de la cítara, sin que nadie le haya enseñado, guiada solo
+por el amor, que es el mejor maestro.
+
+[pausa]
+
+Las niñas de las familias acomodadas aprenden a leer y a escribir, a veces con
+el mismo maestro que sus hermanos. Se casan muy jóvenes, en muchos casos a
+los catorce o quince años, con hombres bastante mayores. Las de familias pobres
+aprenden lo que necesitan para trabajar y llevar una casa.
+
+Y hay un grupo pequeño de mujeres con un papel muy especial en la ciudad: las
+vestales. Son seis sacerdotisas que viven en una casa junto al foro y cuidan
+del fuego sagrado de Roma, que nunca debe apagarse. Gozan de enormes privilegios
+y de un gran respeto. Cuando pasan por la calle, incluso los magistrados se
+apartan para dejarlas pasar.
+
+[pausa]
+
+En la insula del tercer piso, la mujer deja la rueca un momento. Mira por la
+ventana. Abajo, en la calle, la vida vuelve a moverse después del descanso. Ve a
+su vecina de enfrente tender una túnica en la ventana. Oye a la viuda de la
+tienda de telas reírse con un cliente.
+
+Piensa que esta tarde, cuando los niños vuelvan, irá con ellos a las termas. A
+las de su barrio, más pequeñas que las del emperador, pero más cercanas. Allí
+verá a sus amigas, hablará de sus cosas, descansará un poco en el agua templada.
+
+Vuelve a coger la rueca. La lana gira entre sus dedos, se estira y se convierte
+en hilo, despacio, una vuelta tras otra.
+
+[pausa]
+
+### 11. El Circo Máximo en silencio
+
+Hoy no hay carreras.
+
+Pero vamos a ir de todos modos al lugar donde se celebran, porque incluso vacío,
+en un día corriente, es uno de los espacios más impresionantes de Roma.
+
+[pausa]
+
+El Circo Máximo ocupa un valle largo y estrecho entre dos colinas: a un lado el
+Palatino, donde está el palacio de los emperadores; al otro, el Aventino. Es
+una pista enorme, de unos seiscientos metros de largo, rodeada de gradas por
+todos los lados menos por uno, donde están las cancelas desde las que salen los
+carros al empezar cada carrera.
+
+Las gradas pueden acoger a decenas de miles de personas. Algunos autores
+antiguos hablan de cifras mucho mayores, que quizá exageran. Lo que sí sabemos
+es que Trajano lo ha reformado y ampliado, y que Plinio el Joven, en un discurso
+de alabanza al emperador, celebró que hubiera añadido espacio para miles de
+ciudadanos más, y que el emperador se sentara a la vista del pueblo, entre todos,
+y no apartado en un palco.
+
+[pausa]
+
+En el centro de la pista corre una barrera larga y estrecha, la *spina*,
+decorada con estatuas, pequeños templos y fuentes. Sobre ella se levanta un
+obelisco egipcio, de granito rojo, cubierto de jeroglíficos, que el emperador
+Augusto mandó traer desde Egipto en barco, más de un siglo antes. Hoy ese mismo
+obelisco está en Roma, en otro lugar: en el centro de la plaza del Popolo.
+
+En los extremos de la barrera hay unos marcadores para contar las vueltas: siete
+huevos de piedra y siete delfines de bronce. En cada vuelta de la carrera, se
+baja un huevo y se gira un delfín, para que todo el público sepa cuántas vueltas
+quedan.
+
+[pausa]
+
+Hoy la pista está tranquila. La arena está rastrillada, lisa, de un color
+claro. Un grupo de esclavos la riega con cubos para que no se levante polvo.
+En un extremo, un mozo de cuadra pasea a un caballo al paso, sin carro,
+para que estire las patas. El caballo resopla y sacude la crin.
+
+Debajo de las gradas, en las arcadas exteriores, hay tiendas, tabernas,
+puestos de comida. Hay gente que vive allí, que trabaja allí. Algunos
+adivinos y vendedores de amuletos esperan a los clientes a la sombra.
+
+[pausa]
+
+Los días de carreras todo esto se transforma. Las gradas se llenan desde el
+amanecer. La ciudad entera parece vaciarse hacia el valle. Los carros, tirados
+por cuatro caballos, dan siete vueltas a la pista a una velocidad tremenda, y en
+las curvas, junto a los extremos de la barrera, se producen choques terribles.
+
+Los aurigas compiten por cuatro equipos, las facciones, cada una con su
+color: los blancos, los rojos, los verdes y los azules. Y la gente no apoya
+tanto a un auriga como a un color. Hay familias enteras de verdes y familias
+enteras de azules. Hay quien no come el día de la carrera de los nervios que
+tiene.
+
+Unos años antes de este día, murió un auriga famosísimo llamado Escorpo. Murió
+muy joven, antes de cumplir los treinta años, cuando ya había
+ganado más carreras que casi nadie. El poeta Marcial le escribió un epitafio
+muy sentido, en el que se lamenta de que el destino, contando sus victorias, le
+creyera viejo.
+
+[pausa]
+
+No todo el mundo comparte esa pasión.
+
+Plinio el Joven, en una de sus cartas, cuenta que durante unos días de carreras
+él se quedó en casa, tranquilo, escribiendo y leyendo, y que se alegró de
+estar lejos de aquel ruido. Le asombraba, escribe, que tantos miles de hombres
+adultos quisieran ver una y otra vez, como niños, cómo corren unos caballos y
+cómo unos hombres se suben a unos carros.
+
+Y lo que más le extrañaba era que ni siquiera les importaba la velocidad de los
+caballos ni la habilidad de los aurigas. Les importaba el color de la túnica. Si
+a mitad de la carrera, dice, los colores se intercambiaran, la gente cambiaría
+también de entusiasmo y de bando, y abandonaría a los aurigas y los caballos que
+un momento antes aclamaba.
+
+Plinio escribe todo esto con una sonrisa. Y añade que, en esos días, él disfruta
+de su tiempo libre en silencio, mientras otros lo pierden en lo más inútil.
+
+[pausa]
+
+Hoy, en cualquier caso, no hay que elegir. El circo está en silencio. Solo se
+oye el agua de los cubos sobre la arena, el resoplido del caballo, la voz de
+algún vendedor bajo las arcadas.
+
+Si te sientas un momento en una de las gradas de piedra, todavía templada por el
+sol, puedes mirar hacia arriba y ver, en lo alto del Palatino, los muros del
+palacio imperial. Y hacia abajo, la pista larga y vacía, que se extiende hasta
+perderse en la luz de la tarde.
+
+[pausa]
+
+La luz empieza a dorarse. La sombra de la colina del Aventino se alarga poco a
+poco sobre la arena. La tarde avanza.
+
+Y en toda la ciudad, mucha gente deja su trabajo y empieza a caminar, sola o
+con amigos, hacia el mismo tipo de lugar.
 
 Hacia las termas.
 
 [pausa]
 
-### 8. Las termas
+### 12. Las termas
 
 Para los romanos, ir a las termas por la tarde es casi tan normal como comer.
 Hay baños grandes y pequeños por toda la ciudad, cientos de ellos. Algunos son
@@ -836,7 +1231,7 @@ más importante del día.
 
 [pausa]
 
-### 9. La cena
+### 13. La cena
 
 La cena romana empieza pronto, a media tarde, cuando todavía hay luz. Hacia la
 hora novena o décima. Y puede durar mucho.
@@ -911,7 +1306,7 @@ Llega la hora duodécima. La última del día.
 
 [pausa]
 
-### 10. La noche vuelve a Roma
+### 14. La noche vuelve a Roma
 
 Cuando el sol se pone, Roma cambia otra vez.
 

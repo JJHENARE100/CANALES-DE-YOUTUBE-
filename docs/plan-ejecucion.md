@@ -1,8 +1,9 @@
 # Plan de ejecución: del 2 de octubre de 2026 a la monetización
 
-Plan para el canal recomendado en [`analisis-nichos.md`](analisis-nichos.md):
-**historia para dormir en español**, narrado con tu voz clonada, entre 10 y 20 h a la
-semana. El objetivo es **solicitar el YPP el 10 de diciembre**. Fecha límite: 20
+Plan para los dos canales con más tirón según [`analisis-nichos.md`](analisis-nichos.md):
+**historia para dormir** y **ciencia y espacio**, en español, narrados con tu voz,
+entre 10 y 20 h a la semana. El calendario sirve para los dos canales; cada uno se
+mide por separado. El objetivo es **solicitar el YPP el 10 de diciembre**. Fecha límite: 20
 de diciembre.
 
 ## Hitos y puertas de decisión
@@ -12,7 +13,7 @@ de diciembre.
 | 11 oct | Canal listo y 2 episodios terminados | Cuenta con verificación en dos pasos y funciones avanzadas, identidad visual, 2 episodios y 6 Shorts | Retrasar el lanzamiento como máximo una semana; nunca publicar sin colchón |
 | 12 oct | **Lanzamiento** | 2 episodios publicados el mismo día, más Shorts | — |
 | 1 nov | Primera lectura | ≥ 250 h, ≥ 80 suscriptores, 1 vídeo con > 1.000 visitas, visionado medio ≥ 20 min | Cambiar miniaturas, títulos y los 2 primeros minutos. **No cambiar de nicho** |
-| 15 nov | **Puerta principal** | ≥ 1.000 h, ≥ 300 suscriptores | Si se cumple con holgura: valorar el canal 2 (ciencia y espacio). Si no: todo el tiempo al canal 1 |
+| 15 nov | **Puerta principal** | ≥ 1.000 h, ≥ 300 suscriptores | Si un canal va claramente por detrás del otro, pasarle al que va en ritmo la mayor parte de las horas de la semana |
 | 1 dic | Recta final | ≥ 2.500 h, ≥ 650 suscriptores | Subir el ritmo de Shorts hasta uno diario |
 | **10 dic** | **Solicitar el YPP** | 4.000 h + 1.000 suscriptores, y la lista de §5 completa | Seguir publicando y solicitar en cuanto se cumpla |
 | 20 dic | Fecha límite para solicitar | — | A partir de aquí el objetivo pasa a ser el nivel de *fan funding* y las 8.000 h |
@@ -161,7 +162,7 @@ incluye.
 
 ## 6. Lo que queda fuera de este plan
 
-- **El canal 2 (ciencia y espacio)** solo se decide el 15 de noviembre.
+- **Calendario editorial del canal de ciencia y espacio:** está pendiente de escribir, con el mismo formato que el de historia.
 - **IRPF, IVA y alta de autónomo en España** por los ingresos de YouTube: hay que
   consultarlo con un asesor fiscal antes del primer pago.
 - **Confirmar con un jurista si el artículo 50 del Reglamento europeo de IA se

@@ -11,15 +11,22 @@ el 10 y el 20 de diciembre de 2026**.
 
 ## Decisión
 
-Un único canal hacia la fecha:
+**Dos canales desde ya** (decisión del 2 de octubre), los dos con más tirón de
+la [comparativa](docs/analisis-nichos.md#4-comparativa-de-nichos):
 
-- **Tema:** historia para dormir, en español.
-- **Formato:** episodios de 90–150 min narrados con **tu propia voz clonada**
-  (declarada como generada con IA) y guion
-  investigado con fuentes.
+1. **Historia para dormir**, en español: episodios de 90–150 min.
+2. **Ciencia y espacio**, en español: documentales de 40–90 min.
+
+En los dos:
+
+- **Narración:** **tu voz grabada**, o tu clon cuando no haya tiempo de grabar
+  (en ese caso, declarado como IA).
+- **Guion** investigado y con fuentes.
 - **Apoyo:** Shorts para captar suscriptores y doblaje automático al inglés.
-- **Segundo canal** (ciencia y espacio): se decide el 15 de noviembre según el
-  ritmo del primero.
+
+Cada canal necesita por su cuenta 4.000 h y 1.000 suscriptores. El montaje
+automático (`herramientas/montaje/`) reduce el trabajo por episodio a revisar el
+guion, grabarlo y generar las imágenes.
 
 ## Documentos
 
@@ -28,6 +35,9 @@ Un único canal hacia la fecha:
 | [`docs/analisis-nichos.md`](docs/analisis-nichos.md) | Reglas del YPP en 2026–2027, aritmética de horas, política de contenido no auténtico, comparativa puntuada de 10 nichos, recomendación, probabilidad realista y riesgos |
 | [`docs/plan-ejecucion.md`](docs/plan-ejecucion.md) | Calendario con puertas de decisión, semana 0, ritmo semanal, primeros episodios, presupuesto y lista previa a la solicitud |
 | [`guiones/`](guiones/) | Guiones de los episodios, con la lista de hechos que hay que comprobar, título, descripción e ideas para Shorts |
+| [`docs/grabacion.md`](docs/grabacion.md) | Cómo grabar con tu voz: material, ajustes y la palmada para marcar errores |
+| [`herramientas/montaje/`](herramientas/montaje/) | Exportar el guion, editar el audio y montar el vídeo 1080p con ffmpeg |
+| [`produccion/ep01/`](produccion/ep01/) | Versión para grabar y lista de planos con descripción de imagen del episodio 1 |
 | [`herramientas/ritmo_ypp.py`](herramientas/ritmo_ypp.py) | Calcula qué ritmo diario de horas, visitas y suscriptores hace falta para llegar a tiempo |
 
 ```
