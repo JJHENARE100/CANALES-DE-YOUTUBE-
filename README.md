@@ -27,6 +27,7 @@ Un único canal hacia la fecha:
 |---|---|
 | [`docs/analisis-nichos.md`](docs/analisis-nichos.md) | Reglas del YPP en 2026–2027, aritmética de horas, política de contenido no auténtico, comparativa puntuada de 10 nichos, recomendación, probabilidad realista y riesgos |
 | [`docs/plan-ejecucion.md`](docs/plan-ejecucion.md) | Calendario con puertas de decisión, semana 0, ritmo semanal, primeros episodios, presupuesto y lista previa a la solicitud |
+| [`guiones/`](guiones/) | Guiones de los episodios, con la lista de hechos que hay que comprobar, título, descripción e ideas para Shorts |
 | [`herramientas/ritmo_ypp.py`](herramientas/ritmo_ypp.py) | Calcula qué ritmo diario de horas, visitas y suscriptores hace falta para llegar a tiempo |
 
 ```
