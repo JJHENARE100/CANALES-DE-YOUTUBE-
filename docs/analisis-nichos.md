@@ -164,7 +164,7 @@ débiles: el orden importa más que el decimal.
   Además, el oyente vuelve cada noche, así que las visitas se repiten.
 - **Hueco.** En inglés está saturado de clones
   ([404 Media](https://www.404media.co/ai-generated-boring-history-videos-are-flooding-youtube-and-drowning-out-real-history/)),
-  y YouTube lo vigila. En español no encontramos canales dominantes. Es una señal
+  y YouTube lo vigila. En español no encontramos canales dominantes. **Corregido el 2 de octubre:** la medición en YouTube encontró una docena de canales similares en español, con mucha competencia en temas genéricos como Roma o Constantinopla. Ver [`validacion-temas.md`](validacion-temas.md). Es una señal
   débil y **hay que confirmarla con una búsqueda manual antes de lanzar** (ver
   plan, semana 0).
 - **RPM, el punto débil.**

@@ -108,7 +108,8 @@ que son las más fáciles de equivocar:
 
 ## C. Título, miniatura y descripción
 
-**Opciones de título:**
+**Opciones de título** (revisadas: ya hay «Córdoba en el año 961» y «Córdoba en 929», así que el gancho es Almanzor y el año 1000):
+- Córdoba en tiempos de Almanzor: un día del año 1000 | Historia para dormir
 - Un día en Córdoba, año 1000 | Historia para dormir
 - Despierta en la Córdoba del califato | Historia relajante para dormir
 - Cómo era un día normal en al-Ándalus | Documental para dormir

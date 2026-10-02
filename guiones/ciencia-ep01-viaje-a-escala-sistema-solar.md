@@ -50,7 +50,8 @@ marcados con ⚠️, que son los que cambian o se discuten:
 
 ## C. Título, miniatura y descripción
 
-**Opciones de título:**
+**Opciones de título** (revisadas: la fórmula «¿Qué tan grande es realmente…?» es la que funciona en el nicho):
+- ¿Qué tan grande es REALMENTE el sistema solar? Si el Sol midiera 1 metro | Documental para dormir
 - Un viaje a escala por el sistema solar | Documental tranquilo
 - Si el Sol midiera un metro… | Viaje relajante por el sistema solar
 - Del Sol a la Voyager 1, paso a paso | Ciencia para escuchar con calma

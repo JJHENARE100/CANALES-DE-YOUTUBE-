@@ -77,7 +77,8 @@ cambian o se discuten:
 
 ## C. Título, miniatura y descripción
 
-**Opciones de título:**
+**Opciones de título** (revisadas: el nicho está saturado, así que el gancho es la canica, que no tiene nadie):
+- ¿Qué pasaría si la Tierra se convirtiera en un agujero negro? | Documental para dormir
 - Agujeros negros, explicados con calma | Documental tranquilo
 - Un viaje lento hasta el agujero negro más cercano | Ciencia para escuchar con calma
 - Si la Tierra fuera una canica… | Agujeros negros para dormir

@@ -67,7 +67,8 @@ que son las más fáciles de equivocar:
 
 ## C. Título, miniatura y descripción
 
-**Opciones de título:**
+**Opciones de título** (revisadas: «Un día en la antigua Roma» ya existe y rinde poco, así que el gancho es Hispania):
+- El emperador que vino de Hispania: un día en la Roma de Trajano | Historia para dormir
 - Un día cualquiera en la Roma de Trajano | Historia para dormir
 - Despierta en la Roma del año 112 | Historia relajante para dormir
 - Cómo era un día normal en la antigua Roma | Documental para dormir

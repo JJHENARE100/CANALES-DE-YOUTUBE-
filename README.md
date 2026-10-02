@@ -35,6 +35,7 @@ guion, grabarlo y generar las imágenes.
 | [`docs/analisis-nichos.md`](docs/analisis-nichos.md) | Reglas del YPP en 2026–2027, aritmética de horas, política de contenido no auténtico, comparativa puntuada de 10 nichos, recomendación, probabilidad realista y riesgos |
 | [`docs/plan-ejecucion.md`](docs/plan-ejecucion.md) | Calendario con puertas de decisión, semana 0, ritmo semanal, primeros episodios, presupuesto y lista previa a la solicitud |
 | [`guiones/`](guiones/) | Guiones de los episodios, con la lista de hechos que hay que comprobar, título, descripción e ideas para Shorts |
+| [`docs/validacion-temas.md`](docs/validacion-temas.md) | **Demanda y competencia medidas en YouTube** para los 21 temas, qué ha cambiado y el protocolo para validar cada tema nuevo |
 | [`docs/canal-ciencia.md`](docs/canal-ciencia.md) | Canal de ciencia y espacio: formato, nombres, imágenes reales y calendario hasta el 24 de diciembre |
 | [`docs/grabacion.md`](docs/grabacion.md) | Cómo grabar con tu voz: material, ajustes y la palmada para marcar errores |
 | [`herramientas/montaje/`](herramientas/montaje/) | Exportar el guion, editar el audio y montar el vídeo 1080p con ffmpeg |

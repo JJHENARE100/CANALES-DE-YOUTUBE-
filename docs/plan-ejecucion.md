@@ -87,24 +87,26 @@ Para medir el ritmo en cada revisión hay una calculadora:
 1. No se publica ningún guion sin la revisión humana.
 2. Ningún episodio reutiliza la estructura del anterior palabra por palabra.
 3. Las fuentes van en la descripción.
-4. La descripción indica que la narración es tu voz generada con IA.
+4. Si la narración sale de tu clon, la descripción indica que está generada con IA.
 5. Una escena realista inventada lleva la etiqueta de contenido sintético.
 6. No se borra ni se pone en privado ningún vídeo con horas acumuladas.
 
 ### Primeros episodios propuestos
 
-Mezclan temas universales con otros de interés para España y Latinoamérica:
+Revisados el 2 de octubre con datos de demanda y competencia en YouTube
+([`validacion-temas.md`](validacion-temas.md)). El ángulo hispano es el hueco más
+claro del nicho. Estrenos los lunes:
 
-1. Un día cualquiera en la Roma de Trajano ([guion](../guiones/ep01-un-dia-en-la-roma-de-trajano.md))
-2. Un día en Córdoba, año 1000 ([guion](../guiones/ep02-cordoba-en-el-ano-1000.md))
-3. Tenochtitlan antes de la llegada de Cortés
-4. Mitología griega: del Caos al Olimpo
-5. La vida a bordo de un galeón de Indias
-6. Egipto: cómo se construyó una pirámide
-7. Los caminos del Imperio inca
-8. Un invierno vikingo
-9. Mitología nórdica: del Ginnungagap al Ragnarök
-10. La caída de Constantinopla
+1. 12 oct · **El emperador que vino de Hispania: un día en la Roma de Trajano** ([guion](../guiones/ep01-un-dia-en-la-roma-de-trajano.md))
+2. 19 oct · **Córdoba en tiempos de Almanzor: un día del año 1000** ([guion](../guiones/ep02-cordoba-en-el-ano-1000.md))
+3. 26 oct · La vida a bordo de un galeón español (demanda alta, sin versiones para dormir)
+4. 2 nov · ¿Cómo era un día completo en la Castilla medieval? (sustituye a la mitología nórdica)
+5. 9 nov · Lo que vieron los españoles: Tenochtitlan en 1519, según Bernal Díaz
+6. 16 nov · Egipto contado por los obreros de las pirámides de Guiza
+7. 23 nov · Los caminos del Imperio inca: chasquis y Qhapaq Ñan
+8. 30 nov · Los vikingos en la Península: Sevilla, año 844
+9. 7 dic · Los mitos griegos de Hispania: Gerión, las Hespérides y Gadir (sustituye a «del Caos al Olimpo», que ya existe)
+10. 14 dic · Corsarios y piratas en las noches del Atlántico (sustituye a Constantinopla)
 
 ## 3. Crecimiento sin trampas
 
