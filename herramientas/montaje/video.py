@@ -6,6 +6,11 @@ Cada plano de planos.csv es una imagen con movimiento lento. Hay siete movimient
 forma variada sin repetir el anterior, o se fijan con la columna «movimiento». El
 tiempo de cada capítulo se reparte entre sus planos en proporción a sus palabras.
 
+Clips de vídeo: si la columna «clip» nombra un vídeo (por ejemplo 01-08.mp4,
+generado a partir de la imagen del plano) y está en la carpeta de imágenes, el
+plano empieza con el clip y funde en 1 s a la imagen con movimiento durante el
+resto de su tiempo. Si el clip no está, el plano usa solo la imagen.
+
 Derechos: cada imagen real («REAL:» en «visual», o con «fuente» rellena) necesita
 «licencia» y «atribucion». Si falta alguna, el montaje se detiene, salvo con
 --borrador. Siempre se genera creditos.txt con la procedencia de cada imagen, para
@@ -51,15 +56,37 @@ def es_real(pl: dict) -> bool:
     return pl.get("visual", "").startswith("REAL:") or bool(pl.get("fuente", "").strip())
 
 
+def duracion_clip(ruta: Path) -> float:
+    salida = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "format=duration",
+                             "-of", "csv=p=0", str(ruta)], capture_output=True, text=True, check=True).stdout
+    return float(salida.strip())
+
+
+def imagen_en_movimiento(movimiento: str, frames: int) -> str:
+    return (f"scale={ANCHO * 2}:{ALTO * 2}:force_original_aspect_ratio=increase,crop={ANCHO * 2}:{ALTO * 2},"
+            f"zoompan={MOVIMIENTOS[movimiento].format(n=frames)}:d={frames}:s={ANCHO}x{ALTO}:fps={FPS},setsar=1,format=yuv420p")
+
+
 def renderizar_plano(tarea: dict) -> Path:
     n = max(int(round(tarea["duracion"] * FPS)), 2)
     d = n / FPS
-    filtros = [
-        f"scale={ANCHO * 2}:{ALTO * 2}:force_original_aspect_ratio=increase",
-        f"crop={ANCHO * 2}:{ALTO * 2}",
-        f"zoompan={MOVIMIENTOS[tarea['movimiento']].format(n=n)}:d={n}:s={ANCHO}x{ALTO}:fps={FPS}",
-        f"fade=t=in:st=0:d={FUNDIDO}",
-    ]
+    entradas = ["-i", str(tarea["imagen"])]
+    clip = tarea.get("clip")
+    if clip:
+        cd = min(duracion_clip(clip) * tarea["lentitud"], d)
+        resto = d - cd
+        video_clip = (f"[0:v]setpts={tarea['lentitud']}*PTS,fps={FPS},scale={ANCHO}:{ALTO}:force_original_aspect_ratio=increase,"
+                      f"crop={ANCHO}:{ALTO},setsar=1,format=yuv420p,trim=duration={cd:.3f},setpts=PTS-STARTPTS")
+        entradas = ["-i", str(clip), "-i", str(tarea["imagen"])]
+        if resto >= 2:
+            nb = int(round((resto + 1) * FPS))
+            grafo = (f"{video_clip}[a];[1:v]{imagen_en_movimiento(tarea['movimiento'], nb)}[b];"
+                     f"[a][b]xfade=transition=fade:duration=1:offset={cd - 1:.3f}")
+        else:
+            grafo = f"{video_clip},tpad=stop_mode=clone:stop_duration={resto:.3f}"
+        filtros = [grafo, f"fade=t=in:st=0:d={FUNDIDO}"]
+    else:
+        filtros = [imagen_en_movimiento(tarea["movimiento"], n), f"fade=t=in:st=0:d={FUNDIDO}"]
     if not tarea.get("sin_fundido_final"):
         filtros.append(f"fade=t=out:st={max(d - FUNDIDO, 0):.2f}:d={FUNDIDO}")
     if tarea.get("oscurecer"):
@@ -70,8 +97,9 @@ def renderizar_plano(tarea: dict) -> Path:
             f"drawtext=fontfile='{tarea['tipografia']}':text='{texto_seguro(tarea['rotulo'])}':"
             f"fontcolor=white:fontsize=64:x=(w-text_w)/2:y=h*0.78:"
             f"shadowcolor=black@0.7:shadowx=3:shadowy=3:alpha='{alpha}'")
+    opcion = "-filter_complex" if clip else "-vf"
     subprocess.run(
-        ["ffmpeg", "-v", "error", "-y", "-i", str(tarea["imagen"]), "-vf", ",".join(filtros),
+        ["ffmpeg", "-v", "error", "-y", *entradas, opcion, ",".join(filtros),
          "-frames:v", str(n), "-r", str(FPS), "-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
          "-pix_fmt", "yuv420p", "-threads", "2", str(tarea["salida"])],
         check=True)
@@ -108,6 +136,8 @@ def main() -> None:
     p.add_argument("--tipografia", type=Path, help="archivo .ttf u .otf para los títulos de capítulo")
     p.add_argument("--pantalla-final", type=float, default=0,
                    help="segundos extra al final (imagen oscurecida y música) para la pantalla final de YouTube")
+    p.add_argument("--clip-lentitud", type=float, default=1.0,
+                   help="ralentiza los clips (1.5 = un 50 %% más lentos, más calma)")
     p.add_argument("--borrador", action="store_true", help="monta aunque falten licencias (no publicar)")
     p.add_argument("--salida", type=Path, help="vídeo final (por defecto <carpeta>/video.mp4)")
     p.add_argument("--procesos", type=int, default=max(1, (os.cpu_count() or 2) // 2))
@@ -154,7 +184,9 @@ def main() -> None:
             if mov not in MOVIMIENTOS:
                 mov = rng.choice([m for m in VARIADOS if m != anterior_mov])
             anterior_mov = mov
+            clip = args.imagenes / pl["clip"] if pl.get("clip") else None
             tareas.append({
+                "clip": clip if clip and clip.exists() else None, "lentitud": args.clip_lentitud,
                 "imagen": img, "salida": tmp / f"{pl['plano']}.mp4", "movimiento": mov,
                 "duracion": duracion * int(pl["palabras"]) / peso,
                 "rotulo": c["titulo"] if k == 0 and c["num"] > 0 else None,
@@ -168,7 +200,7 @@ def main() -> None:
         tareas.append({"imagen": tareas[-1]["imagen"], "salida": tmp / "zz_pantalla_final.mp4", "movimiento": "fijo",
                        "duracion": args.pantalla_final, "oscurecer": True, "sin_fundido_final": True})
 
-    print(f"Renderizando {len(tareas)} planos con {args.procesos} procesos…")
+    print(f"Renderizando {len(tareas)} planos ({sum(1 for x in tareas if x.get('clip'))} con clip de vídeo) con {args.procesos} procesos…")
     with ThreadPoolExecutor(args.procesos) as ex:
         clips = list(ex.map(renderizar_plano, tareas))
 

@@ -101,6 +101,24 @@ gentle atmosphere, historical accuracy, no text, no watermark, 16:9
   (acercar, alejar, derecha, izquierda, subir, bajar o fijo). Si se deja vacía,
   se elige uno variado sin repetir el anterior.
 
+### Clips de vídeo (opcional, máximo 10 s)
+
+- **Qué son:** la columna `clip` de `planos.csv` nombra un vídeo corto
+  (`01-08.mp4`) generado en modo imagen a vídeo a partir de la imagen del plano.
+  Su descripción está en `prompt_video` y su prioridad (A o B) en
+  `prioridad_clip`.
+- **Cómo se monta:** si el archivo está en la carpeta de imágenes, el plano
+  empieza con el clip y funde a la imagen con movimiento. Si no está, se usa
+  solo la imagen.
+- **Ritmo:** `--clip-lentitud 1.25` los ralentiza para que vayan con el tono del
+  canal.
+- **Guía de producción:** `guia.py` genera `guia-produccion.md`, con el plan de
+  grabación, la biblia visual y, plano a plano, el texto con el que entra cada
+  imagen y su clip:
+  ```
+  python herramientas/montaje/guia.py guiones/ep01-un-dia-en-la-roma-de-trajano.md produccion/ep01
+  ```
+
 ### 5. Música (opcional)
 
 Descarga una pista tranquila de la **Biblioteca de audio de YouTube** (YouTube
