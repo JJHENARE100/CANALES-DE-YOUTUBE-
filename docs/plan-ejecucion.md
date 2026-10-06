@@ -108,6 +108,15 @@ Para medir el ritmo en cada revisión hay una calculadora:
 5. Una escena realista inventada lleva la etiqueta de contenido sintético.
 6. No se borra ni se pone en privado ningún vídeo con horas acumuladas.
 
+### Bucle semanal de aprendizaje (cada lunes)
+
+Exportar YouTube Studio y pasar `herramientas/analitica/motor.py` en tres modos:
+- `diagnostico`: qué arreglar en cada vídeo;
+- `siguiente`: qué temas van después;
+- `puerta`: solo el 20 de octubre.
+
+Detalle en [`recomendador.md`](recomendador.md).
+
 ### Primeros episodios propuestos
 
 Revisados el 2 de octubre con datos de demanda y competencia en YouTube

@@ -45,6 +45,7 @@ guion, grabarlo y generar las imágenes.
 | [`docs/plan-ejecucion.md`](docs/plan-ejecucion.md) | Calendario con puertas de decisión, semana 0, ritmo semanal, primeros episodios, presupuesto y lista previa a la solicitud |
 | [`guiones/`](guiones/) | Guiones de los episodios, con la lista de hechos que hay que comprobar, título, descripción e ideas para Shorts |
 | [`docs/auditoria-externa-2026-10-02.md`](docs/auditoria-externa-2026-10-02.md) · [`docs/respuesta-auditoria.md`](docs/respuesta-auditoria.md) | Auditoría externa del 2 de octubre y qué se ha hecho con cada punto |
+| [`docs/recomendador.md`](docs/recomendador.md) · [`herramientas/analitica/motor.py`](herramientas/analitica/motor.py) | Cómo funciona el recomendador de YouTube y TikTok aplicado al canal, y el motor de decisión semanal: diagnóstico por vídeo, puerta del 20 de octubre y orden de los próximos temas |
 | [`docs/rpm-y-audiencia.md`](docs/rpm-y-audiencia.md) | CPM y RPM por país y por nicho, de dónde vendrá la audiencia y RPM combinado esperado de cada canal |
 | [`docs/validacion-temas.md`](docs/validacion-temas.md) | **Demanda y competencia medidas en YouTube** para los 21 temas, qué ha cambiado y el protocolo para validar cada tema nuevo |
 | [`docs/canal-ciencia.md`](docs/canal-ciencia.md) | Canal de ciencia y espacio: formato, nombres, imágenes reales y calendario hasta el 24 de diciembre |
