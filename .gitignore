@@ -1,0 +1,7 @@
+produccion/*/*.wav
+produccion/*/*.mp4
+produccion/*/imagenes/
+produccion/*/_planos/
+grabaciones/
+musica/
+__pycache__/
