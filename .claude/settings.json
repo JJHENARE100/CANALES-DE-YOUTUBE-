@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "ask": [
+      "Bash(python -m futuros enviar:*)",
+      "Bash(python3 -m futuros enviar:*)"
+    ],
+    "deny": [
+      "Read(./.env)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "_nota": "Especificaciones de contrato según las fichas oficiales de CME Group. El multiplicador y el tick no cambian salvo aviso de CME; los márgenes sí, y por eso viven aparte en margenes.json con fecha.",
+  "SP500":   {"cme": "MES", "nombre": "Micro E-mini S&P 500",      "multiplicador": 5,   "tick": 0.25, "unidad": "puntos de índice"},
+  "NASDAQ":  {"cme": "MNQ", "nombre": "Micro E-mini Nasdaq-100",   "multiplicador": 2,   "tick": 0.25, "unidad": "puntos de índice"},
+  "GOLD":    {"cme": "MGC", "nombre": "Micro Gold",                "multiplicador": 10,  "tick": 0.10, "unidad": "USD por onza troy"},
+  "OIL.WTI": {"cme": "MCL", "nombre": "Micro WTI Crude Oil",       "multiplicador": 100, "tick": 0.01, "unidad": "USD por barril"},
+  "BTC":     {"cme": "MBT", "nombre": "Micro Bitcoin",             "multiplicador": 0.1, "tick": 5,    "unidad": "USD por bitcoin"}
+}

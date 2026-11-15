@@ -1,0 +1,14 @@
+{
+  "capital_eur": 15000,
+  "eurusd": 1.1081,
+  "eurusd_fecha": "2026-11-13",
+  "margen_capital_max_direccional": 0.25,
+  "margen_capital_max_cobertura": 0.30,
+  "capital_minimo_veces_margen": 3,
+  "riesgo_operacion_objetivo": 0.01,
+  "riesgo_operacion_max": 0.02,
+  "perdida_diaria_max": 0.04,
+  "stops_seguidos_max": 4,
+  "margen_caducidad_dias": 7,
+  "ticket_validez_minutos": 30
+}
