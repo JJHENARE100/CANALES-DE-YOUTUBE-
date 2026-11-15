@@ -1,0 +1,8 @@
+{
+  "_nota": "Margen inicial por contrato en USD, tal como lo publica eToro para tu cuenta. Control de riesgos rechaza cualquier operación cuyo margen falte o tenga más de 7 días. Lo mantiene el agente Contratos CME.",
+  "SP500":   {"margen_inicial_usd": null, "fecha": null, "fuente": null},
+  "NASDAQ":  {"margen_inicial_usd": null, "fecha": null, "fuente": null},
+  "GOLD":    {"margen_inicial_usd": null, "fecha": null, "fuente": null},
+  "OIL.WTI": {"margen_inicial_usd": null, "fecha": null, "fuente": null},
+  "BTC":     {"margen_inicial_usd": null, "fecha": null, "fuente": null}
+}
